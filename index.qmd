@@ -8,27 +8,59 @@ about:
   template: trestles
   image-shape: round
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
-    - icon: journal-bookmark-fill
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=Zq4ASPYAAAAJ&hl=en
     - icon: github
       text: Github
       href: https://github.com/jrojas1003
+    - icon: journal-bookmark-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=Zq4ASPYAAAAJ&hl=en
     - icon: mailbox
       text: Email
       href: mailto:jrojas2@uoregon.edu
 ---
 
 ::: {#hero-heading}
-I am a 3rd Year PhD Student in Economics at University of Oregon.
+I am a 3rd Year PhD Student in Economics at the University of Oregon.
 
 
 
-**Research Interests:** International Trade, Education, Labor
+**Research Interests:** International Trade, Education, Political Economy, Labor
 
 **Download my [CV](CV.pdf)**
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**Research Interests**
+
+- International Trade
+- Political Economy
+- Education
 :::
+
+::: {.column width="50%"}
+**Education**
+
+- PhD in Economics, Expected 2026 
+  *University of Oregon*
+  
+- Ms in Economics, 2021  
+  *Portland State University*
+  
+- BS in Economics, 2019  
+  *Portland State University*
+:::
+
+::::
+
+:::
+
+
+
+
+
+
+
 

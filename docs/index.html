@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.361">
+<meta name="generator" content="quarto-1.4.294">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -46,6 +46,11 @@ ul.task-list li input[type="checkbox"] {
   "panel-placement": "end",
   "type": "overlay",
   "limit": 20,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -69,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Jose Rojas-Fallas</span>
     </a>
@@ -86,7 +91,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./projects/index.html" rel="" target="">
- <span class="menu-text">Projects</span></a>
+ <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./teaching/courses.html" rel="" target="">
@@ -97,9 +102,9 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Bio</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -127,21 +132,17 @@ ul.task-list li input[type="checkbox"] {
     University of Oregon
   </div>
 </div>
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page">
   </div>
 </header>
     <div class="about-links">
-  <a href="https://twitter.com" class="about-link" rel="" target="">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">Twitter</span>
+  <a href="https://github.com/jrojas1003" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">Github</span>
   </a>
   <a href="https://scholar.google.com/citations?user=Zq4ASPYAAAAJ&amp;hl=en" class="about-link" rel="" target="">
     <i class="bi bi-journal-bookmark-fill"></i>
      <span class="about-link-text">Google Scholar</span>
-  </a>
-  <a href="https://github.com/jrojas1003" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
   </a>
   <a href="mailto:jrojas2@uoregon.edu" class="about-link" rel="" target="">
     <i class="bi bi-mailbox"></i>
@@ -150,9 +151,29 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
   <div class="about-contents"><div id="hero-heading">
-<p>I am a 3rd Year PhD Student in Economics at University of Oregon.</p>
-<p><strong>Research Interests:</strong> International Trade, Education, Labor</p>
+<p>I am a 3rd Year PhD Student in Economics at the University of Oregon.</p>
+<p><strong>Research Interests:</strong> International Trade, Education, Political Economy, Labor</p>
 <p><strong>Download my <a href="CV.pdf">CV</a></strong></p>
+<p><br></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><strong>Research Interests</strong></p>
+<ul>
+<li>International Trade</li>
+<li>Political Economy</li>
+<li>Education</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<p><strong>Education</strong></p>
+<ul>
+<li><p>PhD in Economics, Expected 2026 <em>University of Oregon</em></p></li>
+<li><p>Ms in Economics, 2021<br>
+<em>Portland State University</em></p></li>
+<li><p>BS in Economics, 2019<br>
+<em>Portland State University</em></p></li>
+</ul>
+</div>
+</div>
 </div></div>
 </div>
 
@@ -233,10 +254,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -246,8 +266,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -260,6 +289,81 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        for (let i = 0; i < 2; i++) {
+          container.appendChild(note.children[i].cloneNode(true));
+        }
+        return container.innerHTML
+      } else {
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      return note.innerHTML;
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -303,6 +407,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -390,13 +495,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">© Copyright 2024, Jose A. Rojas Fallas</div>   
+    <div class="nav-footer-left">
+<p>© Copyright 2024, Jose A. Rojas Fallas</p>
+</div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
-    <div class="nav-footer-right">This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</div>
+    <div class="nav-footer-right">
+<p>This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</p>
+</div>
   </div>
 </footer>
+
 
 
 

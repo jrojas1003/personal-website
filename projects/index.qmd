@@ -1,11 +1,14 @@
 ---
-title: "Projects"
-subtitle: "Here is an overview of the project I have been working on."
+name: test
 ---
 
-## Field Paper
+## Publications
 
-**Does the Global South Import Ideology Shifts? Evidence from Costa Rica and CAFTA-DR** [[PDF]](Field-Paper-CAFTA-and-Political-Lean-in-CRC.pdf)
+[***Wage Differences Matter: An Experiment of Social Comparison and Effort Provision when Wages Increase or Decrease***](Wage-Differences-Matter-An-Experiment-of-Social-Comparison-and-Effort-Provision.pdf) with [J. Forrest Williams](https://www.pdx.edu/economics/j-forrest-williams), *Games (2020)*
+
+## Working Papers
+
+***Does the Global South Import Ideology Shifts? Evidence from Costa Rica and CAFTA-DR*** [[PDF]](Field-Paper-CAFTA-and-Political-Lean-in-CRC.pdf)
 
 Has increased access to international markets contributed to political ideology shifts in developing economies?
 Does ones ex-ante opinion on international trade impact their political leaning after international market access has begun?
@@ -18,8 +21,8 @@ Results align with previous research and show that increased import competition 
 Interestingly, this effect diminishes as support for trade increases. 
 This finding gives further evidence of links between adverse economic shocks to ideological shifts while adding the role of economic agent perception of trade and their interpretation of outcomes from it.
 
-## Project II
+## Works in Progress
 
-A description of Project 
+***eDACAtion: Are Higher Education Attainment Benefits Equally Distributed?***
 
 
