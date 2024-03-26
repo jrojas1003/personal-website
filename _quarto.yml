@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Jose Rojas-Fallas"
+
+  page-footer:
+    left: "&copy; Copyright 2024, Jose A. Rojas Fallas"
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+
+      - href: projects/index.qmd
+        text: Projects
+        
+      - href: teaching/courses.qmd
+        text: Teaching
+        
+      - href: about.qmd
+        text: Bio
+
+format:
+  html:
+    theme:
+      - styles.scss
+    mainfont: Tauri
+    toc: true
+    page-layout: full 
+    
+
+
+
