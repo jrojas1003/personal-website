@@ -5,6 +5,7 @@ project:
 website:
   page-navigation: true
   title: "Jose Rojas-Fallas"
+  favicon: UO-icon.png
 
   page-footer:
     left: "&copy; Copyright 2024, Jose A. Rojas Fallas"
