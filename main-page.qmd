@@ -1,5 +1,5 @@
 ---
-title: "Jose Rojas Fallas"
+title: "Jose Alberto Rojas Fallas"
 subtitle: "4th Year PhD Student, Economics"
 description: "University of Oregon"
 image: Jose_Profile_Pic.jpeg
@@ -22,9 +22,7 @@ about:
 ::: {#hero-heading}
 I am a 4th Year PhD Student in Economics at the University of Oregon.
 
-
-
-**Research Interests:** International Trade, Education, Political Economy, Labor
+Originally from San Jose, Costa Rica.
 
 **Download my [CV](CV.pdf)**
 
@@ -33,7 +31,10 @@ I am a 4th Year PhD Student in Economics at the University of Oregon.
 :::: {.columns}
 
 ::: {.column width="50%"}
-**Research Interests**
+
+::: {.text-center}
+#### **Research Interests**
+:::
 
 - Development
 - International Trade
@@ -43,7 +44,10 @@ I am a 4th Year PhD Student in Economics at the University of Oregon.
 :::
 
 ::: {.column width="50%"}
-**Education**
+
+::: {.text-center}
+#### **Education**
+:::
 
 - PhD in Economics, Expected 2026 
   *University of Oregon*

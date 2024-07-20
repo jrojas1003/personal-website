@@ -8,7 +8,7 @@ title: "I Read for Fun & Here Are My Thoughts"
 
 ## [**The Kill Artist**](https://bookshop.org/p/books/the-kill-artist-daniel-silva/11084043?ean=9780451209337)
 
-Example text
+Review Here
 
 :::
 
@@ -16,7 +16,7 @@ Example text
 
 ## [**The English Assassin**](https://bookshop.org/p/books/the-english-assassin-daniel-silva/11083314?ean=9780451208187)
 
-Example text
+Review Here
 
 :::
 
@@ -24,7 +24,7 @@ Example text
 
 ## [**The Confessor**](https://bookshop.org/p/books/the-confessor-daniel-silva/11085063?ean=9780451211484)
 
-Example text
+Review Here
 
 :::
 
@@ -32,6 +32,6 @@ Example text
 
 ## [**A Death in Vienna**](https://bookshop.org/p/books/a-death-in-vienna-daniel-silva/11085899?ean=9780451213181)
 
-Example text
+Review Here
 
 :::
