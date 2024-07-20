@@ -4,7 +4,7 @@ project:
 
 website:
   page-navigation: true
-  title: "Jose Rojas-Fallas"
+  title: "Jose Rojas Fallas"
   favicon: UO-icon.png
 
   page-footer:
@@ -13,17 +13,17 @@ website:
 
   navbar:
     right:
-      - href: index.qmd
+      - href: main-page.qmd
         text: Home
 
-      - href: projects/index.qmd
+      - href: projects/research-agenda.qmd
         text: Research
         
       - href: teaching/courses.qmd
         text: Teaching
         
-      - href: about.qmd
-        text: Bio
+      - href: hobby/book-reviews.qmd
+        text: Book Reviews
 
 format:
   html:

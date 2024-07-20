@@ -1,8 +1,8 @@
 ---
-title: "Jose Rojas-Fallas"
-subtitle: "3rd Year PhD Student, Economics"
+title: "Jose Rojas Fallas"
+subtitle: "4th Year PhD Student, Economics"
 description: "University of Oregon"
-image: Duck_Profile_Pic.jpg
+image: Jose_Profile_Pic.jpeg
 about:
   id: hero-heading
   template: trestles
@@ -20,7 +20,7 @@ about:
 ---
 
 ::: {#hero-heading}
-I am a 3rd Year PhD Student in Economics at the University of Oregon.
+I am a 4th Year PhD Student in Economics at the University of Oregon.
 
 
 
@@ -35,9 +35,11 @@ I am a 3rd Year PhD Student in Economics at the University of Oregon.
 ::: {.column width="50%"}
 **Research Interests**
 
+- Development
 - International Trade
-- Political Economy
 - Education
+- Political Economy
+
 :::
 
 ::: {.column width="50%"}
@@ -56,11 +58,3 @@ I am a 3rd Year PhD Student in Economics at the University of Oregon.
 ::::
 
 :::
-
-
-
-
-
-
-
-
