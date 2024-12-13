@@ -21,9 +21,6 @@ website:
         
       - href: teaching/courses.qmd
         text: Teaching
-        
-      - href: hobby/book-reviews.qmd
-        text: Book Reviews
 
 format:
   html:
