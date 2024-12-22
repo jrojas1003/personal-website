@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jose-rojas-fallas.quarto.pub/jose-rojas-fallas/about.html</loc>
-    <lastmod>2024-12-15T01:45:59.307Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jose-rojas-fallas.quarto.pub/jose-rojas-fallas/main-page.html</loc>
-    <lastmod>2024-12-15T01:45:59.803Z</lastmod>
+    <loc>https://jose-rojas-fallas.quarto.pub/jose-rojas-fallas/teaching/courses.html</loc>
+    <lastmod>2024-12-21T23:37:45.377Z</lastmod>
   </url>
   <url>
     <loc>https://jose-rojas-fallas.quarto.pub/jose-rojas-fallas/projects/research-agenda.html</loc>
-    <lastmod>2024-12-15T01:46:00.413Z</lastmod>
+    <lastmod>2024-12-21T23:37:45.377Z</lastmod>
   </url>
   <url>
-    <loc>https://jose-rojas-fallas.quarto.pub/jose-rojas-fallas/teaching/courses.html</loc>
-    <lastmod>2024-12-15T01:46:00.935Z</lastmod>
+    <loc>https://jose-rojas-fallas.quarto.pub/jose-rojas-fallas/main-page.html</loc>
+    <lastmod>2024-12-21T23:37:45.368Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jose-rojas-fallas.quarto.pub/jose-rojas-fallas/about.html</loc>
+    <lastmod>2024-12-21T23:37:45.347Z</lastmod>
   </url>
 </urlset>
