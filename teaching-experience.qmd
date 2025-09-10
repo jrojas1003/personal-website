@@ -1,0 +1,68 @@
+---
+toc: false
+---
+
+## Teaching Experience
+
+I have accumulated extensive teaching experience during my time as a PhD Student. 
+The courses I have taught range from foundational economic theory courses, elective courses, and econometric courses; all at the undergraduate level. 
+I have taught them in 4 week and 10 week modules, as well as in-person and online. 
+Courses have varied in size from 30 to 90 students while I have also managed teaching assistants. 
+
+In order to appeal to make the material more accessible and approachable to students, I have created websites for each course with all the necessary content.
+You can find links to these at each course below.
+
+## Courses
+
+### [EC 311: Intermediate Microeconomics](https://theuselessweb.com){.hi target=_blank}
+
+[Summer 2023, Fall 2024]{.h}
+
+::: {.callout-tip appearance="minimal" collapse="true"}
+### Course Description
+
+The objective of this course is to provide you with an introduction to, and overview of, the most important concepts in microeconomics.
+The material in this course provides the foundation for studying issues in a wide variety of fields in economics, including international trade, labor, development, and other fields, and is essential for further study in economics. 
+
+Building off of basic microeconomic concepts, students will develop the ability to examine models of agents' decisions, including consumer utility maximization, firm profit maximization, and market equilibria. 
+Most importantly, students will develop the ability to perform constrained optimization in both the economic and critical thinking sense.
+
+:::
+
+#### [EC 320: Introduction to Economtetrics](https://jrojas1003.github.io/EC-320-Intro-Econometrics/){.hi target=_blank}
+
+[Summer 2025]{.h}
+
+::: {.callout-tip appearance="minimal" collapse="true"}
+#### Course Description
+
+:::
+
+#### [EC 380: International Economic Issues](https://jrojas1003.github.io/EC-380-Intl-Econ-Issues/){.hi target=_blank}
+
+[Fall 2024, Winter 2025]{.h}
+
+::: {.callout-tip appearance="minimal" collapse="true"}
+#### Course Description
+
+:::
+
+#### [EC 390: Problems and Issues in the Developing Economies](https://theuselessweb.com){.hi target=_blank}
+
+[Fall 2025]{.h}
+
+::: {.callout-tip appearance="minimal" collapse="true"}
+#### Course Description
+
+:::
+
+## Selected Student Comments
+
+::: {.callout-tip appearance="minimal" collapse="true"}
+### Test 
+
+This is my custom collapsible note.
+You can put multiple paragraphs, lists, or even images here.
+
+test
+:::

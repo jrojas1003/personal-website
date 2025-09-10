@@ -1,31 +1,46 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: docs   
 
 website:
   page-navigation: true
   title: "Jose Alberto Rojas Fallas"
-  favicon: UO-icon.png
+  favicon: files/images/UO-icon.png
+  announcement:
+    icon: info-circle
+    dimissable: false
+    content: "**WEBSITE CURRENTLY UNDER CONSTRUCTION - UPDATES COMING SOON**"
+    type: info
+    position: below-navbar
 
   page-footer:
-    left: "&copy; Copyright 2024, Jose A. Rojas Fallas"
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; Copyright 2025, Jose A. Rojas Fallas"
+    right: "2025-2026 Job Market Candidate"
 
   navbar:
-    right:
-      - href: main-page.qmd
-        text: Home
+    left:      
+      - text: Research
+        menu:
+          - text: Job Market Paper
+            href: job-market-paper.qmd
 
-      - href: projects/research-agenda.qmd
-        text: Research
-        
-      - href: teaching/courses.qmd
+          - text: Research Agenda
+            href: research-agenda.qmd
+
+      - href: teaching-experience.qmd
         text: Teaching
+
+      - href: bio.qmd
+        text: Bio
+
+      - href: files/documents/rojas-cv.pdf
+        text: CV
+        target: _blank
 
 format:
   html:
     theme:
-      - styles.scss
+      - styles.scss 
     mainfont: Tauri
     toc: true
     page-layout: full 

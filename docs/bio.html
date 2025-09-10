@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="University of Oregon">
 
-<title>Jose Alberto Rojas Fallas</title>
+<title>About Me – Jose Alberto Rojas Fallas</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -35,6 +34,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -108,7 +108,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./bio.html"> 
+    <a class="nav-link active" href="./bio.html" aria-current="page"> 
 <span class="menu-text">Bio</span></a>
   </li>  
   <li class="nav-item">
@@ -121,81 +121,34 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-  <div id="quarto-announcement" data-announcement-id="0709bdb93318633dd0f3c643d312293b" class="alert alert-info hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
-<p><strong>WEBSITE CURRENTLY UNDER CONSTRUCTION - UPDATES COMING SOON</strong></p>
-</div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
 
-
-
-
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="files/images/Jose-Profile-Pic2.jpeg" class="about-image
-  round " style="height: 20em; width: 20em;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Jose Alberto Rojas Fallas</h1>
-<p class="subtitle lead">5th Year PhD Candidate, Economics</p>
+<h1 class="title">About Me</h1>
 </div>
-<div>
-  <div class="description">
-    University of Oregon
-  </div>
-</div>
+
+
+
 <div class="quarto-title-meta column-page">
+
+    
+  
+    
   </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="https://github.com/jrojas1003" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="https://scholar.google.com/citations?user=Zq4ASPYAAAAJ&amp;hl=en" class="about-link" rel="" target="">
-    <i class="bi bi-journal-bookmark-fill"></i>
-     <span class="about-link-text">Google Scholar</span>
-  </a>
-  <a href="mailto:jrojas2@uoregon.edu" class="about-link" rel="" target="">
-    <i class="bi bi-mailbox"></i>
-     <span class="about-link-text">Email</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><div id="hero-heading">
-<p><span class="big hi">Biography</span></p>
-<p>I am a 5th Year PhD Student in Economics at the University of Oregon.</p>
-<p>Originally from San Jose, Costa Rica.</p>
-<p><strong>Download my <a href="Rojas-Jose-CV-121224.pdf">CV</a></strong></p>
-<p><br></p>
-<div class="columns">
-<div class="column" style="width:50%;">
-<div class="text-center">
-<p><span class="large hi">Interests</span></p>
-</div>
-<p><i class="bi bi-book" style="font-size: 1.5rem;"></i> International Trade</p>
-<p><i class="bi bi-book" style="font-size: 1.5rem;"></i> Development</p>
-<p><i class="bi bi-book" style="font-size: 1.5rem;"></i> Education</p>
-<p><i class="bi bi-book" style="font-size: 1.5rem;"></i> Political Economy</p>
-</div><div class="column" style="width:50%;">
-<div class="text-center">
-<p><span class="large hi">Education</span></p>
-</div>
-<p><i class="bi bi-mortarboard" style="font-size: 1.5rem;"></i> PhD in Economics, Expected 2026 <span class="small indent">University of Oregon</span></p>
-<p><i class="bi bi-mortarboard" style="font-size: 1.5rem;"></i> MS in Economics, 2021<br>
-<span class="small indent">Portland State University</span></p>
-<p><i class="bi bi-mortarboard" style="font-size: 1.5rem;"></i> BS in Economics, 2019<br>
-<span class="small indent">Portland State University</span></p>
-</div>
-</div>
-</div></div>
-</div>
 
 
 
@@ -222,6 +175,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
@@ -285,7 +245,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/d4cadff2-e9a2-40d3-94ea-b7dfa655ef3e\.netlify\.app\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

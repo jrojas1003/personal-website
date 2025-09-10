@@ -33,3 +33,146 @@ $navbar-hl: $uo-yellow; // highlight color when hovering over navbar links
 .text-center {
   text-align: center;
 }
+
+.cv-download {
+  background-color: $uo-green !important; /* Green color */
+  border-color: $cream !important;
+  color: $uo-yellow !important;
+  font-weight: bold !important; /* Make text bold */
+  display: inline-flex; /* Allows better alignment for text and icons */
+  align-items: center; /* Vertical centering */
+  justify-content: center; /* Horizontal centering */
+  text-align: center; /* Ensure text is centered */
+  padding: 10px 20px; /* Add padding for better spacing */
+  border-radius: 10px !important; /* Rounded corners */
+}
+
+.cv-download:hover {
+  background-color: #45a049 !important; /* Slightly darker green on hover */
+  border-color: #45a049 !important;
+}
+
+/*-- Types --*/
+.note {
+  font-family: 'Zilla Slab' !important;
+  font-weight: 300;
+  // font-style: italic;
+  color: #314f4f !important;
+  // font-size: 32px;
+}
+.note h1 {
+  font-family: 'Zilla Slab' !important;
+}
+.ex {
+  color: #ccc !important;
+  font-style: italic;
+  font-weight: 500;
+}
+.pseudocode, .pseudocode-small {
+  font-family: 'Fira Code';
+  background: #f8f8f8;
+  border-radius: 3px;
+  padding: 10px;
+}
+.pseudocode-small {
+  font-size: 20px;
+}
+.sub {
+  font-size: 75%;
+  vertical-align: sub;
+  line-height: 0;
+}
+.tiny {
+  font-size:24px;
+}
+.small {
+  font-size:28px;
+}
+.large {
+  font-size:30px;
+  font-weight: 350;
+}
+.big {
+  font-size: 38px;
+  font-weight: 400;
+}
+.realbig {
+  font-size: 60px;
+  font-weight: 400;
+}
+.huge {
+  font-size: 100px;
+  font-weight: 400;
+}
+.mono {
+  font-family: monospace;
+}
+
+
+/*-- Highlight colors --*/
+.h {
+  font-weight: 600;
+  color: #2e3440;
+}
+.hi {
+  font-weight: 600;
+  color: #4c566a
+}
+.hii {
+  font-weight: 600;
+  color: #81A1C1;
+}
+.hi-teal {
+  font-weight: 600;
+  color: #8FBCBB;
+}
+.hi-bb {
+  font-weight: 600;
+  color: #88C0D0;
+}
+.hp {
+  font-weight: 600;
+  color: #b48ead !important;
+}
+.hi-green {
+  font-weight: 600;
+  color: #A3BE8C;
+}
+.hi-red {
+  font-weight: 600;
+  color: #BF616A;
+}
+.hi-orange {
+  font-weight: 600;
+  color: #D08770;
+}
+.hi-yellow {
+  font-weight: 600;
+  color: #EBCB8B;
+}
+.hi-white {
+  font-weight: 600;
+  color: #ffffff !important;
+}
+.hi-grey {
+  font-weight: 600;
+  color : #7f7f7f !important;
+}
+.hi-blue {
+  font-weight: 600;
+  color : #81A1C1 !important;
+}
+.indent {
+  text-indent: 2em;   /* indent first line */
+  margin-left: 2em;   /* indent whole block */
+}
+
+.navbar .dropdown-menu .dropdown-item {
+  padding-left: 1.5rem;
+}
+
+/* Change the left border (bar) color for tips */
+.callout-tip {
+  border-left: 4px solid $uo-green;  /* set your desired color */
+}
+

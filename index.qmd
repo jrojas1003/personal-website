@@ -1,0 +1,70 @@
+---
+title: "Jose Alberto Rojas Fallas"
+subtitle: "5th Year PhD Candidate, Economics"
+description: "University of Oregon"
+image: files/images/Jose-Profile-Pic2.jpeg
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/jrojas1003
+    - icon: journal-bookmark-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=Zq4ASPYAAAAJ&hl=en
+    - icon: mailbox
+      text: Email
+      href: mailto:jrojas2@uoregon.edu
+---
+
+::: {#hero-heading}
+
+[Biography]{.big .hi}
+
+I am a 5th Year PhD Student in Economics at the University of Oregon.
+
+Originally from San Jose, Costa Rica.
+
+**Download my [CV](Rojas-Jose-CV-121224.pdf)**
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.text-center}
+[Interests]{.large .hi}
+:::
+
+<i class="bi bi-book" style="font-size: 1.5rem;"></i> International Trade
+
+<i class="bi bi-book" style="font-size: 1.5rem;"></i> Development
+
+<i class="bi bi-book" style="font-size: 1.5rem;"></i> Education
+
+<i class="bi bi-book" style="font-size: 1.5rem;"></i> Political Economy
+
+:::
+
+::: {.column width="50%"}
+
+::: {.text-center}
+[Education]{.large .hi}
+:::
+
+<i class="bi bi-mortarboard" style="font-size: 1.5rem;"></i> PhD in Economics, Expected 2026 
+[University of Oregon]{.small .indent}
+  
+<i class="bi bi-mortarboard" style="font-size: 1.5rem;"></i> MS in Economics, 2021  
+[Portland State University]{.small .indent}
+  
+<i class="bi bi-mortarboard" style="font-size: 1.5rem;"></i> BS in Economics, 2019  
+[Portland State University]{.small .indent}
+:::
+
+::::
+
+:::
