@@ -1,3 +1,80 @@
 ---
 title: About Me
 ---
+
+I am originally from San Jose, Costa Rica but I have lived a traveled life. 
+I've lived in Costa Rica, Arizona, and Oregon all for a different amount of time. 
+Costa Rica 16 years, Arizona was my home for 4 years, and Oregon for 10 years (and counting). 
+
+Throughout all my years, I've always loved watching sports and reading. 
+I will watch just about every sport possible, as boring as some people may consider them to be. 
+My favorite teams, by major sports, are: 
+
+:::: {.columns}
+
+::: {.column}
+- Soccer: Real Madrid
+- American Football: Green Bay Packers
+::: 
+
+::: {.column}
+- Basketball: Philadelphia 76ers
+- Baseball: New York Yankees
+::: 
+
+::::
+
+Other than that, I have loved traveling, enjoying different cultures and enjoying every opportunity I come across. 
+I look forward to more to come!
+
+<div class="slideshow-container">
+  <img class="mySlides" src="files/pictures/pic1.jpeg" style="width:100%">
+  <img class="mySlides" src="files/pictures/pic2.jpeg" style="width:100%">
+  <img class="mySlides" src="files/pictures/pic3.jpeg" style="width:100%">
+  <img class="mySlides" src="files/pictures/pic4.jpeg" style="width:100%">
+  <img class="mySlides" src="files/pictures/pic5.jpeg" style="width:100%">
+  <img class="mySlides" src="files/pictures/pic6.jpeg" style="width:100%">
+  <img class="mySlides" src="files/pictures/pic7.jpeg" style="width:100%">
+  <img class="mySlides" src="files/pictures/pic8.jpeg" style="width:100%">
+  <img class="mySlides" src="files/pictures/pic9.jpeg" style="width:100%">
+  <img class="mySlides" src="files/pictures/pic10.jpeg" style="width:100%">
+  <img class="mySlides" src="files/pictures/pic11.jpeg" style="width:100%">
+  <img class="mySlides" src="files/pictures/pic12.jpeg" style="width:100%">
+  <img class="mySlides" src="files/pictures/pic13.jpeg" style="width:100%">
+  <img class="mySlides" src="files/pictures/pic14.jpeg" style="width:100%">
+  <img class="mySlides" src="files/pictures/pic15.jpeg" style="width:100%">
+  <img class="mySlides" src="files/pictures/pic16.jpeg" style="width:100%">
+  <img class="mySlides" src="files/pictures/pic17.jpeg" style="width:100%">
+  <img class="mySlides" src="files/pictures/pic18.jpeg" style="width:100%">
+  <img class="mySlides" src="files/pictures/pic19.jpeg" style="width:100%">
+
+</div>
+
+<script>
+let slideIndex = 0;
+autoShowSlides();
+
+function autoShowSlides() {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) { slideIndex = 1 }
+  slides[slideIndex-1].style.display = "block";
+  setTimeout(autoShowSlides, 3000); // Change image every 3s
+}
+</script>
+
+<style>
+.slideshow-container {
+  max-width: 600px;   /* adjust size */
+  margin: auto;
+  position: relative;
+}
+.mySlides {
+  display: none;
+  border-radius: 12px; /* optional rounded corners */
+}
+</style>
