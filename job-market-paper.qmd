@@ -1,8 +1,13 @@
 ---
-title: FDI & College Major Choice
+title: FDI & College Major Choice [Latest Draft (06.16.25)](files/documents/JMP-Draft-0616.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} 
+toc: false
 ---
 
-## Abstract
+### Abstract
+
+:::: {.columns}
+
+::: {.column width="70%"}
 
 This paper studies how the local presence of multinational corporations (MNCs) affects students’ college major choices in a developing country context. 
 Using administrative data from Costa Rica’s two largest public universities covering over half a million applicants from 2007 to 2020, I examine whether exposure to MNCs—measured through firm-level location and industry data from the country’s Free Trade Zone (FTZ) regime—shapes individual decisions about field-of-study specialization. 
@@ -14,4 +19,26 @@ Disaggregated analysis reveals that applicants tend to select majors that align 
 These findings highlight an important and previously understudied channel through which FDI can shape human capital formation—not only through access to education, but also through the type of skills students choose to acquire.
 The results underscore the need for education and industrial policy coordination to ensure that specialization patterns evolve in step with economic transformation.
 
-## Misc.
+:::
+
+::: {.column width="30%"}
+
+<br><br><br>
+
+![](files/images/cat3-ame-graph.jpeg){fig-align="right" width=450px height=300px}
+
+:::
+
+::::
+
+### Methodology
+
+<br>
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  <iframe class="slide-deck" src="files/jmp-methods/methods.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+
+  <a class="btn btn-primary btn-lg cv-download" href="files/jmp-methods/methods.qmd" target="_blank" style="margin-top: 10px;">
+    <i class="fa-solid fa-file-arrow-down"></i> Expand
+  </a>
+</div>

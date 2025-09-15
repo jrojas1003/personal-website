@@ -12,7 +12,7 @@ Courses have varied in size from 30 to 90 students while I have also managed tea
 In order to appeal to make the material more accessible and approachable to students, I have created websites for each course with all the necessary content.
 You can find links to these at each course below.
 
-## Courses
+## Courses as Instructor of Record
 
 ### [EC 311: Intermediate Microeconomics](https://theuselessweb.com){.hi target=_blank}
 
@@ -36,6 +36,7 @@ Most importantly, students will develop the ability to perform constrained optim
 ::: {.callout-tip appearance="minimal" collapse="true"}
 #### Course Description
 
+Application of classical statistical techniques of estimation, hypothesis testing, and regression to economic models.
 :::
 
 #### [EC 380: International Economic Issues](https://jrojas1003.github.io/EC-380-Intl-Econ-Issues/){.hi target=_blank}
@@ -45,6 +46,8 @@ Most importantly, students will develop the ability to perform constrained optim
 ::: {.callout-tip appearance="minimal" collapse="true"}
 #### Course Description
 
+Exchange across international boundaries, theory of comparative advantage, balance of payments and adjustments, international financial movements, exchange rates and international financial institutions, trade restrictions and policy.
+
 :::
 
 #### [EC 390: Problems and Issues in the Developing Economies](https://theuselessweb.com){.hi target=_blank}
@@ -53,6 +56,8 @@ Most importantly, students will develop the ability to perform constrained optim
 
 ::: {.callout-tip appearance="minimal" collapse="true"}
 #### Course Description
+
+Topics may include the role of central planning, capital formation, population growth, agriculture, health and education, interaction between economic and cultural change, and the "North-South debate."
 
 :::
 

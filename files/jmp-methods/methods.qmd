@@ -1,0 +1,104 @@
+---
+title: "FDI & College Major Choice"
+subtitle: "Methodology"
+author: Jose Rojas-Fallas
+date: last-modified
+date-format: "YYYY"
+format:
+    revealjs:
+        theme: [default, styles.scss]
+        slide-number: true
+        footer: "FDI & College Major Choice | JMP"
+        preview-links: auto
+        code-fold: FALSE
+title-slide-attributes: 
+  data-background-position: left
+---
+
+## Data {.small}
+
+[Administrative University Application Data]{.hi .align-center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Preferred Major Choice
+- Age and Sex of Applicant
+- Application Entry Score
+:::
+
+::: {.column width="50%"}
+- High School Attended Type (Public/Private)
+- District-Canton of Residence
+:::
+
+::::
+
+<br>
+
+[Firm-level Data for Free Trade Zone Regime]{.hi .align-center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- ISIC Rev. 4 Industry Code (2-digit)
+- 289 Unique Firms
+:::
+
+::: {.column width="50%"}
+- Year-of-Entry into Nation
+- District-Canton of Operation
+:::
+
+::::
+
+## Multinational Corporations Industry Presence Index
+
+Using a Gravity Model approach, I construct a district-year MNC Presence Index as follows:
+
+\begin{align*}
+    \Gamma_{djt} = \sum_{d'} \dfrac{tenure_{j \in J, d't}}{exp(\tau^{dd'})}
+\end{align*}
+
+[Subscripts]{.small .align-center .h}
+
+[$d =$ student's district, $d' =$ firm's district, $j \in J$ firm $j$ in industry $J$, $t =$ year]{.small}
+
+- $tenure_{j \in J, d't}$: Tenure of firm $j$ in industry $J$ in year $t$
+- $exp(\tau^{dd'})$: Distance (in km) between district $d$ (student residence) to district $d'$ (firm residence)
+
+## Utility Model
+
+Individuals choose a field-of-study subject to the utility function:
+
+\begin{align*}
+    U_{im} = \alpha_{c} + \alpha_{t} + \beta_{mj} \Gamma_{djt} + \gamma X'_{i} + \varepsilon_{im}
+\end{align*}
+
+[Subscripts]{.small .align-center .h}
+
+[$i = \;$ individual, $\; m = \;$ field-of-study, $\; c = \;$ canton, $\; t = \;$ year]{.small .align-center}
+
+- $\alpha_{c}$ : Labor Market Area Effect
+- $\alpha_{t}$ : Year Effect
+- $\Gamma_{djt}$ : Vector of MNC Industries Presence Index
+- $X'_{i}$ : Vector of Individual Characteristics
+
+## Estimation Method
+
+[Multinomial Logit (MNL) model]{.hi} of the following equation:
+
+\begin{align*}
+        P(Y_{i} = m) = 
+        \dfrac{
+            \overbrace{exp(\alpha_{c} + \alpha_{t} + 
+            \beta_{mj} \Gamma_{djt} + 
+            X'_{i}\gamma + 
+            \varepsilon_{im})}^{\text{Utility of chosen field-of-study}}
+        }{
+            \underbrace{\sum_{m'} exp(\alpha_{c} + \alpha_{t} + 
+            \beta_{m'j} \Gamma_{djt} + 
+            X'_{i}\gamma + 
+            \varepsilon_{im'}))}_{\text{Utilities across all possible field-of-study choices}}
+        }
+\end{align*}

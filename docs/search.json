@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "bio.html",
+    "href": "bio.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am originally from San Jose, Costa Rica but I have lived a traveled life. I’ve lived in Costa Rica, Arizona, and Oregon all for a different amount of time. Costa Rica 16 years, Arizona was my home for 4 years, and Oregon for 10 years (and counting).\nThroughout all my years, I’ve always loved watching sports and reading. I will watch just about every sport possible, as boring as some people may consider them to be. My favorite teams, by major sports, are:\n\n\n\nSoccer: Real Madrid\nAmerican Football: Green Bay Packers\n\n\n\nBasketball: Philadelphia 76ers\nBaseball: New York Yankees\n\n\n\nOther than that, I have loved traveling, enjoying different cultures and enjoying every opportunity I come across. I look forward to more to come!"
+  },
+  {
+    "objectID": "files/jmp-methods/methods.html#data",
+    "href": "files/jmp-methods/methods.html#data",
+    "title": "FDI & College Major Choice",
+    "section": "Data",
+    "text": "Data\nAdministrative University Application Data\n\n\n\nPreferred Major Choice\nAge and Sex of Applicant\nApplication Entry Score\n\n\n\nHigh School Attended Type (Public/Private)\nDistrict-Canton of Residence\n\n\n\nFirm-level Data for Free Trade Zone Regime\n\n\n\nISIC Rev. 4 Industry Code (2-digit)\n289 Unique Firms\n\n\n\nYear-of-Entry into Nation\nDistrict-Canton of Operation"
+  },
+  {
+    "objectID": "files/jmp-methods/methods.html#multinational-corporations-industry-presence-index",
+    "href": "files/jmp-methods/methods.html#multinational-corporations-industry-presence-index",
+    "title": "FDI & College Major Choice",
+    "section": "Multinational Corporations Industry Presence Index",
+    "text": "Multinational Corporations Industry Presence Index\nUsing a Gravity Model approach, I construct a district-year MNC Presence Index as follows:\n\\[\\begin{align*}\n    \\Gamma_{djt} = \\sum_{d'} \\dfrac{tenure_{j \\in J, d't}}{exp(\\tau^{dd'})}\n\\end{align*}\\]\nSubscripts\n\\(d =\\) student’s district, \\(d' =\\) firm’s district, \\(j \\in J\\) firm \\(j\\) in industry \\(J\\), \\(t =\\) year\n\n\\(tenure_{j \\in J, d't}\\): Tenure of firm \\(j\\) in industry \\(J\\) in year \\(t\\)\n\\(exp(\\tau^{dd'})\\): Distance (in km) between district \\(d\\) (student residence) to district \\(d'\\) (firm residence)"
+  },
+  {
+    "objectID": "files/jmp-methods/methods.html#utility-model",
+    "href": "files/jmp-methods/methods.html#utility-model",
+    "title": "FDI & College Major Choice",
+    "section": "Utility Model",
+    "text": "Utility Model\nIndividuals choose a field-of-study subject to the utility function:\n\\[\\begin{align*}\n    U_{im} = \\alpha_{c} + \\alpha_{t} + \\beta_{mj} \\Gamma_{djt} + \\gamma X'_{i} + \\varepsilon_{im}\n\\end{align*}\\]\nSubscripts\n\\(i = \\;\\) individual, \\(\\; m = \\;\\) field-of-study, \\(\\; c = \\;\\) canton, \\(\\; t = \\;\\) year\n\n\\(\\alpha_{c}\\) : Labor Market Area Effect\n\\(\\alpha_{t}\\) : Year Effect\n\\(\\Gamma_{djt}\\) : Vector of MNC Industries Presence Index\n\\(X'_{i}\\) : Vector of Individual Characteristics"
+  },
+  {
+    "objectID": "files/jmp-methods/methods.html#estimation-method",
+    "href": "files/jmp-methods/methods.html#estimation-method",
+    "title": "FDI & College Major Choice",
+    "section": "Estimation Method",
+    "text": "Estimation Method\nMultinomial Logit (MNL) model of the following equation:\n\\[\\begin{align*}\n        P(Y_{i} = m) =\n        \\dfrac{\n            \\overbrace{exp(\\alpha_{c} + \\alpha_{t} +\n            \\beta_{mj} \\Gamma_{djt} +\n            X'_{i}\\gamma +\n            \\varepsilon_{im})}^{\\text{Utility of chosen field-of-study}}\n        }{\n            \\underbrace{\\sum_{m'} exp(\\alpha_{c} + \\alpha_{t} +\n            \\beta_{m'j} \\Gamma_{djt} +\n            X'_{i}\\gamma +\n            \\varepsilon_{im'}))}_{\\text{Utilities across all possible field-of-study choices}}\n        }\n\\end{align*}\\]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n  \n  \nBiography\nI am a 5th Year PhD Candidate in Economics at the University of Oregon.\nI will be on the Job Market for the 2025-2026 cycle.\nOriginally from San Jose, Costa Rica. My interests are in the many ways increased international trade, either through imports or FDI, may impact developing economies. I also have interests in immigration and education topics.\nDownload my CV\n\n\n\n\nInterests\n\n International Trade\n Development\n Education\n Political Economy\n\n\nEducation\n\n PhD in Economics, Expected 2026 University of Oregon\n MS in Economics, 2021\nPortland State University\n BS in Economics, 2019\nPortland State University"
+  },
+  {
     "objectID": "teaching-experience.html",
     "href": "teaching-experience.html",
     "title": "Jose Alberto Rojas Fallas",
@@ -14,11 +56,11 @@
     "text": "I have accumulated extensive teaching experience during my time as a PhD Student. The courses I have taught range from foundational economic theory courses, elective courses, and econometric courses; all at the undergraduate level. I have taught them in 4 week and 10 week modules, as well as in-person and online. Courses have varied in size from 30 to 90 students while I have also managed teaching assistants.\nIn order to appeal to make the material more accessible and approachable to students, I have created websites for each course with all the necessary content. You can find links to these at each course below."
   },
   {
-    "objectID": "teaching-experience.html#courses",
-    "href": "teaching-experience.html#courses",
+    "objectID": "teaching-experience.html#courses-as-instructor-of-record",
+    "href": "teaching-experience.html#courses-as-instructor-of-record",
     "title": "Jose Alberto Rojas Fallas",
-    "section": "Courses",
-    "text": "Courses\n\nEC 311: Intermediate Microeconomics\nSummer 2023, Fall 2024\n\n\n\n\n\n\nCourse Description\n\n\n\n\n\nThe objective of this course is to provide you with an introduction to, and overview of, the most important concepts in microeconomics. The material in this course provides the foundation for studying issues in a wide variety of fields in economics, including international trade, labor, development, and other fields, and is essential for further study in economics.\nBuilding off of basic microeconomic concepts, students will develop the ability to examine models of agents’ decisions, including consumer utility maximization, firm profit maximization, and market equilibria. Most importantly, students will develop the ability to perform constrained optimization in both the economic and critical thinking sense.\n\n\n\n\nEC 320: Introduction to Economtetrics\nSummer 2025\n\n\n\n\n\n\nCourse Description\n\n\n\n\n\n\n\n\n\n\n\nEC 380: International Economic Issues\nFall 2024, Winter 2025\n\n\n\n\n\n\nCourse Description\n\n\n\n\n\n\n\n\n\n\n\nEC 390: Problems and Issues in the Developing Economies\nFall 2025\n\n\n\n\n\n\nCourse Description"
+    "section": "Courses as Instructor of Record",
+    "text": "Courses as Instructor of Record\n\nEC 311: Intermediate Microeconomics\nSummer 2023, Fall 2024\n\n\n\n\n\n\nCourse Description\n\n\n\n\n\nThe objective of this course is to provide you with an introduction to, and overview of, the most important concepts in microeconomics. The material in this course provides the foundation for studying issues in a wide variety of fields in economics, including international trade, labor, development, and other fields, and is essential for further study in economics.\nBuilding off of basic microeconomic concepts, students will develop the ability to examine models of agents’ decisions, including consumer utility maximization, firm profit maximization, and market equilibria. Most importantly, students will develop the ability to perform constrained optimization in both the economic and critical thinking sense.\n\n\n\n\nEC 320: Introduction to Economtetrics\nSummer 2025\n\n\n\n\n\n\nCourse Description\n\n\n\n\n\nApplication of classical statistical techniques of estimation, hypothesis testing, and regression to economic models.\n\n\n\n\n\nEC 380: International Economic Issues\nFall 2024, Winter 2025\n\n\n\n\n\n\nCourse Description\n\n\n\n\n\nExchange across international boundaries, theory of comparative advantage, balance of payments and adjustments, international financial movements, exchange rates and international financial institutions, trade restrictions and policy.\n\n\n\n\n\nEC 390: Problems and Issues in the Developing Economies\nFall 2025\n\n\n\n\n\n\nCourse Description\n\n\n\n\n\nTopics may include the role of central planning, capital formation, population growth, agriculture, health and education, interaction between economic and cultural change, and the “North-South debate.”"
   },
   {
     "objectID": "teaching-experience.html#selected-student-comments",
@@ -28,31 +70,31 @@
     "text": "Selected Student Comments\n\n\n\n\n\n\nTest\n\n\n\n\n\nThis is my custom collapsible note. You can put multiple paragraphs, lists, or even images here.\ntest"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jose Alberto Rojas Fallas",
+    "objectID": "research-agenda.html",
+    "href": "research-agenda.html",
+    "title": "Research Agenda",
     "section": "",
-    "text": "Github\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     Email\n  \n\n  \n  \nBiography\nI am a 5th Year PhD Student in Economics at the University of Oregon.\nOriginally from San Jose, Costa Rica.\nDownload my CV\n\n\n\n\nInterests\n\n International Trade\n Development\n Education\n Political Economy\n\n\nEducation\n\n PhD in Economics, Expected 2026 University of Oregon\n MS in Economics, 2021\nPortland State University\n BS in Economics, 2019\nPortland State University"
+    "text": "Previous research shows that regions negatively affected by trade in developed countries tend to shift toward political extremes, but little is known about such effects in developing nations. Costa Rica provides a unique case, as the 2007 CAFTA-DR referendum captured direct public opinion on trade at the canton level. Using canton-level vote share for CAFTA-DR as a proxy for trade support and weighting political party manifesto positions by election results, I construct a canton-level political-lean index. Measuring each canton’s exposure to imports, I find that increased trade exposure shifts political support toward right-leaning parties, though this effect is weaker in cantons with higher initial support for trade. These results highlight that both economic shocks and perceptions of trade influence ideological shifts in developing democracies.\nPDF"
+  },
+  {
+    "objectID": "research-agenda.html#working-papers",
+    "href": "research-agenda.html#working-papers",
+    "title": "Research Agenda",
+    "section": "",
+    "text": "Previous research shows that regions negatively affected by trade in developed countries tend to shift toward political extremes, but little is known about such effects in developing nations. Costa Rica provides a unique case, as the 2007 CAFTA-DR referendum captured direct public opinion on trade at the canton level. Using canton-level vote share for CAFTA-DR as a proxy for trade support and weighting political party manifesto positions by election results, I construct a canton-level political-lean index. Measuring each canton’s exposure to imports, I find that increased trade exposure shifts political support toward right-leaning parties, though this effect is weaker in cantons with higher initial support for trade. These results highlight that both economic shocks and perceptions of trade influence ideological shifts in developing democracies.\nPDF"
+  },
+  {
+    "objectID": "research-agenda.html#works-in-progress",
+    "href": "research-agenda.html#works-in-progress",
+    "title": "Research Agenda",
+    "section": "Works in Progress",
+    "text": "Works in Progress"
   },
   {
     "objectID": "job-market-paper.html",
     "href": "job-market-paper.html",
-    "title": "FDI & College Major Choice",
+    "title": "FDI & College Major Choice Latest Draft (06.16.25)",
     "section": "",
-    "text": "Text goes here"
-  },
-  {
-    "objectID": "job-market-paper.html#abstract",
-    "href": "job-market-paper.html#abstract",
-    "title": "FDI & College Major Choice",
-    "section": "",
-    "text": "Text goes here"
-  },
-  {
-    "objectID": "job-market-paper.html#misc.",
-    "href": "job-market-paper.html#misc.",
-    "title": "FDI & College Major Choice",
-    "section": "Misc.",
-    "text": "Misc."
+    "text": "Abstract\n\n\nThis paper studies how the local presence of multinational corporations (MNCs) affects students’ college major choices in a developing country context. Using administrative data from Costa Rica’s two largest public universities covering over half a million applicants from 2007 to 2020, I examine whether exposure to MNCs—measured through firm-level location and industry data from the country’s Free Trade Zone (FTZ) regime—shapes individual decisions about field-of-study specialization. I develop a novel index of MNC presence by industry and location, incorporating geographic proximity between applicants and firms. I then estimate a multinomial logit model where students choose among broad and narrow field-of-study categories, allowing for heterogeneous responses to MNC presence across industries. The results show that MNCs meaningfully influence major choice, but the effects vary by industry and field. Service-oriented MNCs, such as those in architectural and engineering services, shift students toward both STEM and arts-related fields, while large manufacturing exporters—like medical device producers—have limited impact on STEM enrollment. Disaggregated analysis reveals that applicants tend to select majors that align with the perceived skill demands of nearby MNCs, suggesting that students respond to local labor market signals when making educational investments. These findings highlight an important and previously understudied channel through which FDI can shape human capital formation—not only through access to education, but also through the type of skills students choose to acquire. The results underscore the need for education and industrial policy coordination to ensure that specialization patterns evolve in step with economic transformation.\n\n\n\n\n\n\n\n\n\n\n\nMethodology\n\n\n\n  Expand"
   }
 ]

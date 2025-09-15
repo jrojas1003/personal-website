@@ -11,9 +11,15 @@ about:
     - icon: github
       text: Github
       href: https://github.com/jrojas1003
+      target: _blank
     - icon: journal-bookmark-fill
       text: Google Scholar
       href: https://scholar.google.com/citations?user=Zq4ASPYAAAAJ&hl=en
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jose-rojas-fallas-196367164/ 
+      target: _blank
     - icon: mailbox
       text: Email
       href: mailto:jrojas2@uoregon.edu
@@ -23,11 +29,15 @@ about:
 
 [Biography]{.big .hi}
 
-I am a 5th Year PhD Student in Economics at the University of Oregon.
+I am a 5th Year PhD Candidate in Economics at the University of Oregon.
 
-Originally from San Jose, Costa Rica.
+I will be on the Job Market for the 2025-2026 cycle. 
 
-**Download my [CV](files/documents/rojas-cv.pdf){target="_blank"}**
+Originally from San Jose, Costa Rica. 
+My interests are in the many ways increased international trade, either through imports or FDI, may impact developing economies.
+I also have interests in immigration and education topics. 
+
+[Download my CV](files/documents/rojas-cv.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} 
 
 <br>
 
