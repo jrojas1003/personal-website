@@ -193,3 +193,10 @@ $navbar-hl: $uo-yellow; // highlight color when hovering over navbar links
   justify-content: center; /* optional horizontal centering */
   height: 100%;
 }
+
+.carousel-item {
+  min-height: 120px;        /* ensures consistent height */
+  display: flex;
+  align-items: center;      /* vertical centering */
+  justify-content: center;  /* horizontal centering */
+}
