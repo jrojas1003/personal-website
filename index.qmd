@@ -37,7 +37,9 @@ Originally from San Jose, Costa Rica.
 My interests are in the many ways increased international trade, either through imports or FDI, may impact developing economies.
 I also have interests in immigration and education topics. 
 
+::: {.text-center}
 [Download my CV](files/documents/rojas-cv.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} 
+:::
 
 <br>
 
