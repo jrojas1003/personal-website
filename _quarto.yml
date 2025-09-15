@@ -21,7 +21,7 @@ website:
 
   navbar:
     pinned: true
-    left:      
+    right:      
       - text: Research
         menu:
           - text: Job Market Paper
@@ -43,7 +43,9 @@ website:
 format:
   html:
     theme:
-      - styles.scss 
+      light: styles.scss
+      dark: darkly
     mainfont: Tauri
     toc: true
     page-layout: full 
+    toggle: true
