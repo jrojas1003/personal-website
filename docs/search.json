@@ -1,10 +1,38 @@
 [
   {
-    "objectID": "bio.html",
-    "href": "bio.html",
-    "title": "About Me",
+    "objectID": "teaching-experience.html",
+    "href": "teaching-experience.html",
+    "title": "Jose Alberto Rojas Fallas",
     "section": "",
-    "text": "I am originally from San Jose, Costa Rica but I have lived a traveled life. I’ve lived in Costa Rica, Arizona, and Oregon all for a different amount of time. Costa Rica 16 years, Arizona was my home for 4 years, and Oregon for 10 years (and counting).\nThroughout all my years, I’ve always loved watching sports and reading. I will watch just about every sport possible, as boring as some people may consider them to be. My favorite teams, by major sports, are:\n\n\n\nSoccer: Real Madrid\nAmerican Football: Green Bay Packers\n\n\n\nBasketball: Philadelphia 76ers\nBaseball: New York Yankees\n\n\n\nOther than that, I have loved traveling, enjoying different cultures and enjoying every opportunity I come across. I look forward to more to come!"
+    "text": "I have accumulated extensive teaching experience during my time as a PhD Student. The courses I have taught range from foundational economic theory courses, elective courses, and econometric courses; all at the undergraduate level. I have taught them in 4 week and 10 week modules, as well as in-person and online. Courses have varied in size from 30 to 90 students while I have also managed teaching assistants.\nIn order to appeal to make the material more accessible and approachable to students, I have created websites for each course with all the necessary content. You can find links to these at each course below."
+  },
+  {
+    "objectID": "teaching-experience.html#teaching-experience",
+    "href": "teaching-experience.html#teaching-experience",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "I have accumulated extensive teaching experience during my time as a PhD Student. The courses I have taught range from foundational economic theory courses, elective courses, and econometric courses; all at the undergraduate level. I have taught them in 4 week and 10 week modules, as well as in-person and online. Courses have varied in size from 30 to 90 students while I have also managed teaching assistants.\nIn order to appeal to make the material more accessible and approachable to students, I have created websites for each course with all the necessary content. You can find links to these at each course below."
+  },
+  {
+    "objectID": "teaching-experience.html#courses-as-instructor-of-record",
+    "href": "teaching-experience.html#courses-as-instructor-of-record",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Courses as Instructor of Record",
+    "text": "Courses as Instructor of Record\n\nEC 311: Intermediate Microeconomics\nSummer 2023, Fall 2024\n\n\n\n\n\n\nTipCourse Description\n\n\n\n\n\nThe objective of this course is to provide you with an introduction to, and overview of, the most important concepts in microeconomics. The material in this course provides the foundation for studying issues in a wide variety of fields in economics, including international trade, labor, development, and other fields, and is essential for further study in economics.\nBuilding off of basic microeconomic concepts, students will develop the ability to examine models of agents’ decisions, including consumer utility maximization, firm profit maximization, and market equilibria. Most importantly, students will develop the ability to perform constrained optimization in both the economic and critical thinking sense.\n\n\n\n\nEC 320: Introduction to Economtetrics\nSummer 2025\n\n\n\n\n\n\nTipCourse Description\n\n\n\n\n\nApplication of classical statistical techniques of estimation, hypothesis testing, and regression to economic models.\n\n\n\n\n\nEC 380: International Economic Issues\nFall 2024, Winter 2025\n\n\n\n\n\n\nTipCourse Description\n\n\n\n\n\nExchange across international boundaries, theory of comparative advantage, balance of payments and adjustments, international financial movements, exchange rates and international financial institutions, trade restrictions and policy.\n\n\n\n\n\nEC 390: Problems and Issues in the Developing Economies\nFall 2025\n\n\n\n\n\n\nTipCourse Description\n\n\n\n\n\nTopics may include the role of central planning, capital formation, population growth, agriculture, health and education, interaction between economic and cultural change, and the “North-South debate.”"
+  },
+  {
+    "objectID": "teaching-experience.html#selected-student-comments",
+    "href": "teaching-experience.html#selected-student-comments",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Selected Student Comments",
+    "text": "Selected Student Comments\n\n\n\n\n\n\nTipTest\n\n\n\n\n\nThis is my custom collapsible note. You can put multiple paragraphs, lists, or even images here.\ntest"
+  },
+  {
+    "objectID": "job-market-paper.html",
+    "href": "job-market-paper.html",
+    "title": "FDI & College Major Choice Latest Draft (06.16.25)",
+    "section": "",
+    "text": "Abstract\n\n\nThis paper studies how the local presence of multinational corporations (MNCs) affects students’ college major choices in a developing country context. Using administrative data from Costa Rica’s two largest public universities covering over half a million applicants from 2007 to 2020, I examine whether exposure to MNCs—measured through firm-level location and industry data from the country’s Free Trade Zone (FTZ) regime—shapes individual decisions about field-of-study specialization. I develop a novel index of MNC presence by industry and location, incorporating geographic proximity between applicants and firms. I then estimate a multinomial logit model where students choose among broad and narrow field-of-study categories, allowing for heterogeneous responses to MNC presence across industries. The results show that MNCs meaningfully influence major choice, but the effects vary by industry and field. Service-oriented MNCs, such as those in architectural and engineering services, shift students toward both STEM and arts-related fields, while large manufacturing exporters—like medical device producers—have limited impact on STEM enrollment. Disaggregated analysis reveals that applicants tend to select majors that align with the perceived skill demands of nearby MNCs, suggesting that students respond to local labor market signals when making educational investments. These findings highlight an important and previously understudied channel through which FDI can shape human capital formation—not only through access to education, but also through the type of skills students choose to acquire. The results underscore the need for education and industrial policy coordination to ensure that specialization patterns evolve in step with economic transformation.\n\n\n\n\n\n\n\n\n\n\n\nMethodology\n\n\n\n  Expand"
   },
   {
     "objectID": "files/jmp-methods/methods.html#data",
@@ -35,39 +63,18 @@
     "text": "Estimation Method\nMultinomial Logit (MNL) model of the following equation:\n\\[\\begin{align*}\n        P(Y_{i} = m) =\n        \\dfrac{\n            \\overbrace{exp(\\alpha_{c} + \\alpha_{t} +\n            \\beta_{mj} \\Gamma_{djt} +\n            X'_{i}\\gamma +\n            \\varepsilon_{im})}^{\\text{Utility of chosen field-of-study}}\n        }{\n            \\underbrace{\\sum_{m'} exp(\\alpha_{c} + \\alpha_{t} +\n            \\beta_{m'j} \\Gamma_{djt} +\n            X'_{i}\\gamma +\n            \\varepsilon_{im'}))}_{\\text{Utilities across all possible field-of-study choices}}\n        }\n\\end{align*}\\]"
   },
   {
+    "objectID": "bio.html",
+    "href": "bio.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am originally from San Jose, Costa Rica but I have lived a traveled life. I’ve lived in Costa Rica, Arizona, and Oregon all for a different amount of time. Costa Rica 16 years, Arizona was my home for 4 years, and Oregon for 10 years (and counting).\nThroughout all my years, I’ve always loved watching sports and reading. I will watch just about every sport possible, as boring as some people may consider them to be. My favorite teams, by major sports, are:\n\n\n\nSoccer: Real Madrid\nAmerican Football: Green Bay Packers\n\n\n\nBasketball: Philadelphia 76ers\nBaseball: New York Yankees\n\n\n\nOther than that, I have loved traveling, enjoying different cultures and enjoying every opportunity I come across. I look forward to more to come!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jose Alberto Rojas Fallas",
     "section": "",
-    "text": "Github\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n  \n  \nBiography\nI am a 5th Year PhD Candidate in Economics at the University of Oregon.\nI will be on the Job Market for the 2025-2026 cycle.\nOriginally from San Jose, Costa Rica. My interests are in the many ways increased international trade, either through imports or FDI, may impact developing economies. I also have interests in immigration and education topics.\nDownload my CV\n\n\n\n\nInterests\n\n International Trade\n Development\n Education\n Political Economy\n\n\nEducation\n\n PhD in Economics, Expected 2026 University of Oregon\n MS in Economics, 2021\nPortland State University\n BS in Economics, 2019\nPortland State University"
-  },
-  {
-    "objectID": "teaching-experience.html",
-    "href": "teaching-experience.html",
-    "title": "Jose Alberto Rojas Fallas",
-    "section": "",
-    "text": "I have accumulated extensive teaching experience during my time as a PhD Student. The courses I have taught range from foundational economic theory courses, elective courses, and econometric courses; all at the undergraduate level. I have taught them in 4 week and 10 week modules, as well as in-person and online. Courses have varied in size from 30 to 90 students while I have also managed teaching assistants.\nIn order to appeal to make the material more accessible and approachable to students, I have created websites for each course with all the necessary content. You can find links to these at each course below."
-  },
-  {
-    "objectID": "teaching-experience.html#teaching-experience",
-    "href": "teaching-experience.html#teaching-experience",
-    "title": "Jose Alberto Rojas Fallas",
-    "section": "",
-    "text": "I have accumulated extensive teaching experience during my time as a PhD Student. The courses I have taught range from foundational economic theory courses, elective courses, and econometric courses; all at the undergraduate level. I have taught them in 4 week and 10 week modules, as well as in-person and online. Courses have varied in size from 30 to 90 students while I have also managed teaching assistants.\nIn order to appeal to make the material more accessible and approachable to students, I have created websites for each course with all the necessary content. You can find links to these at each course below."
-  },
-  {
-    "objectID": "teaching-experience.html#courses-as-instructor-of-record",
-    "href": "teaching-experience.html#courses-as-instructor-of-record",
-    "title": "Jose Alberto Rojas Fallas",
-    "section": "Courses as Instructor of Record",
-    "text": "Courses as Instructor of Record\n\nEC 311: Intermediate Microeconomics\nSummer 2023, Fall 2024\n\n\n\n\n\n\nCourse Description\n\n\n\n\n\nThe objective of this course is to provide you with an introduction to, and overview of, the most important concepts in microeconomics. The material in this course provides the foundation for studying issues in a wide variety of fields in economics, including international trade, labor, development, and other fields, and is essential for further study in economics.\nBuilding off of basic microeconomic concepts, students will develop the ability to examine models of agents’ decisions, including consumer utility maximization, firm profit maximization, and market equilibria. Most importantly, students will develop the ability to perform constrained optimization in both the economic and critical thinking sense.\n\n\n\n\nEC 320: Introduction to Economtetrics\nSummer 2025\n\n\n\n\n\n\nCourse Description\n\n\n\n\n\nApplication of classical statistical techniques of estimation, hypothesis testing, and regression to economic models.\n\n\n\n\n\nEC 380: International Economic Issues\nFall 2024, Winter 2025\n\n\n\n\n\n\nCourse Description\n\n\n\n\n\nExchange across international boundaries, theory of comparative advantage, balance of payments and adjustments, international financial movements, exchange rates and international financial institutions, trade restrictions and policy.\n\n\n\n\n\nEC 390: Problems and Issues in the Developing Economies\nFall 2025\n\n\n\n\n\n\nCourse Description\n\n\n\n\n\nTopics may include the role of central planning, capital formation, population growth, agriculture, health and education, interaction between economic and cultural change, and the “North-South debate.”"
-  },
-  {
-    "objectID": "teaching-experience.html#selected-student-comments",
-    "href": "teaching-experience.html#selected-student-comments",
-    "title": "Jose Alberto Rojas Fallas",
-    "section": "Selected Student Comments",
-    "text": "Selected Student Comments\n\n\n\n\n\n\nTest\n\n\n\n\n\nThis is my custom collapsible note. You can put multiple paragraphs, lists, or even images here.\ntest"
+    "text": "Github\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n  \n  \nBiography\nI am a 5th Year PhD Candidate in Economics at the University of Oregon.\nI will be on the Job Market for the 2025-2026 cycle.\nOriginally from San Jose, Costa Rica. My interests are in the many ways increased international trade, either through imports or FDI, may impact developing economies. I also have interests in immigration and education topics.\n\nDownload my CV\n\n\n\n\n\nInterests\n\n International Trade\n Development\n Education\n Political Economy\n\n\nEducation\n\n PhD in Economics, Expected 2026 University of Oregon\n MS in Economics, 2021\nPortland State University\n BS in Economics, 2019\nPortland State University"
   },
   {
     "objectID": "research-agenda.html",
@@ -89,12 +96,5 @@
     "title": "Research Agenda",
     "section": "Works in Progress",
     "text": "Works in Progress"
-  },
-  {
-    "objectID": "job-market-paper.html",
-    "href": "job-market-paper.html",
-    "title": "FDI & College Major Choice Latest Draft (06.16.25)",
-    "section": "",
-    "text": "Abstract\n\n\nThis paper studies how the local presence of multinational corporations (MNCs) affects students’ college major choices in a developing country context. Using administrative data from Costa Rica’s two largest public universities covering over half a million applicants from 2007 to 2020, I examine whether exposure to MNCs—measured through firm-level location and industry data from the country’s Free Trade Zone (FTZ) regime—shapes individual decisions about field-of-study specialization. I develop a novel index of MNC presence by industry and location, incorporating geographic proximity between applicants and firms. I then estimate a multinomial logit model where students choose among broad and narrow field-of-study categories, allowing for heterogeneous responses to MNC presence across industries. The results show that MNCs meaningfully influence major choice, but the effects vary by industry and field. Service-oriented MNCs, such as those in architectural and engineering services, shift students toward both STEM and arts-related fields, while large manufacturing exporters—like medical device producers—have limited impact on STEM enrollment. Disaggregated analysis reveals that applicants tend to select majors that align with the perceived skill demands of nearby MNCs, suggesting that students respond to local labor market signals when making educational investments. These findings highlight an important and previously understudied channel through which FDI can shape human capital formation—not only through access to education, but also through the type of skills students choose to acquire. The results underscore the need for education and industrial policy coordination to ensure that specialization patterns evolve in step with economic transformation.\n\n\n\n\n\n\n\n\n\n\n\nMethodology\n\n\n\n  Expand"
   }
 ]
