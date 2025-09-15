@@ -69,7 +69,7 @@ function autoShowSlides() {
 
 <style>
 .slideshow-container {
-  max-width: 600px;   /* adjust size */
+  max-width: 1000px;   /* adjust size */
   margin: auto;
   position: relative;
 }

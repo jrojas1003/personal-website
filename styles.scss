@@ -186,3 +186,10 @@ $navbar-hl: $uo-yellow; // highlight color when hovering over navbar links
   background-color: #f5f5f5; /* background fill around images */
   border-radius: 12px;
 }
+
+.vertical-center {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* optional horizontal centering */
+  height: 100%;
+}

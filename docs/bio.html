@@ -38,7 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-59c9353761a42274fc44b210219af20d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-8097df84494ba91a64bc446c8cc8da92.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -153,6 +153,52 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>I am originally from San Jose, Costa Rica but I have lived a traveled life. I’ve lived in Costa Rica, Arizona, and Oregon all for a different amount of time. Costa Rica 16 years, Arizona was my home for 4 years, and Oregon for 10 years (and counting).</p>
+<p>Throughout all my years, I’ve always loved watching sports and reading. I will watch just about every sport possible, as boring as some people may consider them to be. My favorite teams, by major sports, are:</p>
+<div class="columns">
+<div class="column">
+<ul>
+<li>Soccer: Real Madrid</li>
+<li>American Football: Green Bay Packers</li>
+</ul>
+</div><div class="column">
+<ul>
+<li>Basketball: Philadelphia 76ers</li>
+<li>Baseball: New York Yankees</li>
+</ul>
+</div>
+</div>
+<p>Other than that, I have loved traveling, enjoying different cultures and enjoying every opportunity I come across. I look forward to more to come!</p>
+<div class="slideshow-container">
+<p><img class="mySlides" src="files/pictures/pic1.jpeg" style="width:100%"> <img class="mySlides" src="files/pictures/pic2.jpeg" style="width:100%"> <img class="mySlides" src="files/pictures/pic3.jpeg" style="width:100%"> <img class="mySlides" src="files/pictures/pic4.jpeg" style="width:100%"> <img class="mySlides" src="files/pictures/pic5.jpeg" style="width:100%"> <img class="mySlides" src="files/pictures/pic6.jpeg" style="width:100%"> <img class="mySlides" src="files/pictures/pic7.jpeg" style="width:100%"> <img class="mySlides" src="files/pictures/pic8.jpeg" style="width:100%"> <img class="mySlides" src="files/pictures/pic9.jpeg" style="width:100%"> <img class="mySlides" src="files/pictures/pic10.jpeg" style="width:100%"> <img class="mySlides" src="files/pictures/pic11.jpeg" style="width:100%"> <img class="mySlides" src="files/pictures/pic12.jpeg" style="width:100%"> <img class="mySlides" src="files/pictures/pic13.jpeg" style="width:100%"> <img class="mySlides" src="files/pictures/pic14.jpeg" style="width:100%"> <img class="mySlides" src="files/pictures/pic15.jpeg" style="width:100%"> <img class="mySlides" src="files/pictures/pic16.jpeg" style="width:100%"> <img class="mySlides" src="files/pictures/pic17.jpeg" style="width:100%"> <img class="mySlides" src="files/pictures/pic18.jpeg" style="width:100%"> <img class="mySlides" src="files/pictures/pic19.jpeg" style="width:100%"></p>
+</div>
+<script>
+let slideIndex = 0;
+autoShowSlides();
+
+function autoShowSlides() {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) { slideIndex = 1 }
+  slides[slideIndex-1].style.display = "block";
+  setTimeout(autoShowSlides, 3000); // Change image every 3s
+}
+</script>
+<style>
+.slideshow-container {
+  max-width: 600px;   /* adjust size */
+  margin: auto;
+  position: relative;
+}
+.mySlides {
+  display: none;
+  border-radius: 12px; /* optional rounded corners */
+}
+</style>
 
 
 
@@ -247,7 +293,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/jose-rojas-fallas\.quarto\.pub\/econ");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

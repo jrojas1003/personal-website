@@ -1,4 +1,34 @@
 ---
 title: Research Agenda
+toc: false
 ---
 
+## Working Papers
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+### Does The Global South Import Ideology Shifts?
+Previous research shows that regions negatively affected by trade in developed countries tend to shift toward political extremes, but little is known about such effects in developing nations. 
+Costa Rica provides a unique case, as the 2007 CAFTA-DR referendum captured direct public opinion on trade at the canton level. 
+Using canton-level vote share for CAFTA-DR as a proxy for trade support and weighting political party manifesto positions by election results, I construct a canton-level political-lean index. 
+Measuring each canton’s exposure to imports, I find that increased trade exposure shifts political support toward right-leaning parties, though this effect is weaker in cantons with higher initial support for trade. 
+These results highlight that both economic shocks and perceptions of trade influence ideological shifts in developing democracies.
+
+
+[PDF](files/documents/CAFTA-Ideology-Manuscript.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} 
+
+:::
+
+::: {.column width="40%"}
+
+<br>
+
+![](files/images/political-lean-graph.png){fig-align="right" width=450px height=300px}
+
+:::
+
+::::
+
+## Works in Progress
