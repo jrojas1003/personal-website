@@ -9,6 +9,9 @@ The courses I have taught range from foundational economic theory courses, elect
 I have taught them in 4 week and 10 week modules, as well as in-person and online. 
 Courses have varied in size from 30 to 90 students while I have also managed teaching assistants. 
 
+When possible and relevant to the course, I like to engage the class with in-class activities. 
+For example, in my International Economics Course, I periodically have the class act as an international market with different productivity endownments and resources to simulate comparative advantages. 
+
 In order to appeal to make the material more accessible and approachable to students, I have created websites for each course with all the necessary content.
 You can find links to these at each course below.
 
@@ -29,6 +32,14 @@ Most importantly, students will develop the ability to perform constrained optim
 
 :::
 
+::: {.callout-tip appearance="minimal" collapse="true"}
+#### Selected Student Feedback
+
+- "Jose has a way of teaching that is clear and easy to follow. He is a gifted teacher, and am grateful and blessed to have had him."
+- "Jose made accommodations for me when I needed it, and made time outside of class to go over material which I found to be very helpful. Great guy and teacher."
+- "Jose had an interesting way of teaching in which he was relatable and made the content he was teaching easy to learn. The learning experience was the best out of any other teacher i have had at the UO. I would hope he continues teaching!"
+:::
+
 #### [EC 320: Introduction to Economtetrics](https://jrojas1003.github.io/EC-320-Intro-Econometrics/){.hi target=_blank}
 
 [Summer 2025]{.h}
@@ -37,6 +48,11 @@ Most importantly, students will develop the ability to perform constrained optim
 #### Course Description
 
 Application of classical statistical techniques of estimation, hypothesis testing, and regression to economic models.
+:::
+
+::: {.callout-tip appearance="minimal" collapse="true"}
+#### Selected Student Feedback
+
 :::
 
 #### [EC 380: International Economic Issues](https://jrojas1003.github.io/EC-380-Intl-Econ-Issues/){.hi target=_blank}
@@ -50,6 +66,16 @@ Exchange across international boundaries, theory of comparative advantage, balan
 
 :::
 
+::: {.callout-tip appearance="minimal" collapse="true"}
+#### Selected Student Feedback
+
+- I have gone to Jose's office hours for homework and midterm review. He is very understanding and thoughtful in his clarification. I appreciate his humor and honestly with the class. Jose wants everyone to do well and interpret economics theories in a digestible way. 
+- Accommodating and creates an environment where it is easy to ask questions 
+- The in-class activities where we had all simulated being countries with different resources were very fun and engaging to class material. Class was very straightforward and engaging at the same time. 
+- Well structured with concise and organized information. Course had good flow, concepts explained simply but walked through thoroughly. Professor is engaging and includes relevant and recent research or literature in lectures. 
+
+:::
+
 #### [EC 390: Problems and Issues in the Developing Economies](https://theuselessweb.com){.hi target=_blank}
 
 [Fall 2025]{.h}
@@ -59,15 +85,4 @@ Exchange across international boundaries, theory of comparative advantage, balan
 
 Topics may include the role of central planning, capital formation, population growth, agriculture, health and education, interaction between economic and cultural change, and the "North-South debate."
 
-:::
-
-## Selected Student Comments
-
-::: {.callout-tip appearance="minimal" collapse="true"}
-### Test 
-
-This is my custom collapsible note.
-You can put multiple paragraphs, lists, or even images here.
-
-test
 :::
