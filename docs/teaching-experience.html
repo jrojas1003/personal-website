@@ -352,6 +352,7 @@ ul.task-list li input[type="checkbox"] {
 <li>“Jose made accommodations for me when I needed it, and made time outside of class to go over material which I found to be very helpful. Great guy and teacher.”</li>
 <li>“Jose had an interesting way of teaching in which he was relatable and made the content he was teaching easy to learn. The learning experience was the best out of any other teacher i have had at the UO. I would hope he continues teaching!”</li>
 </ul>
+<p><a href="files/documents/EC311-Winter24-Survey.pdf" target="_blank">Complete Course Survey</a></p>
 </div>
 </div>
 </div>
@@ -428,6 +429,7 @@ ul.task-list li input[type="checkbox"] {
 <li>The in-class activities where we had all simulated being countries with different resources were very fun and engaging to class material. Class was very straightforward and engaging at the same time.</li>
 <li>Well structured with concise and organized information. Course had good flow, concepts explained simply but walked through thoroughly. Professor is engaging and includes relevant and recent research or literature in lectures.</li>
 </ul>
+<p><a href="files/documents/EC380-Fall24-Survey.pdf" target="_blank">Complete Course Survey</a></p>
 </div>
 </div>
 </div>
@@ -544,7 +546,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/jose-rojas-fallas\.quarto\.pub\/econ");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
