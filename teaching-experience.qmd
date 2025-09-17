@@ -56,6 +56,9 @@ Application of classical statistical techniques of estimation, hypothesis testin
 ::: {.callout-tip appearance="minimal" collapse="true"}
 #### Selected Student Feedback
 
+- "The slideshows were amazing"
+- "The thorough explanations as to why something is that way is very helpful."
+
 :::
 
 #### [EC 380: International Economic Issues](https://jrojas1003.github.io/EC-380-Intl-Econ-Issues/){.hi target=_blank}
