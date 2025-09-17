@@ -39,6 +39,7 @@ I also have interests in immigration and education topics.
 
 ::: {.text-center}
 [Download my CV](files/documents/rojas-cv.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} 
+[Read my Job Market Paper](files/documents/JMP-Draft-0616.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
 <br>
