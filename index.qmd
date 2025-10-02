@@ -33,9 +33,10 @@ I am a 5th Year PhD Candidate in Economics at the University of Oregon.
 
 I will be on the Job Market for the 2025-2026 cycle. 
 
-Originally from San Jose, Costa Rica. 
-My interests are in the many ways increased international trade, either through imports or FDI, may impact developing economies.
-I also have interests in immigration and education topics. 
+I am interested in studying how international trade, through imports or foreign investment, affects developing economies, particularly in LATAM.
+
+I am originally from San Jose, Costa Rica. 
+
 
 ::: {.text-center}
 [Download my CV](files/documents/rojas-cv.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} 
