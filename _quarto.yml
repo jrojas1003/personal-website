@@ -8,12 +8,6 @@ website:
   page-navigation: true
   title: "Jose Alberto Rojas Fallas"
   favicon: files/images/UO-icon.png
-  announcement:
-    icon: info-circle
-    dimissable: false
-    content: "**WEBSITE CURRENTLY UNDER CONSTRUCTION - UPDATES COMING SOON**"
-    type: info
-    position: below-navbar
 
   page-footer:
     left: "&copy; Copyright 2025, Jose A. Rojas Fallas"
