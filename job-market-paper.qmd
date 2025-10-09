@@ -7,25 +7,19 @@ toc: false
 
 :::: {.columns}
 
-::: {.column width="70%"}
-
+::: {.column width="50%"}
 This paper studies how the local presence of multinational corporations (MNCs) affects students’ college major choices in a developing country context. 
-Using administrative data from Costa Rica’s two largest public universities covering over half a million applicants from 2007 to 2020, I examine whether exposure to MNCs—measured through firm-level location and industry data from the country’s Free Trade Zone (FTZ) regime—shapes individual decisions about field-of-study specialization. 
+Using administrative data from a large public university in Costa Rica from 2010 to 2019, I examine whether the presence of MNCs - captured through firm industry and location data - affects individuals' field-of-study choice. 
 I develop a novel index of MNC presence by industry and location, incorporating geographic proximity between applicants and firms. 
-I then estimate a multinomial logit model where students choose among broad and narrow field-of-study categories, allowing for heterogeneous responses to MNC presence across industries.
+I then estimate a multinomial logit model where students choose among 3 broad field-of-study categories, allowing for heterogeneous responses to MNC presence across industries.
 The results show that MNCs meaningfully influence major choice, but the effects vary by industry and field. 
-Service-oriented MNCs, such as those in architectural and engineering services, shift students toward both STEM and arts-related fields, while large manufacturing exporters—like medical device producers—have limited impact on STEM enrollment. 
-Disaggregated analysis reveals that applicants tend to select majors that align with the perceived skill demands of nearby MNCs, suggesting that students respond to local labor market signals when making educational investments.
-These findings highlight an important and previously understudied channel through which FDI can shape human capital formation—not only through access to education, but also through the type of skills students choose to acquire.
+Findings highlight an important and previously understudied channel through which FDI can shape human capital formation — through the human capital concentration students select.
 The results underscore the need for education and industrial policy coordination to ensure that specialization patterns evolve in step with economic transformation.
-
 :::
 
-::: {.column width="30%"}
+::: {.column width="50%"}
 
-<br><br><br>
-
-![](files/images/cat3-ame-graph.jpeg){fig-align="right" width=450px height=300px}
+![](files/images/district-std-err-ames-nowholesale.jpeg){fig-align="right" width=500px height=400px}
 
 :::
 
