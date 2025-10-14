@@ -2,7 +2,7 @@
 toc: false
 ---
 
-## Teaching Experience
+## Teaching Experience [Teaching Statement](files/documents/teaching-statement.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 
 I have accumulated extensive teaching experience during my time as a PhD Student. 
 The courses I have taught range from foundational economic theory courses, elective courses, and econometric courses; all at the undergraduate level. 

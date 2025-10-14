@@ -3,6 +3,8 @@ title: Research Agenda
 toc: false
 ---
 
+[Research Statement](files/documents/research-statement.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
+
 ## Working Papers
 
 :::: {.columns}
@@ -34,3 +36,5 @@ These results highlight that both economic shocks and perceptions of trade influ
 ## Works in Progress
 
 ### FDI & College Major Choice: A Structural Model Approach
+
+### eDACAtion: Are Higher Educaiton Attainment Benefits Equally Distributed Amongst Undocumented Youth?
