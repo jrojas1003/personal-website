@@ -49,8 +49,8 @@
     "text": "I have accumulated extensive teaching experience during my time as a PhD Student. The courses I have taught range from foundational economic theory courses, elective courses, and econometric courses; all at the undergraduate level. I have taught them in 4 week and 10 week modules, as well as in-person and online. Courses have varied in size from 30 to 90 students while I have also managed teaching assistants.\nWhen possible and relevant to the course, I like to engage the class with in-class activities. For example, in my International Economics Course, I periodically have the class act as an international market with different productivity endownments and resources to simulate comparative advantages.\nIn order to appeal to make the material more accessible and approachable to students, I have created websites for each course with all the necessary content. You can find links to these at each course below."
   },
   {
-    "objectID": "teaching-experience.html#teaching-experience",
-    "href": "teaching-experience.html#teaching-experience",
+    "objectID": "teaching-experience.html#teaching-experience-teaching-statement",
+    "href": "teaching-experience.html#teaching-experience-teaching-statement",
     "title": "Jose Alberto Rojas Fallas",
     "section": "",
     "text": "I have accumulated extensive teaching experience during my time as a PhD Student. The courses I have taught range from foundational economic theory courses, elective courses, and econometric courses; all at the undergraduate level. I have taught them in 4 week and 10 week modules, as well as in-person and online. Courses have varied in size from 30 to 90 students while I have also managed teaching assistants.\nWhen possible and relevant to the course, I like to engage the class with in-class activities. For example, in my International Economics Course, I periodically have the class act as an international market with different productivity endownments and resources to simulate comparative advantages.\nIn order to appeal to make the material more accessible and approachable to students, I have created websites for each course with all the necessary content. You can find links to these at each course below."
@@ -67,26 +67,26 @@
     "href": "research-agenda.html",
     "title": "Research Agenda",
     "section": "",
-    "text": "Previous research shows that regions negatively affected by trade in developed countries tend to shift toward political extremes, but little is known about such effects in developing nations. Costa Rica provides a unique case, as the 2007 CAFTA-DR referendum captured direct public opinion on trade at the canton level. Using canton-level vote share for CAFTA-DR as a proxy for trade support and weighting political party manifesto positions by election results, I construct a canton-level political-lean index. Measuring each canton’s exposure to imports, I find that increased trade exposure shifts political support toward right-leaning parties, though this effect is weaker in cantons with higher initial support for trade. These results highlight that both economic shocks and perceptions of trade influence ideological shifts in developing democracies.\nPDF"
+    "text": "Research Statement"
   },
   {
     "objectID": "research-agenda.html#working-papers",
     "href": "research-agenda.html#working-papers",
     "title": "Research Agenda",
-    "section": "",
-    "text": "Previous research shows that regions negatively affected by trade in developed countries tend to shift toward political extremes, but little is known about such effects in developing nations. Costa Rica provides a unique case, as the 2007 CAFTA-DR referendum captured direct public opinion on trade at the canton level. Using canton-level vote share for CAFTA-DR as a proxy for trade support and weighting political party manifesto positions by election results, I construct a canton-level political-lean index. Measuring each canton’s exposure to imports, I find that increased trade exposure shifts political support toward right-leaning parties, though this effect is weaker in cantons with higher initial support for trade. These results highlight that both economic shocks and perceptions of trade influence ideological shifts in developing democracies.\nPDF"
+    "section": "Working Papers",
+    "text": "Working Papers\n\n\n\nDoes The Global South Import Ideology Shifts?\nPrevious research shows that regions negatively affected by trade in developed countries tend to shift toward political extremes, but little is known about such effects in developing nations. Costa Rica provides a unique case, as the 2007 CAFTA-DR referendum captured direct public opinion on trade at the canton level. Using canton-level vote share for CAFTA-DR as a proxy for trade support and weighting political party manifesto positions by election results, I construct a canton-level political-lean index. Measuring each canton’s exposure to imports, I find that increased trade exposure shifts political support toward right-leaning parties, though this effect is weaker in cantons with higher initial support for trade. These results highlight that both economic shocks and perceptions of trade influence ideological shifts in developing democracies.\nPDF"
   },
   {
     "objectID": "research-agenda.html#works-in-progress",
     "href": "research-agenda.html#works-in-progress",
     "title": "Research Agenda",
     "section": "Works in Progress",
-    "text": "Works in Progress\n\nFDI & College Major Choice: A Structural Model Approach"
+    "text": "Works in Progress\n\nFDI & College Major Choice: A Structural Model Approach\n\n\neDACAtion: Are Higher Educaiton Attainment Benefits Equally Distributed Amongst Undocumented Youth?"
   },
   {
     "objectID": "job-market-paper.html",
     "href": "job-market-paper.html",
-    "title": "FDI & College Major Choice Latest Draft (06.16.25)",
+    "title": "FDI & College Major Choice Latest Draft (06.16.25) Presentation",
     "section": "",
     "text": "Abstract\n\n\nThis paper studies how the local presence of multinational corporations (MNCs) affects students’ college major choices in a developing country context. Using administrative data from a large public university in Costa Rica from 2010 to 2019, I examine whether the presence of MNCs - captured through firm industry and location data - affects individuals’ field-of-study choice. I develop a novel index of MNC presence by industry and location, incorporating geographic proximity between applicants and firms. I then estimate a multinomial logit model where students choose among 3 broad field-of-study categories, allowing for heterogeneous responses to MNC presence across industries. The results show that MNCs meaningfully influence major choice, but the effects vary by industry and field. Findings highlight an important and previously understudied channel through which FDI can shape human capital formation — through the human capital concentration students select. The results underscore the need for education and industrial policy coordination to ensure that specialization patterns evolve in step with economic transformation.\n\n\n\n\n\n\n\n\n\n\nMethodology\n\n\n\n  Expand"
   }
