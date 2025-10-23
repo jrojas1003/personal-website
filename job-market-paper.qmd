@@ -1,7 +1,10 @@
 ---
-title: FDI & College Major Choice [Latest Draft (10.16.25)](files/documents/Manuscript.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} [Presentation](files/documents/micro-0530.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
+title: Global Firms, Local Students - Multinational Presence Shapes College Major Choice 
 toc: false
 ---
+
+[Latest Draft (10.23.25)](files/documents/Manuscript.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} [Presentation](files/documents/slides.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
+
 
 ### Abstract
 
@@ -10,10 +13,10 @@ toc: false
 ::: {.column width="50%"}
 Multinational firms shape local economies by changing the returns of skill acquisition and through changes in labor demand.
 In this paper, I study a specific pathway through which they do so, by reorienting college graduates towards fields of specialization in demand by Multinational Corporations (MNCs).
-Using administrative data from a large public university in Costa Rica, I examine whether the local presence of MNCs affects the field-of-study preference of prospective university students. 
-To capture local exposure to MNC activity, I develop a measure of multinational firm presence by industry and locatoin, incorporating spatial proximity between firms and university applicants. 
-I estimate a multinomial logit model where students choose among broad field-of-study categories, allowing for hetergeneous effects to MNC presence across industry and academic discipline pairings. 
-Results show that MNCs impact students decisions, with effects varying by industry and field-of-study. 
+Using administrative data from a large public university in Costa Rica, I examine whether the local presence of MNCs affects the field of study preference of prospective university students. 
+To capture local exposure to MNC activity, I develop a measure of multinational firm presence by industry and location, incorporating spatial proximity between firms and university applicants. 
+I estimate a multinomial logit model where students choose among broad field of study categories, allowing for hetergeneous effects to MNC presence across industry and academic discipline pairings. 
+Results show that MNCs impact students decisions, with effects varying by industry and field of study. 
 These findings highlight an important and previously understudied channel through which FDI can shape human capital formation in receiving nations. 
 :::
 
@@ -25,6 +28,7 @@ These findings highlight an important and previously understudied channel throug
 
 ::::
 
+<!--
 ### Methodology
 
 <br>
@@ -36,3 +40,4 @@ These findings highlight an important and previously understudied channel throug
     <i class="fa-solid fa-file-arrow-down"></i> Expand
   </a>
 </div>
+-->
