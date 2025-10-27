@@ -17,7 +17,7 @@ You can find links to these at each course below.
 
 ## Courses as Instructor of Record
 
-### [EC 311: Intermediate Microeconomics](https://theuselessweb.com){.hi target=_blank}
+### [EC 311: Intermediate Microeconomics]{.hi}
 
 [Summer 2023, Fall 2024]{.h}
 
@@ -43,7 +43,7 @@ Most importantly, students will develop the ability to perform constrained optim
 
 :::
 
-#### [EC 320: Introduction to Economtetrics](https://jrojas1003.github.io/EC-320-Intro-Econometrics/){.hi target=_blank}
+#### [EC 320: Introduction to Econometrics](https://jrojas1003.github.io/EC-320-Intro-Econometrics/){.hi target=_blank}
 
 [Summer 2025]{.h}
 
@@ -75,10 +75,10 @@ Exchange across international boundaries, theory of comparative advantage, balan
 ::: {.callout-tip appearance="minimal" collapse="true"}
 #### Selected Student Feedback
 
-- I have gone to Jose's office hours for homework and midterm review. He is very understanding and thoughtful in his clarification. I appreciate his humor and honestly with the class. Jose wants everyone to do well and interpret economics theories in a digestible way. 
-- Accommodating and creates an environment where it is easy to ask questions 
-- The in-class activities where we had all simulated being countries with different resources were very fun and engaging to class material. Class was very straightforward and engaging at the same time. 
-- Well structured with concise and organized information. Course had good flow, concepts explained simply but walked through thoroughly. Professor is engaging and includes relevant and recent research or literature in lectures. 
+- "I have gone to Jose's office hours for homework and midterm review. He is very understanding and thoughtful in his clarification. I appreciate his humor and honestly with the class. Jose wants everyone to do well and interpret economics theories in a digestible way." 
+- "Accommodating and creates an environment where it is easy to ask questions" 
+- "The in-class activities where we had all simulated being countries with different resources were very fun and engaging to class material. Class was very straightforward and engaging at the same time." 
+- "Well structured with concise and organized information. Course had good flow, concepts explained simply but walked through thoroughly. Professor is engaging and includes relevant and recent research or literature in lectures."
 
 [Complete Course Survey](files/documents/EC380-Fall24-Survey.pdf){target=_blank}
 
