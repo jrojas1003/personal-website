@@ -174,8 +174,8 @@ ul.task-list li input[type="checkbox"] {
   <div class="about-contents"><div id="hero-heading">
 <p><span class="big hi">Biography</span></p>
 <p>I am a 5th Year PhD Candidate in Economics at the University of Oregon.</p>
-<p>I will be on the Job Market for the 2025-2026 cycle.</p>
-<p>I am interested in studying how international trade, through imports or foreign investment, affects developing economies, particularly in LATAM.</p>
+<p>I will be on the Job Market in the 2025-2026 cycle.</p>
+<p>My research focuses on how trade and foreign investment influence educational choices and political dynamics in low- and middle-income countries.</p>
 <p>I am originally from San Jose, Costa Rica.</p>
 <div class="text-center">
 <p><a href="files/documents/rojas-cv.pdf" class="btn btn-primary btn-lg cv-download" target="_blank">Download my CV</a> <a href="files/documents/Manuscript.pdf" class="btn btn-primary btn-lg cv-download" target="_blank">Read my Job Market Paper</a></p>
@@ -436,7 +436,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/jose-rojas-fallas\.quarto\.pub\/econ");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
