@@ -17,12 +17,7 @@ website:
     pinned: true
     right:      
       - text: Research
-        menu:
-          - text: Job Market Paper
-            href: job-market-paper.qmd
-
-          - text: Research Agenda
-            href: research-agenda.qmd
+        href: research-agenda.qmd
 
       - href: teaching-experience.qmd
         text: Teaching
