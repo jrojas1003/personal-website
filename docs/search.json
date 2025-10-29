@@ -70,18 +70,32 @@
     "text": "Research Statement"
   },
   {
+    "objectID": "research-agenda.html#job-market-paper",
+    "href": "research-agenda.html#job-market-paper",
+    "title": "Research Agenda",
+    "section": "Job Market Paper",
+    "text": "Job Market Paper\nLatest Draft (10.23.25) Presentation\n\n\nGlobal Firms, Local Students:\nMultinational Presence Shapes College Major Choice\nMultinational firms shape local economies by changing the returns of skill acquisition and through changes in labor demand. In this paper, I study a specific pathway through which they do so, by reorienting college graduates towards fields of specialization in demand by Multinational Corporations (MNCs). Using administrative data from a large public university in Costa Rica, I examine whether the local presence of MNCs affects the field of study preference of prospective university students. To capture local exposure to MNC activity, I develop a measure of multinational firm presence by industry and location, incorporating spatial proximity between firms and university applicants. I estimate a multinomial logit model where students choose among broad field of study categories, allowing for hetergeneous effects to MNC presence across industry and academic discipline pairings. Results show that MNCs impact students decisions, with effects varying by industry and field of study. These findings highlight an important and previously understudied channel through which FDI can shape human capital formation in receiving nations."
+  },
+  {
+    "objectID": "research-agenda.html#publications",
+    "href": "research-agenda.html#publications",
+    "title": "Research Agenda",
+    "section": "Publications",
+    "text": "Publications\n\n\nWage Differences Matter: An Experiment of Social Comparison and Effort Provision when Wages Increase or Decrease\nGames (2020), 11(4):59 with J. Forrest Williams\nWage rates, eﬃciency wages, and gift exchange in a labor market are all crucial aspects in regard to designing contracts to ensure high eﬀort from workers. We extend this literature by discussing the relationship between known diﬀerences in wages (social comparison) and workers’ eﬀort provision. We conduct an experiment in which subjects perform eﬀort tasks for piece-rates. All subjects are paid the same wage rate in the first half of the experiment, but in the second half are paid diﬀerent wage rates; the primary variable we study is the information about others’ wage rates given to a subset of subjects. We find that subjects’ eﬀorts respond strongly to information about others’ wages. Such findings have implications for contract structuring for workers."
+  },
+  {
     "objectID": "research-agenda.html#working-papers",
     "href": "research-agenda.html#working-papers",
     "title": "Research Agenda",
     "section": "Working Papers",
-    "text": "Working Papers\n\n\n\nDoes The Global South Import Ideology Shifts?\nPrevious research shows that regions negatively affected by trade in developed countries tend to shift toward political extremes, but little is known about such effects in developing nations. Costa Rica provides a unique case, as the 2007 CAFTA-DR referendum captured direct public opinion on trade at the canton level. Using canton-level vote share for CAFTA-DR as a proxy for trade support and weighting political party manifesto positions by election results, I construct a canton-level political-lean index. Measuring each canton’s exposure to imports, I find that increased trade exposure shifts political support toward right-leaning parties, though this effect is weaker in cantons with higher initial support for trade. These results highlight that both economic shocks and perceptions of trade influence ideological shifts in developing democracies.\nPDF"
+    "text": "Working Papers\n\n\nDoes The Global South Import Ideology Shifts?\nPrevious research shows that regions negatively affected by trade in developed countries tend to shift toward political extremes, but little is known about such effects in developing nations. Costa Rica provides a unique case, as the 2007 CAFTA-DR referendum captured direct public opinion on trade at the canton level. Using canton-level vote share for CAFTA-DR as a proxy for trade support and weighting political party manifesto positions by election results, I construct a canton-level political-lean index. Measuring each canton’s exposure to imports, I find that increased trade exposure shifts political support toward right-leaning parties, though this effect is weaker in cantons with higher initial support for trade. These results highlight that both economic shocks and perceptions of trade influence ideological shifts in developing democracies.\nPaper Draft"
   },
   {
     "objectID": "research-agenda.html#works-in-progress",
     "href": "research-agenda.html#works-in-progress",
     "title": "Research Agenda",
     "section": "Works in Progress",
-    "text": "Works in Progress\n\nFDI and College Major Choice: A Structural Model\n\n\neDACAtion: Are Higher Educaiton Attainment Benefits Equally Distributed Amongst Undocumented Youth?"
+    "text": "Works in Progress\nFDI and College Major Choice: A Structural Model\neDACAtion: Are Higher Educaiton Attainment Benefits Equally Distributed Amongst Undocumented Youth?"
   },
   {
     "objectID": "job-market-paper.html",
