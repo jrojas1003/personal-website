@@ -7,7 +7,7 @@ toc: false
 
 ## Job Market Paper
 
-[Latest Draft (10.23.25)](files/documents/Manuscript.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} [Presentation](files/documents/slides.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
+[Latest Draft (11.02.25)](files/documents/Manuscript.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} [Presentation](files/documents/presentation.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 
 :::: {.columns}
 
@@ -28,7 +28,7 @@ These findings highlight an important and previously understudied channel throug
 
 <br>
 
-![](files/images/district-std-err-ames-nowholesale.jpeg){fig-align="right" width=450px height=400px}
+![](files/images/main-ames-results-alt.jpeg){fig-align="right" width=450px height=400px}
 
 :::
 
