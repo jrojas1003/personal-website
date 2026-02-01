@@ -94,3 +94,12 @@ Exchange across international boundaries, theory of comparative advantage, balan
 Topics may include the role of central planning, capital formation, population growth, agriculture, health and education, interaction between economic and cultural change, and the "North-South debate."
 
 :::
+
+::: {.callout-tip appearance="minimal" collapse="true"}
+#### Selected Student Feedback
+
+- "I was a big fan of the term project of this course being a research proposal. It was a low-stakes (in that you didn't have to complete an *entire* research project) way of exploring what beginning research in the economics field might look like, something I haven't had the opportunity to do at this point in time and honestly didn't know much about. It dove-tailed well with the econometrics class I was taking at the same time, giving me an idea of conceptual and practical ways to execute economics research. Very cool!"
+- "The fact that we are pushed to actually understand economics rather than memorize it has helped me immensely. I truly appreciate the actual learning that I have achieved this term."
+- "Jose was an excellent instructor. His feedback on assignments was always so good. He has been one of the most organized instructors I have had, with his own website that made everything super easy to find. Always went above and beyond."
+
+:::
