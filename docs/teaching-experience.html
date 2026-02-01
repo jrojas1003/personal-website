@@ -273,6 +273,27 @@ Course Description
 </div>
 </div>
 </div>
+<div class="callout callout-style-simple callout-tip no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-8-contents" aria-controls="callout-8" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Selected Student Feedback
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-8" class="callout-8-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<ul>
+<li>“I was a big fan of the term project of this course being a research proposal. It was a low-stakes (in that you didn’t have to complete an <em>entire</em> research project) way of exploring what beginning research in the economics field might look like, something I haven’t had the opportunity to do at this point in time and honestly didn’t know much about. It dove-tailed well with the econometrics class I was taking at the same time, giving me an idea of conceptual and practical ways to execute economics research. Very cool!”</li>
+<li>“The fact that we are pushed to actually understand economics rather than memorize it has helped me immensely. I truly appreciate the actual learning that I have achieved this term.”</li>
+<li>“Jose was an excellent instructor. His feedback on assignments was always so good. He has been one of the most organized instructors I have had, with his own website that made everything super easy to find. Always went above and beyond.”</li>
+</ul>
+<p><a href="files/documents/EC390-Fall25-Survey.pdf" target="_blank">Complete Course Survey</a></p>
+</div>
+</div>
+</div>
 
 
 </section>
@@ -514,7 +535,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/jose-rojas-fallas\.quarto\.pub\/econ");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

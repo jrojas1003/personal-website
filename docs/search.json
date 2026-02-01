@@ -1,66 +1,542 @@
 [
   {
+    "objectID": "presentation/JMP/02-contribution.html",
+    "href": "presentation/JMP/02-contribution.html",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "A shift from low to high exposure to Manufacturing MNCs increases the probability of choosing a major within Stem and Applied Sciences by 52.9 p.p.\n\nDecreases probability of choosing Arts by 25 p.p. and Social Sciences by 27.9 p.p.\n\nA shift from low to high exposure to Administrative Service MNCs increases the probability of choosing a major within Social Sciences and Professional Studies by 39.81 p.p.\n\nDecreases the probability of choosing Arts by 30.58 p.p. and STEM and Applied Sciences by 8.96 p.p.\n\nDirectional effects are robust to removing the industry-field mapping\nMultinational Firm effects are extremely local\nHeterogeneity tests show no difference between men and women\n\n\n\ndistance decay: Strong within 5km but decays rapidly. Students respond to hyper-local labor-market signals."
+  },
+  {
+    "objectID": "presentation/JMP/02-contribution.html#preview-of-results",
+    "href": "presentation/JMP/02-contribution.html#preview-of-results",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "A shift from low to high exposure to Manufacturing MNCs increases the probability of choosing a major within Stem and Applied Sciences by 52.9 p.p.\n\nDecreases probability of choosing Arts by 25 p.p. and Social Sciences by 27.9 p.p.\n\nA shift from low to high exposure to Administrative Service MNCs increases the probability of choosing a major within Social Sciences and Professional Studies by 39.81 p.p.\n\nDecreases the probability of choosing Arts by 30.58 p.p. and STEM and Applied Sciences by 8.96 p.p.\n\nDirectional effects are robust to removing the industry-field mapping\nMultinational Firm effects are extremely local\nHeterogeneity tests show no difference between men and women\n\n\n\ndistance decay: Strong within 5km but decays rapidly. Students respond to hyper-local labor-market signals."
+  },
+  {
+    "objectID": "presentation/JMP/02-contribution.html#contributions",
+    "href": "presentation/JMP/02-contribution.html#contributions",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Contributions",
+    "text": "Contributions\nMechanism of fdi shifting human capital specialization decisions\nDeterminants of College Major Choice\n\nInformation availability\n\n@jensen_perceived_2010, @kaufmann_understanding_2014\n\nWages\n\n@carneiro_estimating_2011, @arcidiacono_modeling_2012, @arcidiacono_ex_2020, @beffy_choosing_2012, @carroll_why_2014, @kirkeboen_field_2016, @bleemer_will_2022\n\nNon-pecuniary returns\n\n@altonji_demand_1993\n\nAbility and preference sorting\n\n@arcidiacono_ability_2004, @kinsler_specificity_2015"
+  },
+  {
+    "objectID": "presentation/JMP/02-contribution.html#contributions-1",
+    "href": "presentation/JMP/02-contribution.html#contributions-1",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Contributions",
+    "text": "Contributions\nMechanism of fdi shifting human capital specialization decisions\n\nDeterminants of College Major Choice\n\nWages | Non-pecuniary returns | Ability and preference sorting | Information availability\n\n\nEffects of increased trade/fdi inflow on local labor markets\n\nIncrease in skilled labor demand\n\n@feenstra_foreign_1997, @JavorcikBeataS.2015DFBG, @alfaro-urena_effects_2021, @setzler_effects_2021\n\nSkill acquisition decisions\n\n@blanchard_trade_2016"
+  },
+  {
+    "objectID": "presentation/JMP/01-motivation.html",
+    "href": "presentation/JMP/01-motivation.html",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "Lower- and Middle-Income Countries (LMICs) have seen an increasing rate of fdi inflow in recent decades\nSource: World Bank"
+  },
+  {
+    "objectID": "presentation/JMP/01-motivation.html#growth-of-fdi-in-lmics",
+    "href": "presentation/JMP/01-motivation.html#growth-of-fdi-in-lmics",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "Lower- and Middle-Income Countries (LMICs) have seen an increasing rate of fdi inflow in recent decades\nSource: World Bank"
+  },
+  {
+    "objectID": "presentation/JMP/01-motivation.html#tertiary-enrollment-growth-in-lmics",
+    "href": "presentation/JMP/01-motivation.html#tertiary-enrollment-growth-in-lmics",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Tertiary Enrollment Growth in LMICs",
+    "text": "Tertiary Enrollment Growth in LMICs\n\n\n\n\n\nTertiary enrollment rates have increased in LMICs\nSource: World Bank\n\nGrowth since 2000 not levels (graph error)\nTertiary education is useless by itself, it requires a labor market to complement it"
+  },
+  {
+    "objectID": "presentation/JMP/01-motivation.html#research-question",
+    "href": "presentation/JMP/01-motivation.html#research-question",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Research Question",
+    "text": "Research Question\nHypothesis: Multinational Firms affect skill specialization decisions\n\n\nI use administrative data of university applications and location of MNCs within industrial parks in Costa Rica from 2010 to 2019\n\n\n\nCosta Rica FDI Costa Rica Tertiary Enrollment\n\n\nIdentification Strategy\n\nSpatial and temporal variation in industry composition\nDistance between students and MNCs\nKey Variable: Exposure to near MNCs\n\n\nStudents are aware of all multinational firms in the country, but they receive stronger “signals” from nearby oness"
+  },
+  {
+    "objectID": "presentation/JMP/01-motivation.html#preview-of-results",
+    "href": "presentation/JMP/01-motivation.html#preview-of-results",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Preview of Results",
+    "text": "Preview of Results\n\nA shift from low to high exposure to Manufacturing MNCs increases the probability of choosing a major within Stem and Applied Sciences by 52.9 p.p.\n\nDecreases probability of choosing Arts by 25 p.p. and Social Sciences by 27.9 p.p.\n\n\n\n\n\nA shift from low to high exposure to Administrative Service MNCs increases the probability of choosing a major within Social Sciences and Professional Studies by 39.81 p.p.\n\nDecreases the probability of choosing Arts by 30.58 p.p. and STEM and Applied Sciences by 8.96 p.p.\n\nDirectional effects are robust to removing the industry-field mapping\nMultinational Firm effects are extremely local\nHeterogeneity tests show no difference between men and women\n\n\n\n\ndistance decay: Strong within 5km but decays rapidly. Students respond to hyper-local labor-market signals."
+  },
+  {
+    "objectID": "presentation/JMP/01-motivation.html#preview-of-results-1",
+    "href": "presentation/JMP/01-motivation.html#preview-of-results-1",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Preview of Results",
+    "text": "Preview of Results\n\n\nA shift from low to high exposure to Manufacturing MNCs increases the probability of choosing a major within Stem and Applied Sciences by 52.9 p.p.\n\nDecreases probability of choosing Arts by 25 p.p. and Social Sciences by 27.9 p.p.\n\n\n\n\nA shift from low to high exposure to Administrative Service MNCs increases the probability of choosing a major within Social Sciences and Professional Studies by 39.81 p.p.\n\nDecreases the probability of choosing Arts by 30.58 p.p. and STEM and Applied Sciences by 8.96 p.p.\n\n\n\n\nDirectional effects are robust to removing the industry-field mapping\nMultinational Firm effects are extremely local\nHeterogeneity tests show no difference between men and women\n\n\n\ndistance decay: Strong within 5km but decays rapidly. Students respond to hyper-local labor-market signals."
+  },
+  {
+    "objectID": "presentation/JMP/01-motivation.html#preview-of-results-2",
+    "href": "presentation/JMP/01-motivation.html#preview-of-results-2",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Preview of Results",
+    "text": "Preview of Results\n\n\nA shift from low to high exposure to Manufacturing MNCs increases the probability of choosing a major within Stem and Applied Sciences by 52.9 p.p.\n\nDecreases probability of choosing Arts by 25 p.p. and Social Sciences by 27.9 p.p.\n\nA shift from low to high exposure to Administrative Service MNCs increases the probability of choosing a major within Social Sciences and Professional Studies by 39.81 p.p.\n\nDecreases the probability of choosing Arts by 30.58 p.p. and STEM and Applied Sciences by 8.96 p.p.\n\n\n\n\nDirectional effects are robust to removing the industry-field mapping\nMultinational Firm effects are extremely local\nHeterogeneity tests show no difference between men and women\n\n\ndistance decay: Strong within 5km but decays rapidly. Students respond to hyper-local labor-market signals."
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#growth-of-fdi-in-lmics",
+    "href": "presentation/JMP/00-slides-compilation.html#growth-of-fdi-in-lmics",
+    "title": "Global Firms, Local Students",
+    "section": "Growth of FDI in LMICs",
+    "text": "Growth of FDI in LMICs\n\nLower- and Middle-Income Countries (LMICs) have seen an increasing rate of fdi inflow in recent decades\nSource: World Bank"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#tertiary-enrollment-growth-in-lmics",
+    "href": "presentation/JMP/00-slides-compilation.html#tertiary-enrollment-growth-in-lmics",
+    "title": "Global Firms, Local Students",
+    "section": "Tertiary Enrollment Growth in LMICs",
+    "text": "Tertiary Enrollment Growth in LMICs\n\nTertiary enrollment rates have increased in LMICs\nSource: World Bank\n\nGrowth since 2000 not levels (graph error)\nTertiary education is useless by itself, it requires a labor market to complement it"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#research-question",
+    "href": "presentation/JMP/00-slides-compilation.html#research-question",
+    "title": "Global Firms, Local Students",
+    "section": "Research Question",
+    "text": "Research Question\nHypothesis: Multinational Firms affect skill specialization decisions\n\n\nI use administrative data of university applications and location of MNCs within industrial parks in Costa Rica from 2010 to 2019\n\n\n\nCosta Rica FDI Costa Rica Tertiary Enrollment\n\n\nIdentification Strategy\n\nSpatial and temporal variation in industry composition\nDistance between students and MNCs\nKey Variable: Exposure to near MNCs\n\n\nStudents are aware of all multinational firms in the country, but they receive stronger “signals” from nearby oness"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#preview-of-results",
+    "href": "presentation/JMP/00-slides-compilation.html#preview-of-results",
+    "title": "Global Firms, Local Students",
+    "section": "Preview of Results",
+    "text": "Preview of Results\n\nA shift from low to high exposure to Manufacturing MNCs increases the probability of choosing a major within Stem and Applied Sciences by 52.9 p.p.\n\nDecreases probability of choosing Arts by 25 p.p. and Social Sciences by 27.9 p.p.\n\n\n\n\n\nA shift from low to high exposure to Administrative Service MNCs increases the probability of choosing a major within Social Sciences and Professional Studies by 39.81 p.p.\n\nDecreases the probability of choosing Arts by 30.58 p.p. and STEM and Applied Sciences by 8.96 p.p.\n\nDirectional effects are robust to removing the industry-field mapping\nMultinational Firm effects are extremely local\nHeterogeneity tests show no difference between men and women\n\n\n\n\ndistance decay: Strong within 5km but decays rapidly. Students respond to hyper-local labor-market signals."
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#preview-of-results-1",
+    "href": "presentation/JMP/00-slides-compilation.html#preview-of-results-1",
+    "title": "Global Firms, Local Students",
+    "section": "Preview of Results",
+    "text": "Preview of Results\n\n\nA shift from low to high exposure to Manufacturing MNCs increases the probability of choosing a major within Stem and Applied Sciences by 52.9 p.p.\n\nDecreases probability of choosing Arts by 25 p.p. and Social Sciences by 27.9 p.p.\n\n\n\n\nA shift from low to high exposure to Administrative Service MNCs increases the probability of choosing a major within Social Sciences and Professional Studies by 39.81 p.p.\n\nDecreases the probability of choosing Arts by 30.58 p.p. and STEM and Applied Sciences by 8.96 p.p.\n\n\n\n\nDirectional effects are robust to removing the industry-field mapping\nMultinational Firm effects are extremely local\nHeterogeneity tests show no difference between men and women\n\n\n\ndistance decay: Strong within 5km but decays rapidly. Students respond to hyper-local labor-market signals."
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#preview-of-results-2",
+    "href": "presentation/JMP/00-slides-compilation.html#preview-of-results-2",
+    "title": "Global Firms, Local Students",
+    "section": "Preview of Results",
+    "text": "Preview of Results\n\n\nA shift from low to high exposure to Manufacturing MNCs increases the probability of choosing a major within Stem and Applied Sciences by 52.9 p.p.\n\nDecreases probability of choosing Arts by 25 p.p. and Social Sciences by 27.9 p.p.\n\nA shift from low to high exposure to Administrative Service MNCs increases the probability of choosing a major within Social Sciences and Professional Studies by 39.81 p.p.\n\nDecreases the probability of choosing Arts by 30.58 p.p. and STEM and Applied Sciences by 8.96 p.p.\n\n\n\n\nDirectional effects are robust to removing the industry-field mapping\nMultinational Firm effects are extremely local\nHeterogeneity tests show no difference between men and women\n\n\ndistance decay: Strong within 5km but decays rapidly. Students respond to hyper-local labor-market signals."
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#preview-of-results-3",
+    "href": "presentation/JMP/00-slides-compilation.html#preview-of-results-3",
+    "title": "Global Firms, Local Students",
+    "section": "Preview of Results",
+    "text": "Preview of Results\n\n\nA shift from low to high exposure to Manufacturing MNCs increases the probability of choosing a major within Stem and Applied Sciences by 52.9 p.p.\n\nDecreases probability of choosing Arts by 25 p.p. and Social Sciences by 27.9 p.p.\n\nA shift from low to high exposure to Administrative Service MNCs increases the probability of choosing a major within Social Sciences and Professional Studies by 39.81 p.p.\n\nDecreases the probability of choosing Arts by 30.58 p.p. and STEM and Applied Sciences by 8.96 p.p.\n\nDirectional effects are robust to removing the industry-field mapping\nMultinational Firm effects are extremely local\nHeterogeneity tests show no difference between men and women\n\n\n\ndistance decay: Strong within 5km but decays rapidly. Students respond to hyper-local labor-market signals."
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#contributions",
+    "href": "presentation/JMP/00-slides-compilation.html#contributions",
+    "title": "Global Firms, Local Students",
+    "section": "Contributions",
+    "text": "Contributions\nMechanism of fdi shifting human capital specialization decisions\nDeterminants of College Major Choice\n\nInformation availability\n\nJensen (2010), Kaufmann (2014)\n\nWages\n\nCarneiro et al. (2011), Arcidiacono et al. (2012), Arcidiacono et al. (2020), Beffy et al. (2012), Carroll et al. (2014), Kirkeboen et al. (2016), Bleemer & Mehta (2022)\n\nNon-pecuniary returns\n\nAltonji (1993)\n\nAbility and preference sorting\n\nArcidiacono (2004), Kinsler & Pavan (2015)"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#contributions-1",
+    "href": "presentation/JMP/00-slides-compilation.html#contributions-1",
+    "title": "Global Firms, Local Students",
+    "section": "Contributions",
+    "text": "Contributions\nMechanism of fdi shifting human capital specialization decisions\n\nDeterminants of College Major Choice\n\nWages | Non-pecuniary returns | Ability and preference sorting | Information availability\n\n\nEffects of increased trade/fdi inflow on local labor markets\n\nIncrease in skilled labor demand\n\nFeenstra & Hanson (1997), Javorcik (2015), Alfaro-Ureña et al. (2021), Setzler & Tintelnot (2021)\n\nSkill acquisition decisions\n\nBlanchard & Willmann (2016)"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#crc-context",
+    "href": "presentation/JMP/00-slides-compilation.html#crc-context",
+    "title": "Global Firms, Local Students",
+    "section": "Context on Costa Rica",
+    "text": "Context on Costa Rica\nEducation\n\nPublic universities require applicants to list their two preferred majors when applying Example\n\nHelps identify demand for major, rather than observing equilibrium enrollment outcomes\nApplicants submit demographic information\n\n\nMultinational Firms\n\nCosta Rica incentivizes FDI inflows through dedicated Free Trade Zone (FTZ) regime\n\nFirms locate within multinational dedicated industrial parks\nMultiple locations across the country"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#crc-context-dist",
+    "href": "presentation/JMP/00-slides-compilation.html#crc-context-dist",
+    "title": "Global Firms, Local Students",
+    "section": "Context on Costa Rica GAM",
+    "text": "Context on Costa Rica GAM\n\n\n Administrative Map\n\n Topographic Map"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#student-data",
+    "href": "presentation/JMP/00-slides-compilation.html#student-data",
+    "title": "Global Firms, Local Students",
+    "section": "Data",
+    "text": "Data\nMajor Choice Data\n\nIndividual applications (n = 230,162)\n\nYears: 2010 - 2019\nLocation: 434 Districts Country Central Valley\nMajors are grouped into broad bins using UNESCO education categories\n\n\n\n\nSTEM & Applied Sciences\n\n\nNatural Sciences\nEngineering\nInformation Technologies\nAgricultural Sciences\nHealth\n\n\n\nSoc. Sci. & Prof. Studies\n\n\nBusiness Administration\nSocial Sciences\nEducation\n\n\n\nArts, Writing, & Service\n\n\nArts\nHumanities\nTourism"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#firm-data",
+    "href": "presentation/JMP/00-slides-compilation.html#firm-data",
+    "title": "Global Firms, Local Students",
+    "section": "Data",
+    "text": "Data\nMultinational Firms\n\nMultinational Firms operating under FTZ regime (n = 253)\nYear of Entry: 2003 - 2019\nLocation: 39 Districts Country Central Valley\nSix Industries (2-digit ISIC)\n\n\n\n\nAdministrative and Support Services\nInformation and Communication\nManufacturing\n\n\n\nWholesale Trade\nProfessional, Scientific and Technical Activities\nTransportation and Warehousing"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#location-data",
+    "href": "presentation/JMP/00-slides-compilation.html#location-data",
+    "title": "Global Firms, Local Students",
+    "section": "Data",
+    "text": "Data\nDistance\n\nRoughly half of districts have another district within 5 kilometers, and the curve rises steeply at short distances, indicating dense spatial clustering\n\n\nMeasured as distance between district centroids"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#students-choice-utility",
+    "href": "presentation/JMP/00-slides-compilation.html#students-choice-utility",
+    "title": "Global Firms, Local Students",
+    "section": "Student’s Choice Utility",
+    "text": "Student’s Choice Utility\nIndividuals Utility from Studying in Field of Study (m) is:\n\\[\\begin{equation}\n    U_{idmt} = \\beta_{m} \\Gamma_{dmjt} + \\gamma_{i}X^{'}_{i} + \\alpha_{c} + \\alpha_{t} + \\varepsilon_{idmt}\n\\end{equation}\\]\nSubscripts\n\\(i =\\) individual, \\(\\; d =\\) district-of-residence, \\(\\; m =\\) field of study, \\(\\; j =\\) industry, \\(\\; c =\\) canton, \\(\\; t =\\) year\n\n\\(\\Gamma_{djt}\\): MNC Presence Index\n\n\\(\\beta_{m}\\): Percentage Point Change in the Probability of Choosing Field of Study \\(m\\)\n\n\\(X_{i}^{'}\\): Individual Characteristics Vector\n\nage, sex, high school, unemployment rate, entry score\n\n\\(\\alpha_{c}\\): Canton Fixed Effect\n\\(\\alpha_{t}\\): Year Fixed Effect"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#index-derivation",
+    "href": "presentation/JMP/00-slides-compilation.html#index-derivation",
+    "title": "Global Firms, Local Students",
+    "section": "Multinational Firm Presence Index",
+    "text": "Multinational Firm Presence Index\n\\[\\begin{align}\n    \\Gamma_{dmjt} = p_{mjt} \\times \\left(\\sum_{d'}\\sum_{j} \\dfrac{\\text{Tenure}_{k(j),d't}}{exp(\\text{dist}_{dd'})} \\right)\n\\end{align}\\]\nSubscripts\n\\(d =\\) district-of-residence, \\(\\; d' =\\) district-of-operation, \\(\\; k(j) =\\) firm \\(\\,k \\,\\) in industry \\(\\, j\\), \\(\\; t =\\) year\n\n\\(\\text{Tenure}_{k(j),d't}\\): Tenure of firm captures how long individual has been aware/exposed to presence of MNC\n\\(exp(\\text{dist}_{dd'})\\): Distance (in km) from student-district to firm-district\n\\(p_{mjt}\\): Industry Attachment Probabilities Distribution Details\n\n\nInd attach probs help link industries to field of study to reflect the fact that there is some sort of alignment between industry and field of study (financial institutions to business, microchip production to engineering, etc.)"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#first-stage-image",
+    "href": "presentation/JMP/00-slides-compilation.html#first-stage-image",
+    "title": "Global Firms, Local Students",
+    "section": "Extensive Margin Effects Table",
+    "text": "Extensive Margin Effects Table\n\nRegress the count of applications by district on MNC Presence Index\nResults suggest there is no extensive margin effect of multinationals on students applying to university"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#estimation-method",
+    "href": "presentation/JMP/00-slides-compilation.html#estimation-method",
+    "title": "Global Firms, Local Students",
+    "section": "Estimation Method",
+    "text": "Estimation Method\n\n\nEstimate the effect of MNC presence on student field of study choice by using a Multinomial Logit Model and then estimating the Average Marginal Effects (AMEs) for each industry\nThis produces estimates that tell us how much the probability of choosing a particular major changes when the MNC Presence Index increases by one unit\n\n\nInterpretation\n\n\nIn this model, an increase of one unit in the index is interpreted as an additional firm-year in the student’s district of residence\n\nThis can be either a new firm entering or an existing firm maturing\n\nFor greater clarity, I report results by exposure level differences\n\nLow \\(\\rightarrow\\) High Exposure\n\nI also report the distance decay showing how hyper-local effects are\n\n\n\nExposure level differences: shows the within-sample effects of exposure\nAs we move from low to average exposure of mfg industries, probabilities of choosing stem grow by 8.75 pp From avg to high exposure, 44.23 pp And from low to high, 52.9"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#mfg-results",
+    "href": "presentation/JMP/00-slides-compilation.html#mfg-results",
+    "title": "Global Firms, Local Students",
+    "section": "Manufacturing Industry Results All Industries",
+    "text": "Manufacturing Industry Results All Industries\n\nSTEM Field Increases in Probability by 52.9 p.p. when going from Low to High Presence Index"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#admin-results",
+    "href": "presentation/JMP/00-slides-compilation.html#admin-results",
+    "title": "Global Firms, Local Students",
+    "section": "Administrative Services Industry Results",
+    "text": "Administrative Services Industry Results\n\nSocial Science and Professional Studies Increases in Probability by 39.81 p.p. when going from Low to High Presence Index"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#dist-decay-mfg",
+    "href": "presentation/JMP/00-slides-compilation.html#dist-decay-mfg",
+    "title": "Global Firms, Local Students",
+    "section": "Distance Decay",
+    "text": "Distance Decay\n\nMultinational firm effects are hyperlocal being concentrated in the 0 to 5 km distance margin\n\nWithin 0 to 5 Km"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#dist-decay-admin",
+    "href": "presentation/JMP/00-slides-compilation.html#dist-decay-admin",
+    "title": "Global Firms, Local Students",
+    "section": "Distance Decay",
+    "text": "Distance Decay\n\nMultinational firm effects are hyperlocal being concentrated in the 0 to 5 km distance margin"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#robustness---remove-attachment-between-field-of-study-and-industry",
+    "href": "presentation/JMP/00-slides-compilation.html#robustness---remove-attachment-between-field-of-study-and-industry",
+    "title": "Global Firms, Local Students",
+    "section": "Robustness - Remove Attachment Between Field of Study and Industry",
+    "text": "Robustness - Remove Attachment Between Field of Study and Industry\n\nTrends remain similar across industry and field with smaller coefficients"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#heterogeneity---sex",
+    "href": "presentation/JMP/00-slides-compilation.html#heterogeneity---sex",
+    "title": "Global Firms, Local Students",
+    "section": "Heterogeneity - Sex",
+    "text": "Heterogeneity - Sex\n\nMultinational Firm effects are not significantly different between men and women"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#gam-hetero-body",
+    "href": "presentation/JMP/00-slides-compilation.html#gam-hetero-body",
+    "title": "Global Firms, Local Students",
+    "section": "Heterogeneity - GAM All Industries",
+    "text": "Heterogeneity - GAM All Industries\n\n\n Manufacturing\n\n Administrative Services\n\nEffects are largely concentrated in the Greater Metropolitan Area which aligns with effects being hyperlocal"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#conclusion",
+    "href": "presentation/JMP/00-slides-compilation.html#conclusion",
+    "title": "Global Firms, Local Students",
+    "section": "Conclusion",
+    "text": "Conclusion\n\n\nMultinationals reshape local incentives to acquire skills\nI ask if this influence impacts students choice of major through being exposed to multinationals\nUsing local exposure to multinational firms, I estimate how exposure to MNC activity shapes field of study application decisions\nResults suggest that students choice of field of study are shifted to those that better align with MNC industry needs\nThis highlights a new channel through which FDI shapes formation of human capital in LMICs"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#fdi-entry",
+    "href": "presentation/JMP/00-slides-compilation.html#fdi-entry",
+    "title": "Global Firms, Local Students",
+    "section": "Costa Rica FDI Inflows",
+    "text": "Costa Rica FDI Inflows\n\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#enrollment-trend",
+    "href": "presentation/JMP/00-slides-compilation.html#enrollment-trend",
+    "title": "Global Firms, Local Students",
+    "section": "Costa Rica Tertiary Enrollment",
+    "text": "Costa Rica Tertiary Enrollment\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#example",
+    "href": "presentation/JMP/00-slides-compilation.html#example",
+    "title": "Global Firms, Local Students",
+    "section": "Application Example",
+    "text": "Application Example\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#gam-area",
+    "href": "presentation/JMP/00-slides-compilation.html#gam-area",
+    "title": "Global Firms, Local Students",
+    "section": "GAM",
+    "text": "GAM\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#gam-size",
+    "href": "presentation/JMP/00-slides-compilation.html#gam-size",
+    "title": "Global Firms, Local Students",
+    "section": "Districts within GAM Size",
+    "text": "Districts within GAM Size\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#student-map-nation",
+    "href": "presentation/JMP/00-slides-compilation.html#student-map-nation",
+    "title": "Global Firms, Local Students",
+    "section": "Student Location (National)",
+    "text": "Student Location (National)\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#student-map-central",
+    "href": "presentation/JMP/00-slides-compilation.html#student-map-central",
+    "title": "Global Firms, Local Students",
+    "section": "Student Location (Central Valley)",
+    "text": "Student Location (Central Valley)\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#firm-map-nation",
+    "href": "presentation/JMP/00-slides-compilation.html#firm-map-nation",
+    "title": "Global Firms, Local Students",
+    "section": "Firm Location (National)",
+    "text": "Firm Location (National)\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#firm-map-central",
+    "href": "presentation/JMP/00-slides-compilation.html#firm-map-central",
+    "title": "Global Firms, Local Students",
+    "section": "Firm Location (National)",
+    "text": "Firm Location (National)\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#acs-prob-weights",
+    "href": "presentation/JMP/00-slides-compilation.html#acs-prob-weights",
+    "title": "Global Firms, Local Students",
+    "section": "Probability Attachment Weights Statistics",
+    "text": "Probability Attachment Weights Statistics\n\nData: Annual American Community Survey (ACS) microdata with person-level survey weights\nWeighting: Individual observations weighted to recover population-representative counts by field of study and industry of employment\nLink: Field-of-study shares constructed within industry using weighted counts, aggregated into field of study categories\nField to Industry Mapping: Shares reflect the weighted distribution of degree fields among employed individuals within each industry\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#acs-prob-weights-img",
+    "href": "presentation/JMP/00-slides-compilation.html#acs-prob-weights-img",
+    "title": "Global Firms, Local Students",
+    "section": "Probability Attachment Weights Statistics",
+    "text": "Probability Attachment Weights Statistics\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#first-stage-table",
+    "href": "presentation/JMP/00-slides-compilation.html#first-stage-table",
+    "title": "Global Firms, Local Students",
+    "section": "Extensive Margin Effects",
+    "text": "Extensive Margin Effects\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#all-ind-results",
+    "href": "presentation/JMP/00-slides-compilation.html#all-ind-results",
+    "title": "Global Firms, Local Students",
+    "section": "All Industries Results",
+    "text": "All Industries Results\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#dist-decay-0to5",
+    "href": "presentation/JMP/00-slides-compilation.html#dist-decay-0to5",
+    "title": "Global Firms, Local Students",
+    "section": "Distance Decay (0-5 Km)",
+    "text": "Distance Decay (0-5 Km)\n\nPercentage Point Changes in Probability of Field Choice\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#hetero-gam-all",
+    "href": "presentation/JMP/00-slides-compilation.html#hetero-gam-all",
+    "title": "Global Firms, Local Students",
+    "section": "Heterogeneity - GAM",
+    "text": "Heterogeneity - GAM\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/00-slides-compilation.html#section",
+    "href": "presentation/JMP/00-slides-compilation.html#section",
+    "title": "Global Firms, Local Students",
+    "section": "",
+    "text": "Alfaro-Ureña, A., Isabela, M., & Vasquez, J. (2021). The Effects of Multinationals on Workers: Evidence from Costa Rican microdata. Working Paper, No. 285.\n\n\nAltonji, J. G. (1993). The Demand for and Return to Education When Education Outcomes are Uncertain. Journal of Labor Economics, 11(1).\n\n\nArcidiacono, P. (2004). Ability sorting and the returns to college major. Journal of Econometrics, 121(1-2), 343–375. https://doi.org/10.1016/j.jeconom.2003.10.010\n\n\nArcidiacono, P., Hotz, V. J., & Kang, S. (2012). Modeling college major choices using elicited measures of expectations and counterfactuals. Journal of Econometrics, 166(1), 3–16. https://doi.org/10.1016/j.jeconom.2011.06.002\n\n\nArcidiacono, P., Hotz, V. J., Maurel, A., & Romano, T. (2020). Ex Ante Returns and Occupational Choice. Journal of Political Economy, 128(12), 4475–4522. https://doi.org/10.1086/710559\n\n\nBeffy, M., Denis, F., & Maurel, A. (2012). Choosing the Field of Study in Postsecondary Education: Do Expected Earnings Matter? The Review of Economic and Statistics, 94(1), 334–347.\n\n\nBlanchard, E., & Willmann, G. (2016). Trade, education, and the shrinking middle class. Journal of International Economics, 99, 263–278. https://doi.org/10.1016/j.jinteco.2015.10.007\n\n\nBleemer, Z., & Mehta, A. (2022). Will Studying Economics Make You Rich? A Regression Discontinuity Analysis of the Returns to College Major. American Economic Journal: Applied Economics, 14(2), 1–22. https://doi.org/10.1257/app.20200447\n\n\nCarneiro, P., Heckman, J. J., & Vytlacil, E. J. (2011). Estimating Marginal Returns to Education. American Economic Review, 101(6), 2754–2781. https://doi.org/10.1257/aer.101.6.2754\n\n\nCarroll, T., Assane, D., & Busker, J. (2014). Why it Pays to Major in Economics. The Journal of Economic Education, 45(3), 251–261. https://doi.org/10.1080/00220485.2014.917906\n\n\nFeenstra, R., & Hanson, G. (1997). Foreign Direct Investment and Relative Wages: Evidence from Mexico’s Maquiladors. Journal of International Economics, 42, 371–393. https://doi.org/10.1016/S0022-1996(96)01475-4\n\n\nJavorcik, B. S. (2015). Does FDI bring good jobs to host countries? The World Bank Research Observer, 30(1), 74–94.\n\n\nJensen, R. (2010). The (Perceived) Returns to Education and the Demand for Schooling. The Quarterly Journal of Economics, 125(2), 515–548.\n\n\nKaufmann, K. M. (2014). Understanding the income gradient in college attendance in Mexico: The role of heterogeneity in expected returns: Income gradient in college attendance. Quantitative Economics, 5(3), 583–630. https://doi.org/10.3982/QE259\n\n\nKinsler, J., & Pavan, R. (2015). The Specificity of General Human Capital: Evidence from College Major Choice. Journal of Labor Economics, 33(4), 933–972. https://doi.org/10.1086/681206\n\n\nKirkeboen, L. J., Leuven, E., & Mogstad, M. (2016). Field of Study, Earnings, and Self-Selection*. The Quarterly Journal of Economics, 131(3), 1057–1111. https://doi.org/10.1093/qje/qjw019\n\n\nSetzler, B., & Tintelnot, F. (2021). The Effects of Foreign Multinationals on Workers and Firms in the United States. The Quarterly Journal of Economics, 136(3), 1943–1991. https://doi.org/10.1093/qje/qjab015"
+  },
+  {
+    "objectID": "presentation/JMP/06-robustness-heterogeneity.html",
+    "href": "presentation/JMP/06-robustness-heterogeneity.html",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "Trends remain similar across industry and field with smaller coefficients"
+  },
+  {
+    "objectID": "presentation/JMP/06-robustness-heterogeneity.html#robustness---remove-attachment-between-field-of-study-and-industry",
+    "href": "presentation/JMP/06-robustness-heterogeneity.html#robustness---remove-attachment-between-field-of-study-and-industry",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "Trends remain similar across industry and field with smaller coefficients"
+  },
+  {
+    "objectID": "presentation/JMP/06-robustness-heterogeneity.html#heterogeneity---sex",
+    "href": "presentation/JMP/06-robustness-heterogeneity.html#heterogeneity---sex",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Heterogeneity - Sex",
+    "text": "Heterogeneity - Sex\n\n\n\n\n\nMultinational Firm effects are not significantly different between men and women"
+  },
+  {
+    "objectID": "presentation/JMP/06-robustness-heterogeneity.html#gam-hetero-body",
+    "href": "presentation/JMP/06-robustness-heterogeneity.html#gam-hetero-body",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Heterogeneity - GAM All Industries",
+    "text": "Heterogeneity - GAM All Industries\n\n\n Manufacturing\n\n Administrative Services\n\n\nEffects are largely concentrated in the Greater Metropolitan Area which aligns with effects being hyperlocal"
+  },
+  {
+    "objectID": "presentation/JMP/01-introduction.html",
+    "href": "presentation/JMP/01-introduction.html",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "Lower- and Middle-Income Countries (LMICs) have seen an increasing rate of fdi inflow in recent decades\nSource: World Bank"
+  },
+  {
+    "objectID": "presentation/JMP/01-introduction.html#growth-of-fdi-in-lmics",
+    "href": "presentation/JMP/01-introduction.html#growth-of-fdi-in-lmics",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "Lower- and Middle-Income Countries (LMICs) have seen an increasing rate of fdi inflow in recent decades\nSource: World Bank"
+  },
+  {
+    "objectID": "presentation/JMP/01-introduction.html#tertiary-enrollment-growth-in-lmics",
+    "href": "presentation/JMP/01-introduction.html#tertiary-enrollment-growth-in-lmics",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Tertiary Enrollment Growth in LMICs",
+    "text": "Tertiary Enrollment Growth in LMICs\n\n\n\n\n\nTertiary enrollment rates have increased in LMICs\nSource: World Bank\n\nGrowth since 2000 not levels (graph error)\nTertiary education is useless by itself, it requires a labor market to complement it"
+  },
+  {
+    "objectID": "presentation/JMP/01-introduction.html#research-question",
+    "href": "presentation/JMP/01-introduction.html#research-question",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Research Question",
+    "text": "Research Question\nHypothesis: Multinational Firms affect skill specialization decisions\n\n\nI use administrative data of university applications and location of MNCs within industrial parks in Costa Rica from 2010 to 2019\n\n\n\nCosta Rica FDI Costa Rica Tertiary Enrollment\n\n\nIdentification Strategy\n\nSpatial and temporal variation in industry composition\nDistance between students and MNCs\nKey Variable: Exposure to near MNCs\n\n\nStudents are aware of all multinational firms in the country, but they receive stronger “signals” from nearby oness"
+  },
+  {
+    "objectID": "presentation/JMP/01-introduction.html#preview-of-results",
+    "href": "presentation/JMP/01-introduction.html#preview-of-results",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Preview of Results",
+    "text": "Preview of Results\n\n\nA shift from low to high exposure to Manufacturing MNCs increases the probability of choosing a major within Stem and Applied Sciences by 52.9 p.p.\n\nDecreases probability of choosing Arts by 25 p.p. and Social Sciences by 27.9 p.p.\n\nA shift from low to high exposure to Administrative Service MNCs increases the probability of choosing a major within Social Sciences and Professional Studies by 39.81 p.p.\n\nDecreases the probability of choosing Arts by 30.58 p.p. and STEM and Applied Sciences by 8.96 p.p.\n\nDirectional effects are robust to removing the industry-field mapping\nMNC effects are extremely local\nHeterogeneity tests show no difference between men and women\n\n\n\ndistance decay: Strong within 5km but decays rapidly. Students respond to hyper-local labor-market signals."
+  },
+  {
+    "objectID": "presentation/JMP/01-introduction.html#contributions",
+    "href": "presentation/JMP/01-introduction.html#contributions",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Contributions",
+    "text": "Contributions\nMechanism of fdi shifting human capital specialization decisions\nDeterminants of College Major Choice\n\nInformation availability\n\n@jensen_perceived_2010, @kaufmann_understanding_2014\n\nWages\n\n@carneiro_estimating_2011, @arcidiacono_modeling_2012, @arcidiacono_ex_2020, @beffy_choosing_2012, @carroll_why_2014, @kirkeboen_field_2016, @bleemer_will_2022\n\nNon-pecuniary returns\n\n@altonji_demand_1993\n\nAbility and preference sorting\n\n@arcidiacono_ability_2004, @kinsler_specificity_2015"
+  },
+  {
+    "objectID": "presentation/JMP/01-introduction.html#contributions-1",
+    "href": "presentation/JMP/01-introduction.html#contributions-1",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Contributions",
+    "text": "Contributions\nMechanism of fdi shifting human capital specialization decisions\n\nDeterminants of College Major Choice\n\nWages | Non-pecuniary returns | Ability and preference sorting | Information availability\n\n\nEffects of increased trade/fdi inflow on local labor markets\n\nIncrease in skilled labor demand\n\n@feenstra_foreign_1997, @JavorcikBeataS.2015DFBG, @alfaro-urena_effects_2021, @setzler_effects_2021\n\nSkill acquisition decisions\n\n@blanchard_trade_2016"
+  },
+  {
+    "objectID": "presentation/JMP/01-introduction.html#crc-context",
+    "href": "presentation/JMP/01-introduction.html#crc-context",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Context on Costa Rica",
+    "text": "Context on Costa Rica\nEducation\n\nPublic universities require applicants to list their two preferred majors when applying Example\n\nHelps identify demand for major, rather than observing equilibrium enrollment outcomes\nApplicants submit demographic information\n\n\nMultinational Firms\n\nCosta Rica incentivizes FDI inflows through dedicated Free Trade Zone (FTZ) regime\n\nFirms locate within multinational dedicated industrial parks\nMultiple locations across the country"
+  },
+  {
+    "objectID": "presentation/JMP/01-introduction.html#student-data",
+    "href": "presentation/JMP/01-introduction.html#student-data",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Data",
+    "text": "Data\nMajor Choice Data\n\nIndividual applications (n = 230,162)\n\nYears: 2010 - 2019\nLocation: 434 Districts Country Central Valley\nMajors are grouped into broad bins using UNESCO education categories\n\n\n\n\nSTEM & Applied Sciences\n\n\nNatural Sciences\nEngineering\nInformation Technologies\nAgricultural Sciences\nHealth\n\n\n\nSoc. Sci. & Prof. Studies\n\n\nBusiness Administration\nSocial Sciences\nEducation\n\n\n\nArts, Writing, & Service\n\n\nArts\nHumanities\nTourism"
+  },
+  {
+    "objectID": "presentation/JMP/01-introduction.html#firm-data",
+    "href": "presentation/JMP/01-introduction.html#firm-data",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Data",
+    "text": "Data\nMultinational Firms\n\nMultinational Firms operating under FTZ regime (n = 253)\nYear of Entry: 2003 - 2019\nLocation: 39 Districts Country Central Valley\nSix Industries (2-digit ISIC)\n\n\n\n\nAdministrative and Support Services\nInformation and Communication\nManufacturing\n\n\n\nWholesale Trade\nProfessional, Scientific and Technical Activities\nTransportation and Warehousing"
+  },
+  {
+    "objectID": "presentation/JMP/01-introduction.html#students-choice-utility",
+    "href": "presentation/JMP/01-introduction.html#students-choice-utility",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Student’s Choice Utility",
+    "text": "Student’s Choice Utility\nIndividuals Utility from Studying in Field of Study (m) is:\n\\[\\begin{equation}\n    U_{idmt} = \\beta_{m} \\Gamma_{djt} + \\gamma_{i}X^{'}_{i} + \\alpha_{c} + \\alpha_{t} + \\varepsilon_{idmt}\n\\end{equation}\\]\nSubscripts\n\\(i =\\) individual, \\(\\; d =\\) district-of-residence, \\(\\; m =\\) field of study, \\(\\; j =\\) industry, \\(\\; c =\\) canton, \\(\\; t =\\) year\n\n\\(\\Gamma_{djt}\\): MNC Presence Index\n\n\\(\\beta_{m}\\): Percentage Point Change in the Probability of Choosing Field of Study \\(m\\)\n\n\\(X_{i}^{'}\\): Individual Characteristics Vector\n\\(\\alpha_{c}\\): Canton Fixed Effect\n\\(\\alpha_{t}\\): Year Fixed Effect"
+  },
+  {
+    "objectID": "presentation/JMP/01-introduction.html#multinational-firm-presence-index",
+    "href": "presentation/JMP/01-introduction.html#multinational-firm-presence-index",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Multinational Firm Presence Index",
+    "text": "Multinational Firm Presence Index\n\\[\\begin{align}\n    \\Gamma_{djt} = p_{mjt} \\times \\left(\\sum_{d'}\\sum_{j} \\dfrac{\\text{Tenure}_{k(j),d't}}{exp(\\text{dist}_{dd'})} \\right)\n\\end{align}\\]\nSubscripts\n\\(d =\\) district-of-residence, \\(\\; d' =\\) district-of-operation, \\(\\; k(j) =\\) firm \\(\\,k \\,\\) in industry \\(\\, j\\), \\(\\; t =\\) year\n\n\\(\\text{Tenure}_{k(j),d't}\\): Tenure of firm captures how long individual has been aware/exposed to presence of MNC\n\\(exp(\\text{dist}_{dd'})\\): Distance (in km) from student-district to firm-district\n\\(p_{mjt}\\): Industry Attachment Probabilities\n\n\nInd attach probs help link industries to field of study to reflect the fact that there is some sort of alignment between industry and field of study (financial institutions to business, microchip production to engineering, etc.)"
+  },
+  {
+    "objectID": "presentation/JMP/01-introduction.html#estimation-method",
+    "href": "presentation/JMP/01-introduction.html#estimation-method",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Estimation Method",
+    "text": "Estimation Method\n\n\nEstimate the effect of MNC presence on student field of study choice by using a Multinomial Logit Model and then estimating the Average Marginal Effects (AMEs) for each industry\nThis produces estimates that tell us how much the probability of choosing a particular major changes when the MNC Presence Index increases by one unit\n\n\nInterpretation\n\nIn this model, this is interpreted as an additional firm-year in the student’s district of residence, which is either a new firm entering or an existing firm maturing\nI report results by exposure level differences (Low \\(\\rightarrow\\) High Exposure)\nI also report the distance decay showing how hyper-local effects are\n\n\nExposure level differences: shows the within-sample effects of exposure\nAs we move from low to average exposure of mfg industries, probabilities of choosing stem grow by 8.75 pp From avg to high exposure, 44.23 pp And from low to high, 52.9"
+  },
+  {
+    "objectID": "presentation/JMP/01-introduction.html#mfg-results",
+    "href": "presentation/JMP/01-introduction.html#mfg-results",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Manufacturing Industry Results All Industries",
+    "text": "Manufacturing Industry Results All Industries\n\n\n\n\n\nSTEM Field Increases in Probability by 52.9 p.p. when going from Low to High Presence Index"
+  },
+  {
+    "objectID": "presentation/JMP/01-introduction.html#admin-results",
+    "href": "presentation/JMP/01-introduction.html#admin-results",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Administrative Services Industry Results",
+    "text": "Administrative Services Industry Results\n\n\n\n\n\nSocial Science and Professional Studies Increases in Probability by 39.81 p.p. when going from Low to High Presence Index"
+  },
+  {
+    "objectID": "presentation/JMP/01-introduction.html#distance-decay",
+    "href": "presentation/JMP/01-introduction.html#distance-decay",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Distance Decay",
+    "text": "Distance Decay\n\n\n\n\n\nPercentage Point Changes in Probability of Field Choice"
+  },
+  {
+    "objectID": "presentation/JMP/01-introduction.html#robustness---remove-attachment-between-field-of-study-and-industry",
+    "href": "presentation/JMP/01-introduction.html#robustness---remove-attachment-between-field-of-study-and-industry",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Robustness - Remove Attachment Between Field of Study and Industry",
+    "text": "Robustness - Remove Attachment Between Field of Study and Industry\n\n\n\n\n\nTrends remain similar across industry and field with smaller coefficients"
+  },
+  {
+    "objectID": "presentation/JMP/01-introduction.html#heterogeneity---sex",
+    "href": "presentation/JMP/01-introduction.html#heterogeneity---sex",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Heterogeneity - Sex",
+    "text": "Heterogeneity - Sex"
+  },
+  {
+    "objectID": "presentation/JMP/01-introduction.html#conclusion",
+    "href": "presentation/JMP/01-introduction.html#conclusion",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nMultinationals reshape local incentives to acquire skills\nI ask if this influence impacts students choice of major through being exposed to multinationals\nUsing local exposure to multinational firms, I estimate how exposure to MNC activity shapes field of study application decisions\nResults suggest that students choice of field of study are shifted to those that better align with MNC industry needs\nThis highlights a new channel through which FDI shapes formation of human capital in LMICs"
+  },
+  {
     "objectID": "bio.html",
     "href": "bio.html",
     "title": "About Me",
     "section": "",
     "text": "I am originally from San Jose, Costa Rica but I have lived a traveled life. I’ve lived in Costa Rica, Arizona, and Oregon all for a different amount of time. Costa Rica 16 years, Arizona was my home for 4 years, and Oregon for 10 years (and counting).\nThroughout all my years, I’ve always loved watching sports and reading. I will watch just about every sport possible, as boring as some people may consider them to be. My favorite teams, by major sports, are:\n\n\n\nSoccer: Real Madrid\nAmerican Football: Green Bay Packers\n\n\n\nBasketball: Philadelphia 76ers\nBaseball: New York Yankees\n\n\n\nOther than that, I have loved traveling, enjoying different cultures and enjoying every opportunity I come across. I look forward to more to come!"
-  },
-  {
-    "objectID": "files/jmp-methods/methods.html#data",
-    "href": "files/jmp-methods/methods.html#data",
-    "title": "FDI & College Major Choice",
-    "section": "Data",
-    "text": "Data\nAdministrative University Application Data\n\n\n\nPreferred Major Choice\nAge and Sex of Applicant\nApplication Entry Score\n\n\n\nHigh School Attended Type (Public/Private)\nDistrict-Canton of Residence\n\n\n\nFirm-level Data for Free Trade Zone Regime\n\n\n\nISIC Rev. 4 Industry Code (2-digit)\n289 Unique Firms\n\n\n\nYear-of-Entry into Nation\nDistrict-Canton of Operation"
-  },
-  {
-    "objectID": "files/jmp-methods/methods.html#multinational-corporations-industry-presence-index",
-    "href": "files/jmp-methods/methods.html#multinational-corporations-industry-presence-index",
-    "title": "FDI & College Major Choice",
-    "section": "Multinational Corporations Industry Presence Index",
-    "text": "Multinational Corporations Industry Presence Index\nUsing a Gravity Model approach, I construct a district-year MNC Presence Index as follows:\n\\[\\begin{align*}\n    \\Gamma_{djt} = \\sum_{d'} \\dfrac{tenure_{j \\in J, d't}}{exp(\\tau^{dd'})}\n\\end{align*}\\]\nSubscripts\n\\(d =\\) student’s district, \\(d' =\\) firm’s district, \\(j \\in J\\) firm \\(j\\) in industry \\(J\\), \\(t =\\) year\n\n\\(tenure_{j \\in J, d't}\\): Tenure of firm \\(j\\) in industry \\(J\\) in year \\(t\\)\n\\(exp(\\tau^{dd'})\\): Distance (in km) between district \\(d\\) (student residence) to district \\(d'\\) (firm residence)"
-  },
-  {
-    "objectID": "files/jmp-methods/methods.html#utility-model",
-    "href": "files/jmp-methods/methods.html#utility-model",
-    "title": "FDI & College Major Choice",
-    "section": "Utility Model",
-    "text": "Utility Model\nIndividuals choose a field-of-study subject to the utility function:\n\\[\\begin{align*}\n    U_{im} = \\alpha_{c} + \\alpha_{t} + \\beta_{mj} \\Gamma_{djt} + \\gamma X'_{i} + \\varepsilon_{im}\n\\end{align*}\\]\nSubscripts\n\\(i = \\;\\) individual, \\(\\; m = \\;\\) field-of-study, \\(\\; c = \\;\\) canton, \\(\\; t = \\;\\) year\n\n\\(\\alpha_{c}\\) : Labor Market Area Effect\n\\(\\alpha_{t}\\) : Year Effect\n\\(\\Gamma_{djt}\\) : Vector of MNC Industries Presence Index\n\\(X'_{i}\\) : Vector of Individual Characteristics"
-  },
-  {
-    "objectID": "files/jmp-methods/methods.html#estimation-method",
-    "href": "files/jmp-methods/methods.html#estimation-method",
-    "title": "FDI & College Major Choice",
-    "section": "Estimation Method",
-    "text": "Estimation Method\nMultinomial Logit (MNL) model of the following equation:\n\\[\\begin{align*}\n        P(Y_{i} = m) =\n        \\dfrac{\n            \\overbrace{exp(\\alpha_{c} + \\alpha_{t} +\n            \\beta_{mj} \\Gamma_{djt} +\n            X'_{i}\\gamma +\n            \\varepsilon_{im})}^{\\text{Utility of chosen field-of-study}}\n        }{\n            \\underbrace{\\sum_{m'} exp(\\alpha_{c} + \\alpha_{t} +\n            \\beta_{m'j} \\Gamma_{djt} +\n            X'_{i}\\gamma +\n            \\varepsilon_{im'}))}_{\\text{Utilities across all possible field-of-study choices}}\n        }\n\\end{align*}\\]"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jose Alberto Rojas Fallas",
-    "section": "",
-    "text": "Github\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n  \n  \nBiography\nI am a 5th Year PhD Candidate in Economics at the University of Oregon.\nI will be on the Job Market in the 2025-2026 cycle.\nMy research focuses on how trade and foreign investment influence educational choices and political dynamics in low- and middle-income countries.\nI am originally from San Jose, Costa Rica.\n\nDownload my CV Read my Job Market Paper\n\n\n\n\n\nInterests\n\n International Trade\n Development\n Education\n Political Economy\n\n\nEducation\n\n PhD in Economics, Expected 2026 University of Oregon\n MS in Economics, 2021\nPortland State University\n BS in Economics, 2019\nPortland State University"
-  },
-  {
-    "objectID": "teaching-experience.html",
-    "href": "teaching-experience.html",
-    "title": "Jose Alberto Rojas Fallas",
-    "section": "",
-    "text": "I have accumulated extensive teaching experience during my time as a PhD Student. The courses I have taught range from foundational economic theory courses, elective courses, and econometric courses; all at the undergraduate level. I have taught them in 4 week and 10 week modules, as well as in-person and online. Courses have varied in size from 30 to 90 students while I have also managed teaching assistants.\nWhen possible and relevant to the course, I like to engage the class with in-class activities. For example, in my International Economics Course, I periodically have the class act as an international market with different productivity endownments and resources to simulate comparative advantages.\nIn order to appeal to make the material more accessible and approachable to students, I have created websites for each course with all the necessary content. You can find links to these at each course below."
-  },
-  {
-    "objectID": "teaching-experience.html#teaching-experience-teaching-statement",
-    "href": "teaching-experience.html#teaching-experience-teaching-statement",
-    "title": "Jose Alberto Rojas Fallas",
-    "section": "",
-    "text": "I have accumulated extensive teaching experience during my time as a PhD Student. The courses I have taught range from foundational economic theory courses, elective courses, and econometric courses; all at the undergraduate level. I have taught them in 4 week and 10 week modules, as well as in-person and online. Courses have varied in size from 30 to 90 students while I have also managed teaching assistants.\nWhen possible and relevant to the course, I like to engage the class with in-class activities. For example, in my International Economics Course, I periodically have the class act as an international market with different productivity endownments and resources to simulate comparative advantages.\nIn order to appeal to make the material more accessible and approachable to students, I have created websites for each course with all the necessary content. You can find links to these at each course below."
-  },
-  {
-    "objectID": "teaching-experience.html#courses-as-instructor-of-record",
-    "href": "teaching-experience.html#courses-as-instructor-of-record",
-    "title": "Jose Alberto Rojas Fallas",
-    "section": "Courses as Instructor of Record",
-    "text": "Courses as Instructor of Record\n\nEC 311: Intermediate Microeconomics\nSummer 2023, Fall 2024\n\n\n\n\n\n\nCourse Description\n\n\n\n\n\nThe objective of this course is to provide you with an introduction to, and overview of, the most important concepts in microeconomics. The material in this course provides the foundation for studying issues in a wide variety of fields in economics, including international trade, labor, development, and other fields, and is essential for further study in economics.\nBuilding off of basic microeconomic concepts, students will develop the ability to examine models of agents’ decisions, including consumer utility maximization, firm profit maximization, and market equilibria. Most importantly, students will develop the ability to perform constrained optimization in both the economic and critical thinking sense.\n\n\n\n\n\n\n\n\n\nSelected Student Feedback\n\n\n\n\n\n\n“Jose has a way of teaching that is clear and easy to follow. He is a gifted teacher, and am grateful and blessed to have had him.”\n“Jose made accommodations for me when I needed it, and made time outside of class to go over material which I found to be very helpful. Great guy and teacher.”\n“Jose had an interesting way of teaching in which he was relatable and made the content he was teaching easy to learn. The learning experience was the best out of any other teacher i have had at the UO. I would hope he continues teaching!”\n\nComplete Course Survey\n\n\n\n\nEC 320: Introduction to Econometrics\nSummer 2025\n\n\n\n\n\n\nCourse Description\n\n\n\n\n\nApplication of classical statistical techniques of estimation, hypothesis testing, and regression to economic models.\n\n\n\n\n\n\n\n\n\nSelected Student Feedback\n\n\n\n\n\n\n“The slideshows were amazing”\n“The thorough explanations as to why something is that way is very helpful.”\n\n\n\n\n\n\nEC 380: International Economic Issues\nFall 2024, Winter 2025\n\n\n\n\n\n\nCourse Description\n\n\n\n\n\nExchange across international boundaries, theory of comparative advantage, balance of payments and adjustments, international financial movements, exchange rates and international financial institutions, trade restrictions and policy.\n\n\n\n\n\n\n\n\n\nSelected Student Feedback\n\n\n\n\n\n\n“I have gone to Jose’s office hours for homework and midterm review. He is very understanding and thoughtful in his clarification. I appreciate his humor and honestly with the class. Jose wants everyone to do well and interpret economics theories in a digestible way.”\n“Accommodating and creates an environment where it is easy to ask questions”\n“The in-class activities where we had all simulated being countries with different resources were very fun and engaging to class material. Class was very straightforward and engaging at the same time.”\n“Well structured with concise and organized information. Course had good flow, concepts explained simply but walked through thoroughly. Professor is engaging and includes relevant and recent research or literature in lectures.”\n\nComplete Course Survey\n\n\n\n\n\nEC 390: Problems and Issues in the Developing Economies\nFall 2025\n\n\n\n\n\n\nCourse Description\n\n\n\n\n\nTopics may include the role of central planning, capital formation, population growth, agriculture, health and education, interaction between economic and cultural change, and the “North-South debate.”"
   },
   {
     "objectID": "research-agenda.html",
@@ -74,7 +550,7 @@
     "href": "research-agenda.html#job-market-paper",
     "title": "Research Agenda",
     "section": "Job Market Paper",
-    "text": "Job Market Paper\nLatest Draft (10.23.25) Presentation\n\n\nGlobal Firms, Local Students:\nMultinational Presence Shapes College Major Choice\nMultinational firms shape local economies by changing the returns of skill acquisition and through changes in labor demand. In this paper, I study a specific pathway through which they do so, by reorienting college graduates towards fields of specialization in demand by Multinational Corporations (MNCs). Using administrative data from a large public university in Costa Rica, I examine whether the local presence of MNCs affects the field of study preference of prospective university students. To capture local exposure to MNC activity, I develop a measure of multinational firm presence by industry and location, incorporating spatial proximity between firms and university applicants. I estimate a multinomial logit model where students choose among broad field of study categories, allowing for hetergeneous effects to MNC presence across industry and academic discipline pairings. Results show that MNCs impact students decisions, with effects varying by industry and field of study. These findings highlight an important and previously understudied channel through which FDI can shape human capital formation in receiving nations."
+    "text": "Job Market Paper\nLatest Draft (11.02.25) Presentation\n\n\nGlobal Firms, Local Students:\nMultinational Presence Shapes College Major Choice\nMultinational firms shape local economies by changing the returns of skill acquisition and through changes in labor demand. In this paper, I study a specific pathway through which they do so, by reorienting college graduates towards fields of specialization in demand by Multinational Corporations (MNCs). Using administrative data from a large public university in Costa Rica, I examine whether the local presence of MNCs affects the field of study preference of prospective university students. To capture local exposure to MNC activity, I develop a measure of multinational firm presence by industry and location, incorporating spatial proximity between firms and university applicants. I estimate a multinomial logit model where students choose among broad field of study categories, allowing for hetergeneous effects to MNC presence across industry and academic discipline pairings. Results show that MNCs impact students decisions, with effects varying by industry and field of study. These findings highlight an important and previously understudied channel through which FDI can shape human capital formation in receiving nations."
   },
   {
     "objectID": "research-agenda.html#publications",
@@ -98,10 +574,276 @@
     "text": "Works in Progress\nFDI and College Major Choice: A Structural Model\neDACAtion: Are Higher Educaiton Attainment Benefits Equally Distributed Amongst Undocumented Youth?"
   },
   {
+    "objectID": "teaching-experience.html",
+    "href": "teaching-experience.html",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "I have accumulated extensive teaching experience during my time as a PhD Student. The courses I have taught range from foundational economic theory courses, elective courses, and econometric courses; all at the undergraduate level. I have taught them in 4 week and 10 week modules, as well as in-person and online. Courses have varied in size from 30 to 90 students while I have also managed teaching assistants.\nWhen possible and relevant to the course, I like to engage the class with in-class activities. For example, in my International Economics Course, I periodically have the class act as an international market with different productivity endownments and resources to simulate comparative advantages.\nIn order to appeal to make the material more accessible and approachable to students, I have created websites for each course with all the necessary content. You can find links to these at each course below."
+  },
+  {
+    "objectID": "teaching-experience.html#teaching-experience-teaching-statement",
+    "href": "teaching-experience.html#teaching-experience-teaching-statement",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "I have accumulated extensive teaching experience during my time as a PhD Student. The courses I have taught range from foundational economic theory courses, elective courses, and econometric courses; all at the undergraduate level. I have taught them in 4 week and 10 week modules, as well as in-person and online. Courses have varied in size from 30 to 90 students while I have also managed teaching assistants.\nWhen possible and relevant to the course, I like to engage the class with in-class activities. For example, in my International Economics Course, I periodically have the class act as an international market with different productivity endownments and resources to simulate comparative advantages.\nIn order to appeal to make the material more accessible and approachable to students, I have created websites for each course with all the necessary content. You can find links to these at each course below."
+  },
+  {
+    "objectID": "teaching-experience.html#courses-as-instructor-of-record",
+    "href": "teaching-experience.html#courses-as-instructor-of-record",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Courses as Instructor of Record",
+    "text": "Courses as Instructor of Record\n\nEC 311: Intermediate Microeconomics\nSummer 2023, Fall 2024\n\n\n\n\n\n\nCourse Description\n\n\n\n\n\nThe objective of this course is to provide you with an introduction to, and overview of, the most important concepts in microeconomics. The material in this course provides the foundation for studying issues in a wide variety of fields in economics, including international trade, labor, development, and other fields, and is essential for further study in economics.\nBuilding off of basic microeconomic concepts, students will develop the ability to examine models of agents’ decisions, including consumer utility maximization, firm profit maximization, and market equilibria. Most importantly, students will develop the ability to perform constrained optimization in both the economic and critical thinking sense.\n\n\n\n\n\n\n\n\n\nSelected Student Feedback\n\n\n\n\n\n\n“Jose has a way of teaching that is clear and easy to follow. He is a gifted teacher, and am grateful and blessed to have had him.”\n“Jose made accommodations for me when I needed it, and made time outside of class to go over material which I found to be very helpful. Great guy and teacher.”\n“Jose had an interesting way of teaching in which he was relatable and made the content he was teaching easy to learn. The learning experience was the best out of any other teacher i have had at the UO. I would hope he continues teaching!”\n\nComplete Course Survey\n\n\n\n\nEC 320: Introduction to Econometrics\nSummer 2025\n\n\n\n\n\n\nCourse Description\n\n\n\n\n\nApplication of classical statistical techniques of estimation, hypothesis testing, and regression to economic models.\n\n\n\n\n\n\n\n\n\nSelected Student Feedback\n\n\n\n\n\n\n“The slideshows were amazing”\n“The thorough explanations as to why something is that way is very helpful.”\n\n\n\n\n\n\nEC 380: International Economic Issues\nFall 2024, Winter 2025\n\n\n\n\n\n\nCourse Description\n\n\n\n\n\nExchange across international boundaries, theory of comparative advantage, balance of payments and adjustments, international financial movements, exchange rates and international financial institutions, trade restrictions and policy.\n\n\n\n\n\n\n\n\n\nSelected Student Feedback\n\n\n\n\n\n\n“I have gone to Jose’s office hours for homework and midterm review. He is very understanding and thoughtful in his clarification. I appreciate his humor and honestly with the class. Jose wants everyone to do well and interpret economics theories in a digestible way.”\n“Accommodating and creates an environment where it is easy to ask questions”\n“The in-class activities where we had all simulated being countries with different resources were very fun and engaging to class material. Class was very straightforward and engaging at the same time.”\n“Well structured with concise and organized information. Course had good flow, concepts explained simply but walked through thoroughly. Professor is engaging and includes relevant and recent research or literature in lectures.”\n\nComplete Course Survey\n\n\n\n\n\nEC 390: Problems and Issues in the Developing Economies\nFall 2025\n\n\n\n\n\n\nCourse Description\n\n\n\n\n\nTopics may include the role of central planning, capital formation, population growth, agriculture, health and education, interaction between economic and cultural change, and the “North-South debate.”\n\n\n\n\n\n\n\n\n\nSelected Student Feedback\n\n\n\n\n\n\n“I was a big fan of the term project of this course being a research proposal. It was a low-stakes (in that you didn’t have to complete an entire research project) way of exploring what beginning research in the economics field might look like, something I haven’t had the opportunity to do at this point in time and honestly didn’t know much about. It dove-tailed well with the econometrics class I was taking at the same time, giving me an idea of conceptual and practical ways to execute economics research. Very cool!”\n“The fact that we are pushed to actually understand economics rather than memorize it has helped me immensely. I truly appreciate the actual learning that I have achieved this term.”\n“Jose was an excellent instructor. His feedback on assignments was always so good. He has been one of the most organized instructors I have had, with his own website that made everything super easy to find. Always went above and beyond.”\n\nComplete Course Survey"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n  \n  \nBiography\nI am a 5th Year PhD Candidate in Economics at the University of Oregon.\nI will be on the Job Market in the 2025-2026 cycle.\nMy research focuses on how trade and foreign investment influence educational choices and political dynamics in low- and middle-income countries.\nI am originally from San Jose, Costa Rica.\n\nDownload my CV Read my Job Market Paper\n\n\n\n\n\nInterests\n\n International Trade\n Development\n Education\n Political Economy\n\n\nEducation\n\n PhD in Economics, Expected 2026 University of Oregon\n MS in Economics, 2021\nPortland State University\n BS in Economics, 2019\nPortland State University"
+  },
+  {
     "objectID": "job-market-paper.html",
     "href": "job-market-paper.html",
     "title": "Global Firms, Local Students - Multinational Presence Shapes College Major Choice",
     "section": "",
     "text": "Latest Draft (10.23.25) Presentation\n\nAbstract\n\n\nMultinational firms shape local economies by changing the returns of skill acquisition and through changes in labor demand. In this paper, I study a specific pathway through which they do so, by reorienting college graduates towards fields of specialization in demand by Multinational Corporations (MNCs). Using administrative data from a large public university in Costa Rica, I examine whether the local presence of MNCs affects the field of study preference of prospective university students. To capture local exposure to MNC activity, I develop a measure of multinational firm presence by industry and location, incorporating spatial proximity between firms and university applicants. I estimate a multinomial logit model where students choose among broad field of study categories, allowing for hetergeneous effects to MNC presence across industry and academic discipline pairings. Results show that MNCs impact students decisions, with effects varying by industry and field of study. These findings highlight an important and previously understudied channel through which FDI can shape human capital formation in receiving nations."
+  },
+  {
+    "objectID": "presentation/JMP/03-data.html",
+    "href": "presentation/JMP/03-data.html",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "Education\n\nPublic universities require applicants to list their two preferred majors when applying Example\n\nHelps identify demand for major, rather than observing equilibrium enrollment outcomes\nApplicants submit demographic information\n\n\nMultinational Firms\n\nCosta Rica incentivizes FDI inflows through dedicated Free Trade Zone (FTZ) regime\n\nFirms locate within multinational dedicated industrial parks\nMultiple locations across the country"
+  },
+  {
+    "objectID": "presentation/JMP/03-data.html#crc-context",
+    "href": "presentation/JMP/03-data.html#crc-context",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "Education\n\nPublic universities require applicants to list their two preferred majors when applying Example\n\nHelps identify demand for major, rather than observing equilibrium enrollment outcomes\nApplicants submit demographic information\n\n\nMultinational Firms\n\nCosta Rica incentivizes FDI inflows through dedicated Free Trade Zone (FTZ) regime\n\nFirms locate within multinational dedicated industrial parks\nMultiple locations across the country"
+  },
+  {
+    "objectID": "presentation/JMP/03-data.html#crc-context-dist",
+    "href": "presentation/JMP/03-data.html#crc-context-dist",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Context on Costa Rica GAM",
+    "text": "Context on Costa Rica GAM\n\n\n Administrative Map\n\n Topographic Map"
+  },
+  {
+    "objectID": "presentation/JMP/03-data.html#student-data",
+    "href": "presentation/JMP/03-data.html#student-data",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Data",
+    "text": "Data\nMajor Choice Data\n\nIndividual applications (n = 230,162)\n\nYears: 2010 - 2019\nLocation: 434 Districts Country Central Valley\nMajors are grouped into broad bins using UNESCO education categories\n\n\n\n\nSTEM & Applied Sciences\n\n\nNatural Sciences\nEngineering\nInformation Technologies\nAgricultural Sciences\nHealth\n\n\n\nSoc. Sci. & Prof. Studies\n\n\nBusiness Administration\nSocial Sciences\nEducation\n\n\n\nArts, Writing, & Service\n\n\nArts\nHumanities\nTourism"
+  },
+  {
+    "objectID": "presentation/JMP/03-data.html#firm-data",
+    "href": "presentation/JMP/03-data.html#firm-data",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Data",
+    "text": "Data\nMultinational Firms\n\nMultinational Firms operating under FTZ regime (n = 253)\nYear of Entry: 2003 - 2019\nLocation: 39 Districts Country Central Valley\nSix Industries (2-digit ISIC)\n\n\n\n\nAdministrative and Support Services\nInformation and Communication\nManufacturing\n\n\n\nWholesale Trade\nProfessional, Scientific and Technical Activities\nTransportation and Warehousing"
+  },
+  {
+    "objectID": "presentation/JMP/03-data.html#location-data",
+    "href": "presentation/JMP/03-data.html#location-data",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Data",
+    "text": "Data\nDistance\n\n\n\n\n\nRoughly half of districts have another district within 5 kilometers, and the curve rises steeply at short distances, indicating dense spatial clustering\n\n\nMeasured as distance between district centroids"
+  },
+  {
+    "objectID": "presentation/JMP/05-main-results.html",
+    "href": "presentation/JMP/05-main-results.html",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "STEM Field Increases in Probability by 52.9 p.p. when going from Low to High Presence Index"
+  },
+  {
+    "objectID": "presentation/JMP/05-main-results.html#mfg-results",
+    "href": "presentation/JMP/05-main-results.html#mfg-results",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "STEM Field Increases in Probability by 52.9 p.p. when going from Low to High Presence Index"
+  },
+  {
+    "objectID": "presentation/JMP/05-main-results.html#admin-results",
+    "href": "presentation/JMP/05-main-results.html#admin-results",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Administrative Services Industry Results",
+    "text": "Administrative Services Industry Results\n\n\n\n\n\nSocial Science and Professional Studies Increases in Probability by 39.81 p.p. when going from Low to High Presence Index"
+  },
+  {
+    "objectID": "presentation/JMP/05-main-results.html#dist-decay-mfg",
+    "href": "presentation/JMP/05-main-results.html#dist-decay-mfg",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Distance Decay",
+    "text": "Distance Decay\n\n\n\n\n\nMultinational firm effects are hyperlocal being concentrated in the 0 to 5 km distance margin\n\nWithin 0 to 5 Km"
+  },
+  {
+    "objectID": "presentation/JMP/05-main-results.html#dist-decay-admin",
+    "href": "presentation/JMP/05-main-results.html#dist-decay-admin",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Distance Decay",
+    "text": "Distance Decay\n\n\n\n\n\nMultinational firm effects are hyperlocal being concentrated in the 0 to 5 km distance margin"
+  },
+  {
+    "objectID": "presentation/JMP/08-appendix.html",
+    "href": "presentation/JMP/08-appendix.html",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "Return"
+  },
+  {
+    "objectID": "presentation/JMP/08-appendix.html#fdi-entry",
+    "href": "presentation/JMP/08-appendix.html#fdi-entry",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "Return"
+  },
+  {
+    "objectID": "presentation/JMP/08-appendix.html#enrollment-trend",
+    "href": "presentation/JMP/08-appendix.html#enrollment-trend",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Costa Rica Tertiary Enrollment",
+    "text": "Costa Rica Tertiary Enrollment\n\n\n\n\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/08-appendix.html#example",
+    "href": "presentation/JMP/08-appendix.html#example",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Application Example",
+    "text": "Application Example\n\n\n\n\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/08-appendix.html#gam-area",
+    "href": "presentation/JMP/08-appendix.html#gam-area",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "GAM",
+    "text": "GAM\n\n\n\n\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/08-appendix.html#gam-size",
+    "href": "presentation/JMP/08-appendix.html#gam-size",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Districts within GAM Size",
+    "text": "Districts within GAM Size\n\n\n\n\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/08-appendix.html#student-map-nation",
+    "href": "presentation/JMP/08-appendix.html#student-map-nation",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Student Location (National)",
+    "text": "Student Location (National)\n\n\n\n\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/08-appendix.html#student-map-central",
+    "href": "presentation/JMP/08-appendix.html#student-map-central",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Student Location (Central Valley)",
+    "text": "Student Location (Central Valley)\n\n\n\n\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/08-appendix.html#firm-map-nation",
+    "href": "presentation/JMP/08-appendix.html#firm-map-nation",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Firm Location (National)",
+    "text": "Firm Location (National)\n\n\n\n\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/08-appendix.html#firm-map-central",
+    "href": "presentation/JMP/08-appendix.html#firm-map-central",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Firm Location (National)",
+    "text": "Firm Location (National)\n\n\n\n\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/08-appendix.html#acs-prob-weights",
+    "href": "presentation/JMP/08-appendix.html#acs-prob-weights",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Probability Attachment Weights Statistics",
+    "text": "Probability Attachment Weights Statistics\n\nData: Annual American Community Survey (ACS) microdata with person-level survey weights\nWeighting: Individual observations weighted to recover population-representative counts by field of study and industry of employment\nLink: Field-of-study shares constructed within industry using weighted counts, aggregated into field of study categories\nField to Industry Mapping: Shares reflect the weighted distribution of degree fields among employed individuals within each industry\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/08-appendix.html#acs-prob-weights-img",
+    "href": "presentation/JMP/08-appendix.html#acs-prob-weights-img",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Probability Attachment Weights Statistics",
+    "text": "Probability Attachment Weights Statistics\n\n\n\n\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/08-appendix.html#first-stage-table",
+    "href": "presentation/JMP/08-appendix.html#first-stage-table",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Extensive Margin Effects",
+    "text": "Extensive Margin Effects\n\n\n\n\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/08-appendix.html#all-ind-results",
+    "href": "presentation/JMP/08-appendix.html#all-ind-results",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "All Industries Results",
+    "text": "All Industries Results\n\n\n\n\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/08-appendix.html#dist-decay-0to5",
+    "href": "presentation/JMP/08-appendix.html#dist-decay-0to5",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Distance Decay (0-5 Km)",
+    "text": "Distance Decay (0-5 Km)\n\n\n\n\n\nPercentage Point Changes in Probability of Field Choice\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/08-appendix.html#hetero-gam-all",
+    "href": "presentation/JMP/08-appendix.html#hetero-gam-all",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Heterogeneity - GAM",
+    "text": "Heterogeneity - GAM\n\n\n\n\n\n\nReturn"
+  },
+  {
+    "objectID": "presentation/JMP/07-conclusion.html",
+    "href": "presentation/JMP/07-conclusion.html",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "Multinationals reshape local incentives to acquire skills\nI ask if this influence impacts students choice of major through being exposed to multinationals\nUsing local exposure to multinational firms, I estimate how exposure to MNC activity shapes field of study application decisions\nResults suggest that students choice of field of study are shifted to those that better align with MNC industry needs\nThis highlights a new channel through which FDI shapes formation of human capital in LMICs"
+  },
+  {
+    "objectID": "presentation/JMP/07-conclusion.html#conclusion",
+    "href": "presentation/JMP/07-conclusion.html#conclusion",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "Multinationals reshape local incentives to acquire skills\nI ask if this influence impacts students choice of major through being exposed to multinationals\nUsing local exposure to multinational firms, I estimate how exposure to MNC activity shapes field of study application decisions\nResults suggest that students choice of field of study are shifted to those that better align with MNC industry needs\nThis highlights a new channel through which FDI shapes formation of human capital in LMICs"
+  },
+  {
+    "objectID": "presentation/JMP/04-empirics.html",
+    "href": "presentation/JMP/04-empirics.html",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "Individuals Utility from Studying in Field of Study (m) is:\n\\[\\begin{equation}\n    U_{idmt} = \\beta_{m} \\Gamma_{dmjt} + \\gamma_{i}X^{'}_{i} + \\alpha_{c} + \\alpha_{t} + \\varepsilon_{idmt}\n\\end{equation}\\]\nSubscripts\n\\(i =\\) individual, \\(\\; d =\\) district-of-residence, \\(\\; m =\\) field of study, \\(\\; j =\\) industry, \\(\\; c =\\) canton, \\(\\; t =\\) year\n\n\\(\\Gamma_{djt}\\): MNC Presence Index\n\n\\(\\beta_{m}\\): Percentage Point Change in the Probability of Choosing Field of Study \\(m\\)\n\n\\(X_{i}^{'}\\): Individual Characteristics Vector\n\nage, sex, high school, unemployment rate, entry score\n\n\\(\\alpha_{c}\\): Canton Fixed Effect\n\\(\\alpha_{t}\\): Year Fixed Effect"
+  },
+  {
+    "objectID": "presentation/JMP/04-empirics.html#students-choice-utility",
+    "href": "presentation/JMP/04-empirics.html#students-choice-utility",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "",
+    "text": "Individuals Utility from Studying in Field of Study (m) is:\n\\[\\begin{equation}\n    U_{idmt} = \\beta_{m} \\Gamma_{dmjt} + \\gamma_{i}X^{'}_{i} + \\alpha_{c} + \\alpha_{t} + \\varepsilon_{idmt}\n\\end{equation}\\]\nSubscripts\n\\(i =\\) individual, \\(\\; d =\\) district-of-residence, \\(\\; m =\\) field of study, \\(\\; j =\\) industry, \\(\\; c =\\) canton, \\(\\; t =\\) year\n\n\\(\\Gamma_{djt}\\): MNC Presence Index\n\n\\(\\beta_{m}\\): Percentage Point Change in the Probability of Choosing Field of Study \\(m\\)\n\n\\(X_{i}^{'}\\): Individual Characteristics Vector\n\nage, sex, high school, unemployment rate, entry score\n\n\\(\\alpha_{c}\\): Canton Fixed Effect\n\\(\\alpha_{t}\\): Year Fixed Effect"
+  },
+  {
+    "objectID": "presentation/JMP/04-empirics.html#index-derivation",
+    "href": "presentation/JMP/04-empirics.html#index-derivation",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Multinational Firm Presence Index",
+    "text": "Multinational Firm Presence Index\n\\[\\begin{align}\n    \\Gamma_{dmjt} = p_{mjt} \\times \\left(\\sum_{d'}\\sum_{j} \\dfrac{\\text{Tenure}_{k(j),d't}}{exp(\\text{dist}_{dd'})} \\right)\n\\end{align}\\]\nSubscripts\n\\(d =\\) district-of-residence, \\(\\; d' =\\) district-of-operation, \\(\\; k(j) =\\) firm \\(\\,k \\,\\) in industry \\(\\, j\\), \\(\\; t =\\) year\n\n\\(\\text{Tenure}_{k(j),d't}\\): Tenure of firm captures how long individual has been aware/exposed to presence of MNC\n\\(exp(\\text{dist}_{dd'})\\): Distance (in km) from student-district to firm-district\n\\(p_{mjt}\\): Industry Attachment Probabilities Distribution Details\n\n\nInd attach probs help link industries to field of study to reflect the fact that there is some sort of alignment between industry and field of study (financial institutions to business, microchip production to engineering, etc.)"
+  },
+  {
+    "objectID": "presentation/JMP/04-empirics.html#first-stage-image",
+    "href": "presentation/JMP/04-empirics.html#first-stage-image",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Extensive Margin Effects Table",
+    "text": "Extensive Margin Effects Table\n\n\n\n\n\nRegress the count of applications by district on MNC Presence Index\nResults suggest there is no extensive margin effect of multinationals on students applying to university"
+  },
+  {
+    "objectID": "presentation/JMP/04-empirics.html#estimation-method",
+    "href": "presentation/JMP/04-empirics.html#estimation-method",
+    "title": "Jose Alberto Rojas Fallas",
+    "section": "Estimation Method",
+    "text": "Estimation Method\n\n\nEstimate the effect of MNC presence on student field of study choice by using a Multinomial Logit Model and then estimating the Average Marginal Effects (AMEs) for each industry\nThis produces estimates that tell us how much the probability of choosing a particular major changes when the MNC Presence Index increases by one unit\n\n\nInterpretation\n\n\nIn this model, an increase of one unit in the index is interpreted as an additional firm-year in the student’s district of residence\n\nThis can be either a new firm entering or an existing firm maturing\n\nFor greater clarity, I report results by exposure level differences\n\nLow \\(\\rightarrow\\) High Exposure\n\nI also report the distance decay showing how hyper-local effects are\n\n\n\nExposure level differences: shows the within-sample effects of exposure\nAs we move from low to average exposure of mfg industries, probabilities of choosing stem grow by 8.75 pp From avg to high exposure, 44.23 pp And from low to high, 52.9"
   }
 ]
