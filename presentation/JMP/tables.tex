@@ -1,0 +1,69 @@
+\documentclass[11pt]{article}
+
+% ---------- Page layout ----------
+\usepackage[margin=1in]{geometry}
+
+% ---------- Packages ----------
+\usepackage{booktabs}        % \toprule \midrule \bottomrule
+\usepackage{threeparttable} % table notes
+\usepackage{amsmath}        % math symbols
+\usepackage{array}          % column formatting
+\usepackage{caption}        % captions
+\usepackage{amssymb}
+\usepackage{multirow}
+
+% ---------- Custom commands ----------
+\newcommand{\sym}[1]{\ifmmode^{#1}\else\(^{#1}\)\fi}
+
+\begin{document}
+
+\begin{table}[htbp]
+\centering
+\caption{Multinational Exposure and University Applications}
+\label{tab:applications}
+
+\begin{threeparttable}
+\begin{tabular}{l*{4}{c}}
+\toprule
+                    & \multicolumn{1}{c}{(1)}
+                    & \multicolumn{1}{c}{(2)}
+                    & \multicolumn{1}{c}{(3)}
+                    & \multicolumn{1}{c}{(4)} \\
+                    & \multicolumn{1}{c}{OLS}
+                    & \multicolumn{1}{c}{OLS}
+                    & \multicolumn{1}{c}{PPML}
+                    & \multicolumn{1}{c}{ln(Applications)} \\
+\midrule
+\multirow{2}{*}{Administration}               &      -0.106         &       0.259         &      0.0180         &      0.0428         \\
+                    &     (0.330)         &     (0.331)         &     (0.117)         &    (0.0715)         \\
+\multirow{2}{*}{Information}         &       1.165\sym{**} &       0.552         &       0.292\sym{**} &       0.161\sym{*}  \\
+                    &     (0.427)         &     (0.286)         &    (0.0935)         &    (0.0752)         \\
+\multirow{2}{*}{Manufacturing}       &     -0.0224         &       0.189         &    -0.00228         &     0.00888         \\
+                    &     (0.146)         &     (0.234)         &    (0.0538)         &    (0.0325)         \\
+\multirow{2}{*}{Prof. Science \& Tech. Services}
+                    &      -0.141         &     -0.0979         &     -0.0562         &     -0.0592         \\
+                    &     (0.296)         &     (0.288)         &     (0.109)         &    (0.0619)         \\
+\multirow{2}{*}{Transportation \& Warehouse}  &       2.284         &      -1.037         &       0.823         &       0.296         \\
+                    &     (2.775)         &     (2.709)         &     (1.053)         &     (0.694)         \\
+\multirow{2}{*}{Wholesale}           &       0.103         &      -1.714\sym{***}&     0.00186         &      0.0709         \\
+                    &     (0.868)         &     (0.485)         &     (0.341)         &     (0.214)         \\
+\midrule
+Observations        &      255{,}260      &      255{,}260      &      255{,}260      &      255{,}260      \\
+\midrule 
+Controls    & \checkmark & \checkmark & \checkmark & \checkmark \\
+District FE & \checkmark & - & \checkmark & \checkmark \\
+Canton FE   & - & \checkmark & - & - \\
+Year FE     & \checkmark & \checkmark & \checkmark & \checkmark \\
+\bottomrule
+\end{tabular}
+
+\begin{tablenotes}[flushleft]
+\footnotesize
+\item Standard errors in parentheses. SEs clustered by district.
+\item \sym{*} \(p<0.05\), \sym{**} \(p<0.01\), \sym{***} \(p<0.001\)
+\end{tablenotes}
+\end{threeparttable}
+
+\end{table}
+
+\end{document}

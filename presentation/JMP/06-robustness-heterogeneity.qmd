@@ -1,0 +1,34 @@
+---
+name: robustness/heterogeneity
+---
+
+## Robustness - Remove Attachment Between Field of Study and Industry
+
+![](images/body/unweighted-graph-alt.jpeg){fig-align="center"} 
+
+[Trends remain similar across industry and field with smaller coefficients]{.h .align-center .tiny}
+
+---
+
+## Heterogeneity - Sex
+
+![](images/body/08-heterogeneity-sex-01.jpeg){fig-align="center"} 
+
+[Multinational Firm effects are not significantly different between men and women]{.h .align-center .tiny}
+
+---
+
+## Heterogeneity - GAM [All Industries](#hetero-gam-all){.button} {#gam-hetero-body}
+
+:::: {.columns}
+::: {.column}
+![](images/body/mfg-heterogeneity-gam.jpeg){height="450"}
+[Manufacturing]{.h .align-center .tiny}
+:::
+::: {.column}
+![](images/body/admin-heterogeneity-gam.jpeg){height="450"}
+[Administrative Services]{.h .align-center .tiny}
+:::
+::::
+
+[Effects are largely concentrated in the Greater Metropolitan Area which aligns with effects being hyperlocal]{.h .align-center .tiny}

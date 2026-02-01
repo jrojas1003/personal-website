@@ -1,0 +1,117 @@
+---
+name: motivation
+---
+
+## Growth of FDI in LMICs
+
+![](images/body/01-fdi-inflows-LMICS.jpeg){fig-align="center"}
+
+[Lower- and Middle-Income Countries (LMICs) have seen an increasing
+rate of fdi inflow in recent decades]{.h .small}
+
+[Source: World Bank]{.h .align-center .tiny}
+
+---
+
+## Tertiary Enrollment Growth in LMICs
+
+![](images/body/02-edu-enrollment-LMICS.jpeg){fig-align="center"}
+
+[Tertiary enrollment rates have increased in LMICs]{.h .small}
+
+[Source: World Bank]{.h .align-center .tiny}
+
+::: {.notes}
+Growth since 2000 not levels (graph error)
+
+Tertiary education is useless by itself, it requires a labor market to complement it
+:::
+
+---
+
+## Research Question {#research-question}
+
+[Hypothesis: Multinational Firms affect skill specialization decisions]{.hp .align-center .big}
+
+::: {.small}
+- I use administrative data of university applications and location of MNCs within industrial parks in Costa Rica from 2010 to 2019
+:::
+
+::: {.align-center}
+[Costa Rica FDI](#fdi-entry){.button} [Costa Rica Tertiary Enrollment](#enrollment-trend){.button}
+:::
+
+<br>
+
+[Identification Strategy]{.hp .align-center .big}
+
+- Spatial and temporal variation in industry composition
+- Distance between students and MNCs
+- [Key Variable:]{.h} Exposure to near MNCs 
+
+::: {.notes}
+Students are aware of all multinational firms in the country, but they receive stronger "signals" from nearby oness
+:::
+
+---
+
+## Preview of Results 
+
+- A shift from low to high exposure to [Manufacturing MNCs]{.hp} increases the probability of choosing a major within [Stem and Applied Sciences by 52.9 p.p.]{.hp} 
+    - [Decreases probability of choosing Arts by 25 p.p. and Social Sciences by 27.9 p.p.]{.h}
+
+::: {.small}
+::: {.faded}
+- A shift from low to high exposure to [Administrative Service MNCs]{.hp} increases the probability of choosing a major within [Social Sciences and Professional Studies by 39.81 p.p.]{.hp}
+    - [Decreases the probability of choosing Arts by 30.58 p.p. and STEM and Applied Sciences by 8.96 p.p.]{.h}
+
+- Directional effects are robust to removing the industry-field mapping
+- Multinational Firm effects are extremely local
+- Heterogeneity tests show no difference between men and women
+:::
+:::
+
+::: {.notes}
+distance decay: Strong within 5km but decays rapidly. Students respond to hyper-local labor-market signals.
+:::
+
+---
+
+## Preview of Results 
+
+::: {.faded .small}
+- A shift from low to high exposure to [Manufacturing MNCs]{.hp} increases the probability of choosing a major within [Stem and Applied Sciences by 52.9 p.p.]{.hp} 
+    - [Decreases probability of choosing Arts by 25 p.p. and Social Sciences by 27.9 p.p.]{.h}
+:::
+
+- A shift from low to high exposure to [Administrative Service MNCs]{.hp} increases the probability of choosing a major within [Social Sciences and Professional Studies by 39.81 p.p.]{.hp}
+    - [Decreases the probability of choosing Arts by 30.58 p.p. and STEM and Applied Sciences by 8.96 p.p.]{.h}
+
+::: {.faded .small}
+- Directional effects are robust to removing the industry-field mapping
+- Multinational Firm effects are extremely local
+- Heterogeneity tests show no difference between men and women
+:::
+
+::: {.notes}
+distance decay: Strong within 5km but decays rapidly. Students respond to hyper-local labor-market signals.
+:::
+
+---
+
+## Preview of Results 
+
+::: {.faded .small}
+- A shift from low to high exposure to [Manufacturing MNCs]{.hp} increases the probability of choosing a major within [Stem and Applied Sciences by 52.9 p.p.]{.hp} 
+    - [Decreases probability of choosing Arts by 25 p.p. and Social Sciences by 27.9 p.p.]{.h}
+- A shift from low to high exposure to [Administrative Service MNCs]{.hp} increases the probability of choosing a major within [Social Sciences and Professional Studies by 39.81 p.p.]{.hp}
+    - [Decreases the probability of choosing Arts by 30.58 p.p. and STEM and Applied Sciences by 8.96 p.p.]{.h}
+:::
+
+- Directional effects are robust to removing the industry-field mapping
+- Multinational Firm effects are extremely local
+- Heterogeneity tests show no difference between men and women
+
+::: {.notes}
+distance decay: Strong within 5km but decays rapidly. Students respond to hyper-local labor-market signals.
+:::

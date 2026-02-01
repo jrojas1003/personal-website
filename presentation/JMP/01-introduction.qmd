@@ -1,0 +1,366 @@
+---
+name: introduction
+---
+
+## Growth of FDI in LMICs
+
+![](images/body/01-fdi-inflows-LMICS.jpeg){fig-align="center"}
+
+[Lower- and Middle-Income Countries (LMICs) have seen an increasing
+rate of fdi inflow in recent decades]{.small}
+
+[Source: World Bank]{.h .align-center .tiny}
+
+---
+
+## Tertiary Enrollment Growth in LMICs
+
+![](images/body/02-edu-enrollment-LMICS.jpeg){fig-align="center"}
+
+[Tertiary enrollment rates have increased in LMICs]{.small}
+
+[Source: World Bank]{.h .align-center .tiny}
+
+::: {.notes}
+Growth since 2000 not levels (graph error)
+
+Tertiary education is useless by itself, it requires a labor market to complement it
+:::
+
+---
+
+## Research Question {#research-question}
+
+[Hypothesis: Multinational Firms affect skill specialization decisions]{.hp .align-center .big}
+
+::: {.small}
+- I use administrative data of university applications and location of MNCs within industrial parks in Costa Rica from 2010 to 2019
+:::
+
+::: {.align-center}
+[Costa Rica FDI](#fdi-entry){.button} [Costa Rica Tertiary Enrollment](#enrollment-trend){.button}
+:::
+
+<br>
+
+[Identification Strategy]{.hp .align-center .big}
+
+- Spatial and temporal variation in industry composition
+- Distance between students and MNCs
+- [Key Variable:]{.h} Exposure to near MNCs 
+
+::: {.notes}
+Students are aware of all multinational firms in the country, but they receive stronger "signals" from nearby oness
+:::
+
+---
+
+## Preview of Results 
+
+::: {.small}
+- A shift from low to high exposure to [Manufacturing MNCs]{.h} increases the probability of choosing a major within [Stem and Applied Sciences by 52.9 p.p.]{.h} 
+    - [Decreases probability of choosing Arts by 25 p.p. and Social Sciences by 27.9 p.p.]{.small}
+- A shift from low to high exposure to [Administrative Service MNCs]{.h} increases the probability of choosing a major within [Social Sciences and Professional Studies by 39.81 p.p.]{.h}
+    - [Decreases the probability of choosing Arts by 30.58 p.p. and STEM and Applied Sciences by 8.96 p.p.]{.small}
+- Directional effects are robust to removing the industry-field mapping
+- MNC effects are extremely local
+- Heterogeneity tests show no difference between men and women
+:::
+
+::: {.notes}
+distance decay: Strong within 5km but decays rapidly. Students respond to hyper-local labor-market signals.
+:::
+
+<!-- ---
+
+## Contributions
+
+[Mechanism of fdi shifting human capital specialization decisions]{.hi-green .align-center}
+
+::: {.vertical-center}
+[Determinants of College Major Choice]{.hp}
+
+- [Wages]{.hi .small} | [Non-pecuniary returns]{.hi .small} | [Ability and preference sorting]{.hi .small} | [Information availability]{.hi .small}
+
+[Effects of increased trade/fdi inflow on local labor markets]{.hp}
+
+- [Increase in skilled labor demand]{.hi .small} | [Skill acquisition decisions]{.hi .small}
+
+:::
+
+
+--- -->
+
+## Contributions
+
+[Mechanism of fdi shifting human capital specialization decisions]{.hi-green .align-center}
+
+[Determinants of College Major Choice]{.hp}
+
+- [Information availability]{.hi .small}
+    - [@jensen_perceived_2010, @kaufmann_understanding_2014]{.tiny}
+- [Wages]{.hi .small}
+    - [@carneiro_estimating_2011, @arcidiacono_modeling_2012, @arcidiacono_ex_2020, @beffy_choosing_2012, @carroll_why_2014, @kirkeboen_field_2016, @bleemer_will_2022]{.tiny}
+- [Non-pecuniary returns]{.hi .small}
+    - [@altonji_demand_1993]{.tiny}
+- [Ability and preference sorting]{.hi .small}
+    - [@arcidiacono_ability_2004, @kinsler_specificity_2015]{.tiny}
+
+---
+
+## Contributions
+
+[Mechanism of fdi shifting human capital specialization decisions]{.hi-green .align-center}
+
+::: {.faded}
+[Determinants of College Major Choice]{.hp .small}
+
+- [Wages]{.hi .small} | [Non-pecuniary returns]{.hi .small} | [Ability and preference sorting]{.hi .small} | [Information availability]{.hi .small}
+:::
+
+[Effects of increased trade/fdi inflow on local labor markets]{.hp}
+
+- [Increase in skilled labor demand]{.hi .small}
+    - [@feenstra_foreign_1997, @JavorcikBeataS.2015DFBG, @alfaro-urena_effects_2021, @setzler_effects_2021]{.tiny}
+- [Skill acquisition decisions]{.hi .small}
+    - [@blanchard_trade_2016]{.tiny}
+
+--- 
+
+## Context on Costa Rica {#crc-context}
+
+[Education]{.hp}
+
+- Public universities require applicants to list their two preferred majors when applying [Example](#example){.button}
+
+    1. Helps identify demand for major, rather than observing equilibrium enrollment outcomes
+    2. Applicants submit demographic information
+ 
+[Multinational Firms]{.hp}
+
+- Costa Rica incentivizes FDI inflows through dedicated Free Trade Zone (FTZ) regime
+
+    1. Firms locate within multinational dedicated industrial parks
+    2. Multiple locations across the country
+
+<!-- ## Distance in Costa Rica {#distance}
+
+::: {.small}
+- Costa Rica has a total area of 51,100 $km^{2}$ (Roughly the size of West Virginia in land mass)
+- Variation in exposure to MNC is identified by distance between student and firm
+- About 60% of the population is concentrated in the Greater Metropolitan Area [Map](#gam-area){.button} [Size](#gam-size){.button}
+- GAM district median size is 8.9 $km^{2}$
+:::
+
+::: {.fragment}
+![](images/body/04-gam-distance-bins.jpeg){fig-align="center" height="400"}
+:::
+
+::: {.notes}
+Roughly the size of West Virginia in land mass
+
+This largely means that although there are large differences, given some huge districts (with remote centroids), that I expect that the results are better aligned with the more densely populated regions 
+
+GAM district median size is 8.9 km2 
+:::
+
+--- -->
+
+## Data {#student-data}
+
+[Major Choice Data]{.hp .big}
+
+- Individual applications (n = 230,162)
+    - [Years:]{.hi} 2010 - 2019
+    - [Location:]{.hi} 434 Districts [Country](#student-map-nation){.button} [Central Valley](#student-map-central){.button}
+    - Majors are grouped into broad bins using UNESCO education categories
+
+:::: {.columns}
+
+::: {.column width="33%"}
+[STEM & Applied Sciences]{.h .small .align-center}
+
+::: {.tiny}
+- Natural Sciences
+- Engineering
+- Information Technologies
+- Agricultural Sciences
+- Health
+:::
+:::
+
+::: {.column width="33%"}
+[Soc. Sci. & Prof. Studies]{.h .small .align-center}
+
+::: {.tiny}
+- Business Administration
+- Social Sciences
+- Education
+:::
+:::
+
+::: {.column width="33%"}
+[Arts, Writing, & Service]{.h .small .align-center}
+
+::: {.tiny}
+- Arts 
+- Humanities
+- Tourism
+:::
+:::
+
+::::
+
+---
+
+## Data {#firm-data}
+
+[Multinational Firms]{.hp .big}
+
+- Multinational Firms operating under FTZ regime (n = 253)
+- [Year of Entry:]{.h} 2003 - 2019
+- [Location:]{.h} 39 Districts [Country](#firm-map-nation){.button} [Central Valley](#firm-map-central){.button}
+- Six Industries (2-digit ISIC)
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- [Administrative and Support Services]{.small}
+- [Information and Communication]{.small}
+- [Manufacturing]{.small}
+:::
+
+::: {.column width="50%"}
+- [Wholesale Trade]{.small}
+- [Professional, Scientific and Technical Activities]{.small}
+- [Transportation and Warehousing]{.small}
+:::
+
+::::
+
+---
+
+## Student's Choice Utility
+
+Individuals Utility from Studying in Field of Study (m) is:
+
+\begin{equation}
+    U_{idmt} = \beta_{m} \Gamma_{djt} + \gamma_{i}X^{'}_{i} + \alpha_{c} + \alpha_{t} + \varepsilon_{idmt}
+\end{equation}
+
+[Subscripts]{.h .align-center .small}
+
+[$i =$ individual, $\; d =$ district-of-residence, $\; m =$  field of study, $\; j =$ industry, $\; c =$ canton, $\; t =$ year]{.tiny .align-center}
+
+- [$\Gamma_{djt}$:]{.h} MNC Presence Index
+    - [$\beta_{m}$:]{.h} [Percentage Point Change in the Probability of Choosing Field of Study $m$]{.small .h}
+- [$X_{i}^{'}$:]{.h} Individual Characteristics Vector
+- [$\alpha_{c}$:]{.h} Canton Fixed Effect
+- [$\alpha_{t}$:]{.h} Year Fixed Effect
+
+---
+
+## Multinational Firm Presence Index
+
+\begin{align}
+    \Gamma_{djt} = p_{mjt} \times \left(\sum_{d'}\sum_{j} \dfrac{\text{Tenure}_{k(j),d't}}{exp(\text{dist}_{dd'})} \right)
+\end{align}
+
+[Subscripts]{.h .align-center .small}
+
+[$d =$ district-of-residence, $\; d' =$ district-of-operation, $\; k(j) =$ firm $\,k \,$ in industry $\, j$, $\; t =$ year]{.tiny .align-center}
+
+- [$\text{Tenure}_{k(j),d't}$:]{.h} Tenure of firm captures how long individual has been aware/exposed to presence of MNC
+
+- [$exp(\text{dist}_{dd'})$:]{.h} Distance (in km) from student-district to firm-district
+
+- [$p_{mjt}$:]{.h} Industry Attachment Probabilities
+
+::: {.notes}
+Ind attach probs help link industries to field of study to reflect the fact that there is some sort of alignment between industry and field of study (financial institutions to business, microchip production to engineering, etc.)
+:::
+
+---
+
+## Estimation Method
+
+::: {.small}
+- Estimate the effect of MNC presence on student field of study choice by using a [Multinomial Logit Model]{.h} and then estimating the [Average Marginal Effects (AMEs)]{.h} for each industry
+
+- This produces estimates that tell us [how much the probability of choosing a particular major changes when the MNC Presence Index increases by one unit]{.h}
+:::
+
+[Interpretation]{.hp .align-center}
+
+- In this model, this is interpreted as [an additional firm-year in the student's district of residence]{.hi}, which is either a new firm entering or an existing firm maturing
+
+- I report results by [exposure level differences]{.hi} [(Low $\rightarrow$ High Exposure)]{.hi .small}
+
+- I also report the [distance decay]{.hi} showing how hyper-local effects are
+
+
+::: {.notes}
+Exposure level differences: shows the within-sample effects of exposure
+
+As we move from low to average exposure of mfg industries, probabilities of choosing stem grow by 8.75 pp
+From avg to high exposure, 44.23 pp
+And from low to high, 52.9  
+:::
+<!-- 
+---
+
+## Main Results
+
+![](images/body/05-main-ames-results-alt.jpeg){fig-align="center"}
+
+[Percentage Point Changes in Probability of Field Choice]{.h .align-center .tiny} -->
+
+## Manufacturing Industry Results [All Industries](#all-ind-results){.button} {#mfg-results}
+
+![](images/body/mfg-low-avg-hi.jpeg){fig-align="center"}
+
+[STEM Field Increases in Probability by 52.9 p.p. when going from Low to High Presence Index]{.h .align-center .tiny}
+
+---
+
+## Administrative Services Industry Results {#admin-results} 
+
+![](images/body/Admin-low-avg-hi.jpeg){fig-align="center"}
+
+[Social Science and Professional Studies Increases in Probability by 39.81 p.p. when going from Low to High Presence Index]{.h .align-center .tiny} 
+
+---
+
+## Distance Decay
+
+![](images/body/06-distance-decay-bars.jpeg){fig-align="center"}
+
+[Percentage Point Changes in Probability of Field Choice]{.h .align-center .tiny}
+
+---
+
+## Robustness - Remove Attachment Between Field of Study and Industry
+
+![](images/body/unweighted-graph-alt-01.jpeg){fig-align="center"} 
+
+[Trends remain similar across industry and field with smaller coefficients]{.h .align-center .tiny}
+
+---
+
+## Heterogeneity - Sex
+
+![](images/body/08-heterogeneity-sex-01.jpeg){fig-align="center"} 
+
+<!-- --- -->
+
+<!-- ## Heterogeneity - GAM 
+
+![](images/body/07-heterogeneity-gam.jpeg){fig-align="center"}  -->
+
+## Conclusion
+
+- Multinationals reshape local incentives to acquire skills
+- I ask if this influence impacts students choice of major through being exposed to multinationals
+- Using local exposure to multinational firms, I estimate how exposure to MNC activity shapes field of study application decisions
+- Results suggest that students choice of field of study are shifted to those that better align with MNC industry needs
+- This highlights a new channel through which FDI shapes formation of human capital in LMICs

@@ -1,0 +1,85 @@
+---
+name: empirics
+---
+
+## Student's Choice Utility
+
+Individuals Utility from Studying in Field of Study (m) is:
+
+\begin{equation}
+    U_{idmt} = \beta_{m} \Gamma_{dmjt} + \gamma_{i}X^{'}_{i} + \alpha_{c} + \alpha_{t} + \varepsilon_{idmt}
+\end{equation}
+
+[Subscripts]{.h .align-center .small}
+
+[$i =$ individual, $\; d =$ district-of-residence, $\; m =$  field of study, $\; j =$ industry, $\; c =$ canton, $\; t =$ year]{.tiny .align-center}
+
+- [$\Gamma_{djt}$:]{.h} MNC Presence Index
+    - [$\beta_{m}$:]{.h} [Percentage Point Change in the Probability of Choosing Field of Study $m$]{.small .h}
+- [$X_{i}^{'}$:]{.h} Individual Characteristics Vector 
+    - [age, sex, high school, unemployment rate, entry score]{.small}
+- [$\alpha_{c}$:]{.h} Canton Fixed Effect
+- [$\alpha_{t}$:]{.h} Year Fixed Effect
+
+---
+
+## Multinational Firm Presence Index {#index-derivation}
+
+\begin{align}
+    \Gamma_{dmjt} = p_{mjt} \times \left(\sum_{d'}\sum_{j} \dfrac{\text{Tenure}_{k(j),d't}}{exp(\text{dist}_{dd'})} \right)
+\end{align}
+
+[Subscripts]{.h .align-center .small}
+
+[$d =$ district-of-residence, $\; d' =$ district-of-operation, $\; k(j) =$ firm $\,k \,$ in industry $\, j$, $\; t =$ year]{.tiny .align-center}
+
+- [$\text{Tenure}_{k(j),d't}$:]{.h} Tenure of firm captures how long individual has been aware/exposed to presence of MNC
+
+- [$exp(\text{dist}_{dd'})$:]{.h} Distance (in km) from student-district to firm-district
+
+- [$p_{mjt}$:]{.h} Industry Attachment Probabilities [Distribution](#acs-prob-weights-img){.button} [Details](#acs-prob-weights){.button} 
+
+::: {.notes}
+Ind attach probs help link industries to field of study to reflect the fact that there is some sort of alignment between industry and field of study (financial institutions to business, microchip production to engineering, etc.)
+:::
+
+---
+
+## Extensive Margin Effects [Table](#first-stage-table){.button} {#first-stage-image}
+
+![](images/body/first-stage-results.jpeg){fig-align="center"}
+
+[Regress the count of applications by district on MNC Presence Index]{.h .tiny .align-center}
+ 
+[Results suggest there is no extensive margin effect of multinationals on students applying to university]{.h .tiny .align-center}
+
+
+---
+
+## Estimation Method
+
+::: {.small}
+- Estimate the effect of MNC presence on student field of study choice by using a [Multinomial Logit Model]{.h} and then estimating the [Average Marginal Effects (AMEs)]{.h} for each industry
+
+- This produces estimates that tell us [how much the probability of choosing a particular major changes when the MNC Presence Index increases by one unit]{.h}
+:::
+
+[Interpretation]{.hp .align-center}
+
+::: {.small}
+- In this model, an increase of one unit in the index is interpreted as [an additional firm-year in the student's district of residence]{.hi} 
+    - This can be either a new firm entering or an existing firm maturing
+
+- For greater clarity, I report results by [exposure level differences]{.hi} 
+    - [Low $\rightarrow$ High Exposure]{.hi .small}
+
+- I also report the [distance decay]{.hi} showing how hyper-local effects are
+:::
+
+::: {.notes}
+Exposure level differences: shows the within-sample effects of exposure
+
+As we move from low to average exposure of mfg industries, probabilities of choosing stem grow by 8.75 pp
+From avg to high exposure, 44.23 pp
+And from low to high, 52.9  
+:::

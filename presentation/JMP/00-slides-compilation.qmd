@@ -1,0 +1,45 @@
+---
+title: "Global Firms, Local Students"
+subtitle: "Multinational Presence Shapes College Major Choice"
+author: Jose Rojas-Fallas
+institute: University of Oregon
+format:
+    revealjs:
+        theme: [default, styles.scss]
+        slide-number: "c"
+        footer: "Multinational Presence Shapes College Major Choice"
+        preview-links: auto
+        code-f  old: false 
+title-slide-attributes: 
+  data-background-position: left
+bibliography: 
+    - FDI-and-College-Major-Choice.bib
+csl: apa.csl
+---
+
+{{< include 01-motivation.qmd >}}
+
+{{< include 02-contribution.qmd >}}
+
+{{< include 03-data.qmd >}}
+
+{{< include 04-empirics.qmd >}}
+
+{{< include 05-main-results.qmd >}}
+
+{{< include 06-robustness-heterogeneity.qmd >}}
+
+{{< include 07-conclusion.qmd >}}
+
+# Appendix {.note .inverse}
+
+{{< include 08-appendix.qmd >}}
+
+
+# References {.inverse .note}
+
+##
+
+::: {.refs}
+
+:::

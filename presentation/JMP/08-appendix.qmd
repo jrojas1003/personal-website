@@ -1,0 +1,155 @@
+## Costa Rica FDI Inflows  {#fdi-entry} 
+
+![](images/appendix/cam-fdi-entry.jpeg){fig-align="center"}
+
+<!-- ::: {.align-center .tiny}
+[Explanation here]{.h} 
+::: -->
+
+::: {.align-center}
+[Return](#research-question){.button}
+:::
+
+---
+
+## Costa Rica Tertiary Enrollment {#enrollment-trend}
+
+![](images/appendix/cam-edu-enrollment.jpeg){fig-align="center"}
+
+::: {.align-center}
+[Return](#research-question){.button}
+:::
+
+---
+
+## Application Example {#example}
+
+![](images/appendix/ucr-major-ranking.png){fig-align="center"}
+
+::: {.align-center}
+[Return](#crc-context){.button}
+:::
+
+---
+
+## GAM {#gam-area}
+
+![](images/appendix/area-estudio-gam.jpg){fig-align="center"}
+
+::: {.align-center}
+[Return](#crc-context-dist){.button}
+:::
+
+---
+
+## Districts within GAM Size {#gam-size}
+
+![](images/appendix/gam-districts-size.jpeg){fig-align="center"}
+
+::: {.align-center}
+[Return](#distance){.button}
+:::
+
+---
+
+## Student Location (National) {#student-map-nation}
+
+![](images/appendix/student-map-total.jpeg){fig-align="center"}
+
+::: {.align-center}
+[Return](#student-data){.button}
+:::
+
+---
+
+## Student Location (Central Valley) {#student-map-central}
+
+![](images/appendix/student-map-central-valley.jpeg){fig-align="center"}
+
+::: {.align-center}
+[Return](#student-data){.button}
+:::
+
+---
+
+## Firm Location (National) {#firm-map-nation}
+
+![](images/appendix/firm-map-total.jpeg){fig-align="center"}
+
+::: {.align-center}
+[Return](#firm-data){.button}
+:::
+
+---
+
+## Firm Location (National) {#firm-map-central}
+
+![](images/appendix/firm-map-central-valley.jpeg){fig-align="center"}
+
+::: {.align-center}
+[Return](#firm-data){.button}
+:::
+
+---
+
+## Probability Attachment Weights Statistics {#acs-prob-weights}
+
+- [Data:]{.hp} Annual American Community Survey (ACS) microdata with person-level survey weights
+- [Weighting:]{.hp} Individual observations weighted to recover population-representative counts by field of study and industry of employment
+- [Link:]{.hp} Field-of-study shares constructed within industry using weighted counts, aggregated into field of study categories 
+
+- [Field to Industry Mapping:]{.hp} Shares reflect the weighted distribution of degree fields among employed individuals within each industry
+
+::: {.align-center}
+[Return](#index-derivation){.button}
+:::
+
+---
+
+## Probability Attachment Weights Statistics {#acs-prob-weights-img}
+
+![](images/appendix/prob-attach-weights-dist.jpeg){fig-align="left"}
+
+::: {.align-center}
+[Return](#index-derivation){.button}
+:::
+
+---
+
+## Extensive Margin Effects {#first-stage-table}
+
+![](images/appendix/first-stage-table.png){fig-align="center"}
+
+::: {.align-center}
+[Return](#first-stage-image){.button}
+:::
+
+## All Industries Results {#all-ind-results}
+
+![](images/appendix/all-low-hi.jpg){fig-align="center"}
+
+::: {.align-center}
+[Return](#mfg-results){.button}
+:::
+
+---
+
+## Distance Decay (0-5 Km) {#dist-decay-0to5}
+
+![](images/body/06-distance-decay-bars.jpeg){fig-align="center"}
+
+[Percentage Point Changes in Probability of Field Choice]{.h .align-center .tiny}
+
+::: {.align-center}
+[Return](#dist-decay-mfg){.button}
+:::
+
+---
+
+## Heterogeneity - GAM {#hetero-gam-all}
+
+![](images/body/07-heterogeneity-gam.jpeg){fig-align="center"}
+
+::: {.align-center}
+[Return](#gam-hetero-body){.button}
+:::

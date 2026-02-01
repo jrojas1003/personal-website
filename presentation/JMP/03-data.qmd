@@ -1,0 +1,127 @@
+---
+name: data
+---
+
+## Context on Costa Rica {#crc-context}
+
+[Education]{.hp}
+
+- Public universities require applicants to list their two preferred majors when applying [Example](#example){.button}
+
+    1. Helps identify demand for major, rather than observing equilibrium enrollment outcomes
+    2. Applicants submit demographic information
+ 
+[Multinational Firms]{.hp}
+
+- Costa Rica incentivizes FDI inflows through dedicated Free Trade Zone (FTZ) regime
+
+    1. Firms locate within multinational dedicated industrial parks
+    2. Multiple locations across the country
+
+---
+
+## Context on Costa Rica [GAM](#gam-area){.button} {#crc-context-dist}
+
+:::: {.columns}
+
+::: {.column}
+![](images/body/crc-distritos.svg){height="500" width="700" fig-align="center"}
+[Administrative Map]{.h .align-center}
+:::
+::: {.column}
+![](images/body/crc-topo.jpg){height="500" width="700" fig-align="center"}
+[Topographic Map]{.h .align-center}
+:::
+
+::::
+
+---
+
+## Data {#student-data}
+
+[Major Choice Data]{.hp .big}
+
+- Individual applications (n = 230,162)
+    - [Years:]{.hi} 2010 - 2019
+    - [Location:]{.hi} 434 Districts [Country](#student-map-nation){.button} [Central Valley](#student-map-central){.button}
+    - Majors are grouped into broad bins using UNESCO education categories
+
+:::: {.columns}
+
+::: {.column width="33%"}
+[STEM & Applied Sciences]{.h .small .align-center}
+
+::: {.tiny}
+- Natural Sciences
+- Engineering
+- Information Technologies
+- Agricultural Sciences
+- Health
+:::
+:::
+
+::: {.column width="33%"}
+[Soc. Sci. & Prof. Studies]{.h .small .align-center}
+
+::: {.tiny}
+- Business Administration
+- Social Sciences
+- Education
+:::
+:::
+
+::: {.column width="33%"}
+[Arts, Writing, & Service]{.h .small .align-center}
+
+::: {.tiny}
+- Arts 
+- Humanities
+- Tourism
+:::
+:::
+
+::::
+
+---
+
+## Data {#firm-data}
+
+[Multinational Firms]{.hp .big}
+
+- Multinational Firms operating under FTZ regime (n = 253)
+- [Year of Entry:]{.h} 2003 - 2019
+- [Location:]{.h} 39 Districts [Country](#firm-map-nation){.button} [Central Valley](#firm-map-central){.button}
+- Six Industries (2-digit ISIC)
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- [Administrative and Support Services]{.small}
+- [Information and Communication]{.small}
+- [Manufacturing]{.small}
+:::
+
+::: {.column width="50%"}
+- [Wholesale Trade]{.small}
+- [Professional, Scientific and Technical Activities]{.small}
+- [Transportation and Warehousing]{.small}
+:::
+
+::::
+
+---
+
+## Data {#location-data}
+
+[Distance]{.hp .big}
+
+![](images/body/nearest-neighbor-dist-cdf.jpeg){fig-align="center"}
+
+[Roughly half of districts have another district within 5 kilometers, and the curve rises steeply at short distances, indicating dense spatial clustering]{.align-center .tiny .h}
+
+
+:::: {.notes}
+- Measured as distance between district centroids
+
+- 
+:::

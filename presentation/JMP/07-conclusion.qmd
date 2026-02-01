@@ -1,0 +1,13 @@
+---
+name: conclusion
+---
+
+## Conclusion
+
+::: {.vertical-center}
+- Multinationals reshape local incentives to acquire skills
+- I ask if this influence impacts students choice of major through being exposed to multinationals
+- Using local exposure to multinational firms, I estimate how exposure to MNC activity shapes field of study application decisions
+- Results suggest that students choice of field of study are shifted to those that better align with MNC industry needs
+- This highlights a new channel through which FDI shapes formation of human capital in LMICs
+:::

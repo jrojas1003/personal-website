@@ -1,0 +1,37 @@
+---
+name: results
+---
+
+## Manufacturing Industry Results [All Industries](#all-ind-results){.button} {#mfg-results}
+
+![](images/body/mfg-low-avg-hi.jpeg){fig-align="center"}
+
+[STEM Field Increases in Probability by 52.9 p.p. when going from Low to High Presence Index]{.h .align-center .tiny}
+
+---
+
+## Administrative Services Industry Results {#admin-results} 
+
+![](images/body/Admin-low-avg-hi.jpeg){fig-align="center"}
+
+[Social Science and Professional Studies Increases in Probability by 39.81 p.p. when going from Low to High Presence Index]{.h .align-center .tiny} 
+
+---
+
+## Distance Decay {#dist-decay-mfg}
+
+![](images/body/mfg-dist-decay.jpeg){fig-align="center"}
+
+[Multinational firm effects are hyperlocal being concentrated in the 0 to 5 km distance margin]{.h .align-center .tiny}
+
+::: {.align-center}
+[Within 0 to 5 Km](#dist-decay-0to5){.button}
+:::
+
+---
+
+## Distance Decay {#dist-decay-admin}
+
+![](images/body/admin-dist-decay.jpeg){fig-align="center"}
+
+[Multinational firm effects are hyperlocal being concentrated in the 0 to 5 km distance margin]{.h .align-center .tiny}
