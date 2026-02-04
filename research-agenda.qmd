@@ -7,7 +7,7 @@ toc: false
 
 ## Job Market Paper
 
-[Latest Draft (11.02.25)](files/documents/Manuscript.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} [Presentation](presentation/JMP/00-slides-compilation.html){target=_blank .btn .btn-primary .btn-lg .cv-download}
+[Latest Draft (02.04.26)](files/documents/Manuscript.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} [Presentation](presentation/JMP/00-slides-compilation.html){target=_blank .btn .btn-primary .btn-lg .cv-download}
 
 :::: {.columns}
 
