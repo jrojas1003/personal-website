@@ -3,7 +3,8 @@ title: Global Firms, Local Students - Multinational Presence Shapes College Majo
 toc: false
 ---
 
-[Latest Draft (02.04.26)](files/documents/JMP-Manuscript.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} [Presentation](files/documents/JMP-slides.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
+[Latest Draft (02.04.26)](files/documents/JMP-Manuscript.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} 
+<!-- [Presentation](files/documents/JMP-slides.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} -->
 
 
 ### Abstract
@@ -22,7 +23,7 @@ These findings highlight an important and previously understudied channel throug
 
 ::: {.column width="50%"}
 
-![](files/images/district-std-err-ames-nowholesale.jpeg){fig-align="right" width=500px height=400px}
+![](files/images/all-low-hi.jpg){fig-align="right" width=500px height=400px}
 
 :::
 
