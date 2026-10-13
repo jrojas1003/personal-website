@@ -4,6 +4,7 @@ toc: false
 
 ## Teaching Experience [Teaching Statement](files/documents/teaching-statement.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 
+
 I have accumulated extensive teaching experience during my time as a PhD Student. 
 The courses I have taught range from foundational economic theory courses, elective courses, and econometric courses; all at the undergraduate level. 
 I have taught them in 4 week and 10 week modules, as well as in-person and online. 
@@ -15,7 +16,7 @@ For example, in my International Economics Course, I periodically have the class
 In order to appeal to make the material more accessible and approachable to students, I have created websites for each course with all the necessary content.
 You can find links to these at each course below.
 
-## Courses as Instructor of Record
+## Courses as Instructor of Record [Summary of Evaluations](files/documents/evaluations.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 
 ### [EC 311: Intermediate Microeconomics]{.hi}
 

@@ -7,7 +7,7 @@ toc: false
 
 ## Job Market Paper
 
-[Latest Draft (02.04.26)](files/documents/Manuscript.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} [Presentation](presentation/JMP/00-slides-compilation.html){target=_blank .btn .btn-primary .btn-lg .cv-download}
+[Latest Draft (09.16.26)](files/documents/JMP-Manuscript.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} [Presentation](presentation/JMP/00-slides-compilation.html){target=_blank .btn .btn-primary .btn-lg .cv-download}
 
 :::: {.columns}
 
@@ -77,7 +77,7 @@ Measuring each canton’s exposure to imports, I find that increased trade expos
 These results highlight that both economic shocks and perceptions of trade influence ideological shifts in developing democracies.
 
 
-[Paper Draft](files/documents/CAFTA-Ideology-Manuscript.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} 
+[Paper Draft](files/documents/CAFTA-Manuscript.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} 
 
 :::
 
@@ -93,6 +93,16 @@ These results highlight that both economic shocks and perceptions of trade influ
 
 ## Works in Progress
 
-[FDI and College Major Choice: A Structural Model]{.header-large}
+[Theory Model of Multinational Firm Presence on College Major Choice]{.header-large}
 
-[eDACAtion: Are Higher Educaiton Attainment Benefits Equally Distributed Amongst Undocumented Youth?]{.header-large}
+[Environmental Policy and FDI Type]{.header-large}
+
+[MEX-US Immigration Modeled as a Heat Diffusion Equation]{.header-large}
+
+[eDACAtion: Are Higher Education Attainment Benefits Equally Distributed Amongst Undocumented Youth?]{.header-large}
+
+[Upward Language Mobility - Immigrant Children Learning English]{.header-large}
+
+[Value of an MLB Arbitration Year]{.header-large}
+
+[National Soccer Leagues Success and National Team Performance]{.header-large}

@@ -1,6 +1,6 @@
 ---
 title: "Jose Alberto Rojas Fallas"
-subtitle: "5th Year PhD Candidate, Economics"
+subtitle: "PhD Candidate, Economics"
 description: "University of Oregon"
 image: files/images/Jose-Profile-Pic2.jpeg
 about:
@@ -29,9 +29,9 @@ about:
 
 [Biography]{.big .hi}
 
-I am a 5th Year PhD Candidate in Economics at the University of Oregon.
+I am a PhD Candidate in Economics at the University of Oregon.
 
-I will be on the Job Market in the 2025-2026 cycle. 
+I will be on the Job Market in the 2026-2027 cycle. 
 
 My research focuses on how trade and foreign investment influence educational choices and political dynamics in low- and middle-income countries.
 
@@ -69,7 +69,7 @@ I am originally from San Jose, Costa Rica.
 [Education]{.large .hi}
 :::
 
-<i class="bi bi-mortarboard" style="font-size: 1.5rem;"></i> PhD in Economics, Expected 2026 
+<i class="bi bi-mortarboard" style="font-size: 1.5rem;"></i> PhD in Economics, Expected 2027
 [University of Oregon]{.small .indent}
   
 <i class="bi bi-mortarboard" style="font-size: 1.5rem;"></i> MS in Economics, 2021  
